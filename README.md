@@ -8,4 +8,4 @@ Catastrophic forgetting in the context of language acquisition: It has been obse
 * `/data` - contains original / raw data as well as minorly pre-processed data
 	* `/cmudict` - contains original CMUDICT data
 	* `/words_to_phones` - contains words and their corresponding ARPAbet pronunciations/spellings in csv format for various languages.
-* [WIP] `/mlp` - contains implementation for baseline model 
+* **[WIP]** `/mlp` - contains implementation for baseline model
