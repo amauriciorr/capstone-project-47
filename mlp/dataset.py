@@ -10,14 +10,12 @@ from tokenizers.models import BPE
 from tokenizers import normalizers
 from tokenizers.normalizers import NFD, StripAccents
 
-word_tokenizer = Tokenizer.from_file("../data/token_encodings/word_tokenizer-eng.json")
-phoneme_tokenizer = Tokenizer.from_file("../data/token_encodings/phoneme_tokenizer-eng.json")
-
 class DataModule(pl.LightningDataModule):
     def __init__(self,  batch_size: int, datafile, seed=100, root='../data/model_ready/csv/', num_data_workers: int=4):
         super().__init__()
-        # self.hparams = classifier_instance.hparams
-        # self.classifier = classifier_instance
+        word_tokenizer = Tokenizer.from_file("../data/token_encodings/word_tokenizer-eng.json")
+        phoneme_tokenizer = Tokenizer.from_file("../data/token_encodings/phoneme_tokenizer-eng.json")
+
         self.seed = seed
         self.datafile = root + datafile
         self.batch_size = batch_size
@@ -26,14 +24,8 @@ class DataModule(pl.LightningDataModule):
         self.val_dataset = None
         self.test_dataset = None
         self.num_data_workers = num_data_workers
-
-        # commenting out for now, unclear if we actually need this
-        # Label Encoder
-        # self.label_encoder = LabelEncoder(
-        #     pd.read_csv(self.hparams.train_csv).label.astype(str).unique().tolist(), 
-        #     reserved_labels=[]
-        # )
-        # self.label_encoder.unknown_index = None
+        self.character_vocab_size = word_tokenizer.get_vocab_size()
+        self.phoneme_vocab_size = phoneme_tokenizer.get_vocab_size()
 
     def get_splits(self, df, seed=None):
         """
