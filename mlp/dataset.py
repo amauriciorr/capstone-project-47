@@ -3,6 +3,7 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset, DataLoader, TensorDataset, RandomSampler
 import pytorch_lightning as pl
+from string import digits
 from typing import Optional
 from tokenizers import Tokenizer
 from tokenizers.models import BPE
@@ -13,7 +14,7 @@ word_tokenizer = Tokenizer.from_file("../data/token_encodings/word_tokenizer-eng
 phoneme_tokenizer = Tokenizer.from_file("../data/token_encodings/phoneme_tokenizer-eng.json")
 
 class DataModule(pl.LightningDataModule):
-    def __init__(self,  batch_size: int, datafile, seed=100, root='/data/model_ready/csv/', num_data_workers: int=4):
+    def __init__(self,  batch_size: int, datafile, seed=100, root='../data/model_ready/csv/', num_data_workers: int=4):
         super().__init__()
         # self.hparams = classifier_instance.hparams
         # self.classifier = classifier_instance
@@ -61,7 +62,7 @@ class DataModule(pl.LightningDataModule):
         word_ids = torch.tensor([x.ids for x in words], dtype=torch.long)
         phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.long)
         label_ids = torch.tensor([x.ids for x in labels], dtype=torch.long)
-        return torch.TensorDataset(word_ids, phoneme_ids, label_ids)
+        return TensorDataset(word_ids, phoneme_ids, label_ids)
 
 
     def setup(self, stage: Optional[str]=None) -> None:
