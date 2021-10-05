@@ -61,7 +61,7 @@ class DataModule(pl.LightningDataModule):
         word_ids = torch.tensor([x.ids for x in words], dtype=torch.int8)
         phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.int8)
         label_ids = torch.tensor([x.ids for x in labels], dtype=torch.int8)
-        return torch.Dataset(word_ids, phoneme_ids, label_ids)
+        return torch.TensorDataset(word_ids, phoneme_ids, label_ids)
 
 
     def setup(self, stage: Optional[str]=None) -> None:
