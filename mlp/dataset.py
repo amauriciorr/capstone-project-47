@@ -58,9 +58,9 @@ class DataModule(pl.LightningDataModule):
         words = word_tokenizer.encode_batch(list(df['word'].values))
         phonemes = phoneme_tokenizer.encode_batch(list(df['phonemes'].values))
         labels = phoneme_tokenizer.encode_batch(list(df['label'].values))
-        word_ids = torch.tensor([x.ids for x in words], dtype=torch.int8)
-        phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.int8)
-        label_ids = torch.tensor([x.ids for x in labels], dtype=torch.int8)
+        word_ids = torch.tensor([x.ids for x in words], dtype=torch.long)
+        phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.long)
+        label_ids = torch.tensor([x.ids for x in labels], dtype=torch.long)
         return torch.TensorDataset(word_ids, phoneme_ids, label_ids)
 
 
