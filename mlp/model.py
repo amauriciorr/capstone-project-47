@@ -12,22 +12,22 @@ import torchmetrics
 @dataclasses.dataclass
 class MLPModelConfig:
     embedding_size: int = 128
-    # assuming we're starting with english
-    character_size: int = 26
-    #need to change to correct phoneme size / # of distinct phonemes
-    phoneme_size: int = 39
+    character_size: Optional[int] = None
+    phoneme_size: Optional[int] = None
 
 @dataclasses.dataclass
 class MLPOptimConfig:
-    # learning_rate: float = 1e-2
-    # weight_decay: float = 1e-5
     learning_rate: float = 1e-3
-    weight_decay: float = 0.0
+    weight_decay: float = 1e-5
     grad_clip_norm: Optional[float] = None
 
 
 @dataclasses.dataclass
 class MLPDataConfig:
+    # base case will always start with english 
+    # then we will seek to either leverage transfer learning
+    # with same task on another language or return to english.
+    datafile: str = 'processed_english.csv'
     dataset_size: Optional[int] = None
     num_workers: int = 4
 
@@ -50,11 +50,17 @@ class MLP(pl.LightningModule):
         if not isinstance(config, omegaconf.DictConfig):
             config = omegaconf.OmegaConf.structured(config)
 
+        # note: below function call makes hparams available in other functions
+        # see configure_optimizer for our current usage
+        # see https://pytorch-lightning.readthedocs.io/en/latest/common/hyperparameters.html#lightningmodule-hyperparameters
+        # for more information.
         self.save_hyperparameters(config)
         self.criterion = torch.nn.CrossEntropyLoss()
         self.accuracy_top1 = torchmetrics.Accuracy(num_classes=config.model.phoneme_size)
-        # need to add config or hparams specifying vocab_size, embedding_dim, padding_idx
-        # make sure to make embedding_dim same across both!
+        # embedding_dim need to be same across both character and phoneme embeddings 
+        # since we're looking to concatenate them before doing forward-pass. note: although embeddings
+        # are the same size, they are not learned together, i.e. phoneme embeddings are learned
+        # independently of character embeddings.
         self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size)
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size)
         self.layers = nn.Sequential(
@@ -86,7 +92,6 @@ class MLP(pl.LightningModule):
 
     def validation_step(self, batch, *_):
         loss, _ = self._compute_loss(batch)
-
         self.log('val/loss', loss)
 
     def configure_optimizers(self):
@@ -94,7 +99,7 @@ class MLP(pl.LightningModule):
         optimizer = torch.optim.Adam(self.parameters(), lr=base_lr, weight_decay=hparams.optim.weight_decay)
         steps_per_epoch = (self.hparams.data.dataset_size + self.hparams.batch_size - 1) // self.hparams.batch_size
          lr_scheduler = torch.optim.lr_scheduler.OneCycleLR(
-            opt,
+            optimizer,
             max_lr=base_lr * 10,
             epochs=self.hparams.max_epochs,
             steps_per_epoch=steps_per_epoch)
@@ -105,4 +110,5 @@ class MLP(pl.LightningModule):
             'frequency': 1
         }
 
-        return [opt], [scheduler_config]
+        return [optimizer], [scheduler_config]
+
