@@ -66,6 +66,7 @@ class MLP(pl.LightningModule):
                                                 padding_idx=config.model.character_padding_idx)
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
                                               padding_idx=config.model.phoneme_padding_idx)
+        # consider making a wider model!
         self.layers = nn.Sequential(
             nn.Linear(config.model.embedding_size, 64),
             nn.ReLU(),
@@ -76,8 +77,16 @@ class MLP(pl.LightningModule):
 
 
     def forward(self, characters, phoneme):
+        # WIP
+        # idea is to scale / normalize embedding vectors by word- or phoneme-length (respectively)
+        # then concat two vectors before doing forward-pass through linear layers
+        word_lengths = torch.sum(characters != self.hparams.model.character_padding_idx, dim=1)
         word_representation = self.character_embedding(characters)
+        word_representation = torch.sum(word_representation, dim=1)
+
+        phone_lengths = torch.sum(phoneme != self.hparams.model.phoneme_padding_idx, dim=1)
         phone_representation = self.phoneme_embedding(phoneme)
+        phone_representation = torch.sum(phone_representation, dim=1)
         word = torch.cat([word_representation, phone_representation])
         return self.layers(word)
 
