@@ -3,7 +3,6 @@ from typing import Any, Dict, Optional
 
 import omegaconf
 import pytorch_lightning as pl
-import torchvision
 import torch
 from torch import nn
 import torchmetrics
