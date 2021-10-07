@@ -23,8 +23,8 @@ class DataModule(pl.LightningDataModule):
         self.val_dataset = None
         self.test_dataset = None
         self.num_data_workers = num_data_workers
-        self.character_vocab_size = word_tokenizer.get_vocab_size()
-        self.phoneme_vocab_size = phoneme_tokenizer.get_vocab_size()
+        self.character_vocab_size = self.word_tokenizer.get_vocab_size()
+        self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
 
     def get_splits(self, df, seed=None):
         """
