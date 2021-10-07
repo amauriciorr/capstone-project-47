@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import torch
@@ -9,6 +10,9 @@ from tokenizers import Tokenizer
 from tokenizers.models import BPE
 from tokenizers import normalizers
 from tokenizers.normalizers import NFD, StripAccents
+
+# see https://github.com/huggingface/transformers/issues/5486 for context
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 class DataModule(pl.LightningDataModule):
     def __init__(self,  batch_size: int, datafile, seed=100, root='/model_ready/csv/', num_data_workers: int=4):
