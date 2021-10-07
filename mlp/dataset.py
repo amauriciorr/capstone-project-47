@@ -13,9 +13,8 @@ from tokenizers.normalizers import NFD, StripAccents
 class DataModule(pl.LightningDataModule):
     def __init__(self,  batch_size: int, datafile, seed=100, root='../data/model_ready/csv/', num_data_workers: int=4):
         super().__init__()
-        word_tokenizer = Tokenizer.from_file("../data/token_encodings/word_tokenizer-eng.json")
-        phoneme_tokenizer = Tokenizer.from_file("../data/token_encodings/phoneme_tokenizer-eng.json")
-
+        self.word_tokenizer = Tokenizer.from_file("../data/token_encodings/word_tokenizer-eng.json")
+        self.phoneme_tokenizer = Tokenizer.from_file("../data/token_encodings/phoneme_tokenizer-eng.json")
         self.seed = seed
         self.datafile = root + datafile
         self.batch_size = batch_size
@@ -48,9 +47,9 @@ class DataModule(pl.LightningDataModule):
         return train, validate, test
 
     def tokenize_data(self, df):
-        words = word_tokenizer.encode_batch(list(df['word'].values))
-        phonemes = phoneme_tokenizer.encode_batch(list(df['phonemes'].values))
-        labels = phoneme_tokenizer.encode_batch(list(df['label'].values))
+        words = self.word_tokenizer.encode_batch(list(df['word'].values))
+        phonemes = self.phoneme_tokenizer.encode_batch(list(df['phonemes'].values))
+        labels = self.phoneme_tokenizer.encode_batch(list(df['label'].values))
         word_ids = torch.tensor([x.ids for x in words], dtype=torch.long)
         phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.long)
         label_ids = torch.tensor([x.ids for x in labels], dtype=torch.long)
