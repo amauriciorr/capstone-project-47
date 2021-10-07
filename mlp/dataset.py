@@ -13,16 +13,16 @@ from tokenizers.normalizers import NFD, StripAccents
 class DataModule(pl.LightningDataModule):
     def __init__(self,  batch_size: int, datafile, seed=100, root='/model_ready/csv/', num_data_workers: int=4):
         super().__init__()
-        self.word_tokenizer = Tokenizer.from_file("/token_encodings/word_tokenizer-eng.json")
-        self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
         self.seed = seed
-        self.datafile = root + datafile
-        self.batch_size = batch_size
         self.root = root
+        self.datafile = self.root + datafile
+        self.batch_size = batch_size
         self.train_dataset = None
         self.val_dataset = None
         self.test_dataset = None
         self.num_data_workers = num_data_workers
+        self.word_tokenizer = Tokenizer.from_file("/token_encodings/word_tokenizer-eng.json")
+        self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
         self.character_vocab_size = self.word_tokenizer.get_vocab_size()
         self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
 
