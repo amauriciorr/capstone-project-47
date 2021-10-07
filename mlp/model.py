@@ -98,7 +98,7 @@ class MLP(pl.LightningModule):
         base_lr = self.hparams.optim.learning_rate / 256 * self.hparams.batch_size
         optimizer = torch.optim.Adam(self.parameters(), lr=base_lr, weight_decay=hparams.optim.weight_decay)
         steps_per_epoch = (self.hparams.data.dataset_size + self.hparams.batch_size - 1) // self.hparams.batch_size
-         lr_scheduler = torch.optim.lr_scheduler.OneCycleLR(
+        lr_scheduler = torch.optim.lr_scheduler.OneCycleLR(
             optimizer,
             max_lr=base_lr * 10,
             epochs=self.hparams.max_epochs,
