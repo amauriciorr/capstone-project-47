@@ -12,7 +12,9 @@ import torchmetrics
 class MLPModelConfig:
     embedding_size: int = 128
     character_size: Optional[int] = None
+    character_padding_idx: Optional[int] = None
     phoneme_size: Optional[int] = None
+    phoneme_padding_idx: Optional[int] = None
 
 @dataclasses.dataclass
 class MLPOptimConfig:
@@ -60,8 +62,10 @@ class MLP(pl.LightningModule):
         # since we're looking to concatenate them before doing forward-pass. note: although embeddings
         # are the same size, they are not learned together, i.e. phoneme embeddings are learned
         # independently of character embeddings.
-        self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size)
-        self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size)
+        self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size,
+                                                padding_idx=config.model.character_padding_idx)
+        self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
+                                              padding_idx=config.model.phoneme_padding_idx)
         self.layers = nn.Sequential(
             nn.Linear(config.model.embedding_size, 64),
             nn.ReLU(),

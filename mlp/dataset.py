@@ -29,6 +29,8 @@ class DataModule(pl.LightningDataModule):
         self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
         self.character_vocab_size = self.word_tokenizer.get_vocab_size()
         self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
+        self.character_padding_idx = self.word_tokenizer.get_vocab()['*']
+        self.phoneme_padding_idx = self.phoneme_tokenizer.get_vocab()['*']
 
     def get_splits(self, df, seed=None):
         """

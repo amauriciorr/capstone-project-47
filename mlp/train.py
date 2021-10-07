@@ -25,7 +25,10 @@ def main(config):
     dm.setup()
     config.data.dataset_size = len(dm.train_dataset)
     config.model.character_size = dm.character_vocab_size
+    config.model.character_padding_idx = dm.character_padding_idx
     config.model.phoneme_size = dm.phoneme_vocab_size
+    config.model.phoneme_padding_idx = dm.phoneme_padding_idx
+
 
     word_2_phone_model = model.MLP(config)
     trainer.fit(word_2_phone_model, datamodule=dm)
