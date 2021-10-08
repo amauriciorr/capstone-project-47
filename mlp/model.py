@@ -10,7 +10,7 @@ import torchmetrics
 
 @dataclasses.dataclass
 class MLPModelConfig:
-    embedding_size: int = 128
+    embedding_size: int = 256
     character_size: Optional[int] = None
     character_padding_idx: Optional[int] = None
     phoneme_size: Optional[int] = None
@@ -50,47 +50,53 @@ class MLP(pl.LightningModule):
 
         if not isinstance(config, omegaconf.DictConfig):
             config = omegaconf.OmegaConf.structured(config)
-
-        # note: below function call makes hparams available in other functions
-        # see configure_optimizer for our current usage
-        # see https://pytorch-lightning.readthedocs.io/en/latest/common/hyperparameters.html#lightningmodule-hyperparameters
-        # for more information.
+        """
+        save_hyperparameters() call makes hparams available in other functions
+        see https://pytorch-lightning.readthedocs.io/en/latest/common/hyperparameters.html#lightningmodule-hyperparameters
+        for more information.
+        """
         self.save_hyperparameters(config)
         self.criterion = torch.nn.CrossEntropyLoss()
         self.accuracy_top1 = torchmetrics.Accuracy(num_classes=config.model.phoneme_size)
-        # embedding_dim need to be same across both character and phoneme embeddings 
-        # since we're looking to concatenate them before doing forward-pass. note: although embeddings
-        # are the same size, they are not learned together, i.e. phoneme embeddings are learned
-        # independently of character embeddings.
+        # same size embedding dim is arbitrary, though is also a choice based off convenience.
         self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size,
                                                 padding_idx=config.model.character_padding_idx)
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
                                               padding_idx=config.model.phoneme_padding_idx)
-        # consider making a wider model!
+        """
+        we multiply embedding size by 2 in first nn.Linear() layer since we plan to concatenate 
+        both embedding vectors in the forward pass
+        """
         self.layers = nn.Sequential(
-            nn.Linear(config.model.embedding_size, 64),
+            nn.Linear(config.model.embedding_size * 2, 256),
             nn.ReLU(),
-            nn.Linear(64, 32),
+            nn.Linear(256, 128),
             nn.ReLU(),
-            nn.Linear(32, config.model.phoneme_size)
+            nn.Linear(128, config.model.phoneme_size)
         )
 
 
-    def forward(self, characters, phoneme):
-        # WIP
-        # idea is to scale / normalize embedding vectors by word- or phoneme-length (respectively)
-        # then concat two vectors before doing forward-pass through linear layers
-        word_lengths = torch.sum(characters != self.hparams.model.character_padding_idx, dim=1)
-        word_representation = self.character_embedding(characters)
+    def forward(self, word, phoneme):
+        """
+        idea is to scale / normalize embedding vectors by word- or phoneme-length (respectively)
+        then concat two vectors before doing forward-pass through linear layers. we get "true" 
+        lengths by counting vector values not equal to padding index.
+        """
+        word_lengths = torch.sum(word != self.hparams.model.character_padding_idx, dim=1)
+        word_representation = self.character_embedding(word)
         word_representation = torch.sum(word_representation, dim=1)
+        word_representation /= word_lengths.view(word_lengths.size()[0], 1).expand_as(word_representation).float()
 
         phone_lengths = torch.sum(phoneme != self.hparams.model.phoneme_padding_idx, dim=1)
         phone_representation = self.phoneme_embedding(phoneme)
         phone_representation = torch.sum(phone_representation, dim=1)
-        word = torch.cat([word_representation, phone_representation])
+        phone_representation /= phone_lengths.view(phone_lengths.size()[0], 1).expand_as(phone_representation).float()
+
+        word = torch.cat([word_representation, phone_representation], dim=1)
         return self.layers(word)
 
     def _compute_loss(self, batch):
+        # TO-DO: incorporate penalty based on phoneme distance measure
         word, phoneme, label = batch
         logits = self(word, phoneme)
         loss = self.criterion(logits, label)
