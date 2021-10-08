@@ -99,7 +99,7 @@ class MLP(pl.LightningModule):
         # TO-DO: incorporate penalty based on phoneme distance measure
         word, phoneme, label = batch
         logits = self(word, phoneme)
-        loss = self.criterion(logits, label)
+        loss = self.criterion(torch.argmax(logits, 1), label)
         accuracy = self.accuracy_top1(logits, label)
         return loss, accuracy
 
