@@ -56,7 +56,8 @@ class MLP(pl.LightningModule):
         for more information.
         """
         self.save_hyperparameters(config)
-        self.criterion = torch.nn.CrossEntropyLoss()
+        self.criterion = nn.CrossEntropyLoss()
+        self.softmax = nn.Softmax()
         self.accuracy_top1 = torchmetrics.Accuracy(num_classes=config.model.phoneme_size)
         # same size embedding dim is arbitrary, though is also a choice based off convenience.
         self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size,
@@ -99,8 +100,9 @@ class MLP(pl.LightningModule):
         # TO-DO: incorporate penalty based on phoneme distance measure
         word, phoneme, label = batch
         logits = self(word, phoneme)
-        loss = self.criterion(torch.argmax(logits, 1), label)
-        accuracy = self.accuracy_top1(logits, label)
+        loss = self.criterion(logits, label.squeeze())
+        predictions = torch.argmax(self.softmax(logits), dim=1)
+        accuracy = self.accuracy_top1(predictions, label.squeeze())
         return loss, accuracy
 
     def training_step(self, batch, *_):
