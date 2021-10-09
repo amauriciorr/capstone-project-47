@@ -29,8 +29,8 @@ class DataModule(pl.LightningDataModule):
         self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
         self.character_vocab_size = self.word_tokenizer.get_vocab_size()
         self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
-        self.character_padding_idx = self.word_tokenizer.get_vocab()['*']
-        self.phoneme_padding_idx = self.phoneme_tokenizer.get_vocab()['*']
+        self.character_padding_idx = self.word_tokenizer.get_vocab()['PAD']
+        self.phoneme_padding_idx = self.phoneme_tokenizer.get_vocab()['PAD']
 
     def get_splits(self, df, seed=None):
         """
@@ -53,9 +53,13 @@ class DataModule(pl.LightningDataModule):
         return train, validate, test
 
     def tokenize_data(self, df):
+        # minor pre-processing done since we are no longer using BPE
+        df['word'] = df['word'].map(lambda row: ' '.join(list(row.strip())))
+
         words = self.word_tokenizer.encode_batch(list(df['word'].values))
         phonemes = self.phoneme_tokenizer.encode_batch(list(df['phonemes'].values))
         labels = self.phoneme_tokenizer.encode_batch(list(df['label'].values))
+
         word_ids = torch.tensor([x.ids for x in words], dtype=torch.long)
         phoneme_ids = torch.tensor([x.ids for x in phonemes], dtype=torch.long)
         label_ids = torch.tensor([x.ids for x in labels], dtype=torch.long)
