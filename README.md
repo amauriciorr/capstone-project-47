@@ -8,4 +8,7 @@ Catastrophic forgetting in the context of language acquisition: It has been obse
 * `/data` - contains original / raw data as well as minorly pre-processed data
 	* `/cmudict` - contains original CMUDICT data
 	* `/words_to_phones` - contains words and their corresponding ARPAbet pronunciations/spellings in csv format for various languages.
-* **[WIP]** `/mlp` - contains implementation for baseline model
+* `/mlp` - contains implementation for multilayer perceptron baseline model
+	* `dataset.py` - lightning data module for tokenizing data and preparing dataloaders
+	* `model.py` - defines mlp model (forward-pass, training + validation steps, loss function, etc.) along with various config params
+	* `train.py` - contains `main()` method for initializing mlp model and training.
