@@ -57,7 +57,7 @@ class MLP(pl.LightningModule):
         """
         self.save_hyperparameters(config)
         self.criterion = nn.CrossEntropyLoss()
-        self.softmax = nn.Softmax()
+        self.softmax = nn.Softmax(dim=1)
         self.accuracy_top1 = torchmetrics.Accuracy(num_classes=config.model.phoneme_size)
         # same size embedding dim is arbitrary, though is also a choice based off convenience.
         self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size,
