@@ -1,0 +1,7007 @@
+word,phonemes,label
+strápils,start S T,R
+afmælisdagur,start AE M AE IH,L
+spergilkál,start S P,EH
+stilling,start S,T
+styrkleiki,start S T IH,K
+sár,start,S
+meingjörð,start M EH IH N AE R DH,stop
+binda,start,P
+handrið,start HH AE N T R,IH
+friðill,start F R IH DH IH T,L
+miðjarðarhaf,start M IH,DH
+húsdýr,start,HH
+tilfinningalaus,start T IH L F IH N IH NG K AE L,S
+undirflokkur,start N T IH F L AO HH K,R
+húsnæði,start HH UW S N AE,IH
+klukkustund,start,K
+fjöldamorð,start F Y AE L,T
+orðsending,start AO R DH S EH,N
+næringarfræðingur,start N AE IH R IH NG K AE R F R AE IH DH IH NG K R,stop
+hávaði,start HH AE UW V AE DH IH,stop
+jarðsaga,start Y AE R DH S,AE
+hermaður,start HH EH R M AE DH,R
+bakpoki,start P,AE
+margþættur,start M AE,R
+lortur,start L,AO
+hrognamál,start AO,K
+ögmundína,start AE M N T IH,N
+tilfinningaleysi,start T IH L F IH N IH NG K AE L EH,IH
+bylgjulengd,start P IH L L EH,IH
+efna,start EH P N,AE
+heiði,start HH EH IH DH,IH
+hallarvirki,start HH AE T L AE R V IH,IH
+tignarlegur,start T IH K N AE R L EH R,stop
+stuttermabolur,start S T,HH
+hljóðkerfisfræði,start Y,OH
+gerður,start EH,R
+burnirót,start P R T N IH R OH,UW
+nesti,start N EH S T IH,stop
+arður,start,AE
+ljós,start L Y,OH
+prófastur,start P R OH UW V AE,S
+veif,start V EH IH V,stop
+hraðbraut,start,AE
+loppa,start L AO HH,P
+róteind,start R OH,UW
+okkar,start AO HH K R,stop
+orðskviður,start AO R DH S K V IH DH,R
+panta,start,P
+ganamaður,start K AE,N
+fenómen,start F EH,N
+grund,start K R N,T
+líta,start,L
+milljónamæringur,start M IH L Y OH UW N AE M AE IH R IH,NG
+teppa,start T EH HH,P
+kássa,start K,AE
+fágaður,start F AE UW AE DH R,stop
+athugasemd,start AE T,HH
+ákveðinn,start AE UW K V EH DH IH N,stop
+kirkjuendir,start IH K Y EH N,T
+lifa,start L IH V AE,stop
+geipa,start EH IH P AE,stop
+orðfræði,start AO R DH F R,AE
+reisa,start R,EH
+geysa,start,EH
+húka,start HH UW K AE,stop
+persónufornafn,start P EH S OH UW N,F
+þessalía,start,TH
+klaufalegur,start K L V AE,L
+barmur,start P AE R,M
+hvar,start K V AE R,stop
+staðaratviksorð,start S T AE DH AE R AE T V,IH
+menntun,start M EH,T
+grikkland,start K R IH HH K,L
+gjalda,start AE L,T
+afturkræfur,start AE F T R K R AE IH V,R
+snertill,start S N EH T,IH
+útlenskur,start UW,T
+kúlulega,start K UW L L EH,AE
+manna,start M AE N,AE
+leigubíll,start L EH IH P IH T L,stop
+bloti,start P L AO T IH,stop
+ólöf,start OH UW L AE,V
+flagasóley,start,F
+þankastrik,start TH AE UW K AE S,T
+kontrafagott,start K AO T R AE F AE K AO HH,T
+íhaldssamur,start IH HH AE L,T
+hvítmosi,start K V IH T M,AO
+joð,start Y AO DH,stop
+fyrirgera,start F,IH
+innflytjandi,start IH N F L IH T Y AE N,T
+demba,start T EH M P AE,stop
+taka,start,T
+grunur,start,K
+réttlæti,start R Y EH HH T,L
+einhjól,start EH IH N OH UW L,stop
+misþyrming,start M IH S TH IH R M,IH
+úkraína,start UW K,R
+dömubindi,start T AE,M
+lokkur,start L AO HH K,R
+móðurmál,start M OH UW,DH
+jarðskjálftafræði,start Y AE R DH S,AE
+spánn,start,S
+ljóstýra,start L Y OH UW S,T
+atviksorð,start AE T V IH K S AO R,DH
+mögur,start M,AE
+lágarfi,start L,AE
+plága,start P L AE UW AE,stop
+prímtala,start P R IH M T AE L,AE
+einstaklingur,start EH IH N S,T
+kærasta,start AE IH R AE S T AE,stop
+rakafullur,start,R
+íslendingur,start IH S T L EH N T IH NG,K
+gráelri,start K R AE UW EH L R,IH
+mjölnir,start M Y AE L N IH,R
+prakt,start,P
+músareyra,start M UW S AE R EH IH,R
+kamelljón,start K AE M EH L L,Y
+fimur,start F IH M,R
+ólífa,start OH UW L IH V AE,stop
+knattspyrnukona,start K N,AE
+ok,start,AO
+gjaldeyrir,start AE L T EH IH R IH,R
+þorlákur,start TH AO R L,AE
+fæla,start F AE,IH
+fúga,start F,UW
+klumpur,start,K
+svæfill,start S V AE IH V IH T L,stop
+afbrigði,start AE V,P
+strengur,start S T R EH IH,NG
+iðngrein,start IH DH N,K
+plástur,start P L AE UW S T R,stop
+einfaldlega,start EH IH N F AE L T L EH,AE
+peysa,start,P
+hægð,start HH AE IH DH,stop
+sitkagreni,start S IH T K,AE
+sakleysi,start S AE K L EH,IH
+friða,start F,R
+óska,start OH UW S,K
+slúta,start S T,L
+grænukorn,start,K
+stjörnuspá,start S T,Y
+brottför,start P R AO HH T F AE R,stop
+vætla,start,V
+skófla,start S,K
+afríkanska,start AE F R IH K AE N S K AE,stop
+felga,start,F
+hakka,start HH AE K K AE,stop
+jurt,start,Y
+verð,start V EH R DH,stop
+knattspyrnuþjálfari,start K N AE HH T S P IH R T,N
+morgunmatur,start M AO R,K
+portúgali,start P AO T UW,K
+vindmylla,start V IH N T M,IH
+té,start T Y,EH
+bylting,start P IH T IH,NG
+daníel,start T AE N IH Y,EH
+hylling,start HH IH T,L
+flag,start F L AE,stop
+byrja,start P,IH
+skjóða,start S OH UW DH,AE
+hringtorg,start IH NG K T,AO
+skemmd,start,S
+stígur,start S T,IH
+öðlast,start AE DH L AE,S
+jafnvægi,start Y AE P N V AE IH Y IH,stop
+kaplamjólk,start K AE HH P L AE M Y OH,UW
+vetni,start V EH HH,T
+brynjólfína,start P R IH,N
+háfur,start HH AE UW V,R
+seiva,start S EH IH V,AE
+mega,start M,EH
+þrauka,start TH R K,AE
+skelfa,start S EH L V AE,stop
+rekill,start R,EH
+baka,start P AE,K
+spilling,start S P IH T L IH NG,K
+æska,start,AE
+andvarp,start,AE
+þrugla,start TH,R
+laugardagur,start L,AE
+piparsveinn,start P IH P,AE
+þolandi,start,TH
+afturelding,start AE,F
+bensín,start P EH,N
+atgervi,start AE T EH R V,IH
+greinilega,start K R,EH
+þil,start TH,IH
+lopapeysa,start L AO P AE,P
+háls,start HH AE,UW
+værð,start V AE IH R DH,stop
+skrifa,start S K,R
+naust,start N,S
+hróný,start OH UW N,IH
+skírnarfontur,start S IH R T N AE,R
+líffræðingur,start L IH F,F
+yfirdrepsskapur,start IH V,IH
+sópa,start S OH UW P,AE
+þáttaskil,start TH AE UW HH T AE,S
+kvittun,start K V IH HH T,N
+konráð,start K,AO
+stigi,start S T IH IH Y IH,stop
+malmquist,start M AE,L
+veill,start V EH IH T L,stop
+sparnaður,start S P,AE
+tilfinningalegur,start T IH L,F
+bóla,start P OH UW L,AE
+vasadiskó,start V AE S AE T,IH
+munni,start M,N
+svartburkni,start S V AE T P K N,IH
+týsfjóla,start T IH S F Y OH UW L AE,stop
+persneska,start P EH S N EH S,K
+apótekari,start AE P OH UW T,EH
+bæsa,start P AE IH,S
+lófi,start L OH UW IH,stop
+trésmiðja,start T,R
+júpíter,start Y,UW
+hreindýramosi,start EH,IH
+sólon,start S OH UW L AO,N
+persóna,start P EH S OH UW,N
+aðalbygging,start AE DH AE L,P
+netja,start N,EH
+hjálp,start,AE
+gómfilla,start K,OH
+nagli,start N AE K,L
+núpur,start N UW,P
+teygjubyssa,start T EH IH Y P IH S,AE
+rykkilín,start R IH HH IH L IH,N
+botnfall,start P AO HH T N F AE T,L
+kúfa,start,K
+rými,start R,IH
+kussari,start K S AE R,IH
+kvittun,start,K
+snjallur,start S T N Y AE,T
+speki,start S P,EH
+dvergkráka,start T V EH R K K R,AE
+bíldrusla,start P IH L T R,S
+edrú,start EH T,R
+jólaeyja,start Y OH UW,L
+skauti,start S K T IH,stop
+kjammi,start,AE
+hávella,start HH AE UW V EH T,L
+broddsúla,start P,R
+nárú,start N AE UW,R
+þrenningarmaðra,start TH R EH N IH NG K AE R M AE,DH
+lífvörður,start L IH V V AE R,DH
+sorta,start S AO T,AE
+jónína,start Y OH UW,N
+barnæska,start P AE R,T
+daggarmark,start T AE K AE R,M
+fosfór,start F AO,S
+málfar,start M AE,UW
+kvæna,start K V,AE
+efnahvarf,start,EH
+rætur,start,R
+bílaflutningabíll,start P IH L AE F L HH T N IH,NG
+framræsla,start F R AE M R,AE
+sloj,start S T,L
+prettvísi,start P R,EH
+hugsanlegur,start HH S,AE
+munnvatn,start M N,V
+nýsilfur,start N IH S IH L,V
+mýrelfting,start M IH R EH T IH NG K,stop
+framhjáhlaup,start F R AE M AE UW P,stop
+markgreifi,start M AE K K R EH IH,V
+svangur,start S,V
+járnbrautarstöð,start Y,AE
+nöf,start N AE V,stop
+gullkorn,start K T L,K
+búretta,start P UW R EH HH,T
+sökkull,start,S
+fangaklefi,start F AE UW NG K AE K L EH V IH,stop
+ernir,start EH,R
+greypa,start K R EH IH,P
+stranda,start S T,R
+lárus,start,L
+slíkur,start S T L IH K R,stop
+heimsvaldastefna,start HH EH IH M,S
+aðfangadagur,start AE DH F AE UW NG K AE T AE R,stop
+húm,start HH UW,M
+fyrirgangur,start F IH R IH R K AE UW NG K R,stop
+girða,start IH R,DH
+neysla,start N EH,IH
+svengd,start S V EH,IH
+hjólabretti,start OH UW L,AE
+þrunginn,start TH,R
+frjósa,start F R Y,OH
+háttarökfræði,start HH AE UW HH T AE R AE K F R,AE
+helvískur,start HH EH L V,IH
+eyðimörk,start EH IH DH IH M AE K,stop
+aðalsetning,start AE DH AE L S,EH
+lystauki,start L IH S T,IH
+dripla,start,T
+apótekari,start AE P OH UW T EH K AE R IH,stop
+forskeyti,start F AO S,EH
+sæunn,start,S
+smá,start S,M
+stóðgarður,start S T OH UW,DH
+haraldur,start HH AE R,AE
+hvítblæði,start IH T P L AE,IH
+doði,start T AO DH IH,stop
+taumur,start T M,R
+hugmyndafræði,start,HH
+fjölliða,start F,Y
+himna,start HH IH M,N
+torg,start T AO,R
+búðareigandi,start P,UW
+runni,start R N,IH
+sortulyng,start S AO T L IH,NG
+hlér,start,Y
+eisa,start,EH
+lengur,start L EH IH NG K,R
+varta,start V AE,T
+skita,start S IH T AE,stop
+hjálmar,start AE UW L M,AE
+melgresi,start M,EH
+beygingarlýsing,start,P
+haframjöl,start HH,AE
+venja,start V EH N,Y
+jafnaldri,start Y AE,P
+biðukolla,start P,IH
+skjaldbaka,start S AE L T P AE,K
+meyjarhaft,start M EH IH Y AE R HH,AE
+stampur,start S,T
+rölta,start R AE T AE,stop
+graðhestur,start K R AE,DH
+krani,start K,R
+áreynsla,start AE,UW
+mosajafni,start M AO,S
+öfga,start AE V K AE,stop
+brass,start P,R
+funda,start,F
+inngangur,start,IH
+skipaskurður,start,S
+sparnaður,start S P AE R,T
+páfi,start P AE UW V IH,stop
+púði,start,P
+kjarr,start AE R,stop
+gálaus,start K AE UW L,S
+augntönn,start K N T,AE
+fullyrðing,start F T,L
+drottna,start T R AO,HH
+ölva,start AE L V AE,stop
+kirsuberjatré,start IH S,P
+blálanga,start P L,AE
+dráttartaug,start,T
+framsaga,start F,R
+færiband,start F AE IH R IH P,AE
+hegri,start HH,EH
+byssustingur,start P IH S S,T
+akurstjarna,start AE K R S T Y,AE
+fótbolti,start F,OH
+löstur,start,L
+greinir,start K,R
+áskrifandi,start AE UW S K R IH V AE N,T
+blokkflauta,start P L AO HH K F L T,AE
+afmæli,start AE V M AE IH L IH,stop
+rökfræði,start R AE K F R AE IH,DH
+grunnskóli,start K R N S K OH UW L,IH
+dunda,start T N T AE,stop
+prófsumma,start P R OH UW F,S
+veldissproti,start,V
+bljúgur,start P,L
+ánægður,start AE UW,N
+blóðappelsína,start P,L
+kímblað,start IH M P L AE,DH
+skiljanlega,start S IH L Y AE N L EH AE,stop
+dyggur,start,T
+snjótittlingur,start S,N
+ómur,start,OH
+lafði,start L AE,V
+blóðflaga,start,P
+fóstri,start F,OH
+thorarensen,start T,OH
+annáll,start AE,N
+slarka,start S T,L
+klossi,start K L AO S,IH
+staðhæfing,start S T AE DH HH AE IH,V
+ernir,start EH R T,N
+aftursæti,start AE F T R S AE IH,T
+kynslóð,start IH N S T,L
+klaufi,start K L,V
+fótasár,start F OH,UW
+dyntur,start T IH T,R
+hávaðamaður,start HH AE UW V AE DH AE M AE DH R,stop
+kös,start K AE S,stop
+eistneska,start EH IH S T,N
+kaplamjólk,start K AE HH P L AE M Y,OH
+vesturland,start V,EH
+baðkar,start P AE DH K AE R,stop
+inséníör,start IH N S Y EH N IH Y AE R,stop
+ást,start AE UW S T,stop
+eldjárn,start,EH
+eiginmaður,start EH IH Y IH,N
+eyjólfína,start EH IH Y OH,UW
+amma,start AE M AE,stop
+stóriburkni,start S T OH UW R IH P K N IH,stop
+saddur,start S AE T R,stop
+frasi,start F R AE S,IH
+hnútafræði,start UW T AE F,R
+upplifun,start HH,P
+ástralía,start AE UW S T R AE,L
+víma,start V IH M,AE
+gómsætur,start K OH,UW
+svíi,start S V IH IH,stop
+patríarki,start P AE,T
+bogi,start P AO Y IH,stop
+hermundur,start HH EH R M N,T
+stóð,start S T OH,UW
+tilkynning,start T IH L IH N IH NG K,stop
+ekla,start EH HH,K
+brauð,start P R,DH
+gengur,start EH IH NG K,R
+hera,start HH EH R,AE
+sinfóníuhljómsveit,start,S
+ákveðinn,start AE UW,K
+páskalilja,start P AE UW,S
+náhvalur,start N AE UW K,V
+sumarhnoðri,start,S
+þumlungur,start TH M L,UW
+bálkur,start P,AE
+víkingur,start V,IH
+teygjustökk,start T EH IH Y S T AE HH,K
+lóð,start L OH,UW
+morgunmatur,start M AO R K N M AE T,R
+frændsemi,start F R AE IH N,T
+grákráka,start K R AE UW K R,AE
+mysuostur,start M IH S AO S T R,stop
+feikn,start F EH IH HH,K
+auðveldur,start DH,V
+ratleikur,start R AE T L EH IH K R,stop
+lilja,start L IH,L
+spakmæli,start S P AE K M AE IH,L
+bruggun,start,P
+skjöldur,start S AE L T,R
+snökt,start,S
+grön,start K R AE N,stop
+vesturland,start V EH S T R L,AE
+kláði,start,K
+bábilja,start P AE UW P IH L Y,AE
+kirkjubær,start IH P AE IH R,stop
+deyfa,start T EH IH,V
+málmblásturshljóðfæri,start M AE UW L M P L AE UW S,T
+olsen,start OH UW,L
+háðung,start HH AE UW DH UW NG K,stop
+aðgætni,start AE DH AE IH HH T,N
+skop,start S K,AO
+jarðepli,start Y AE R DH EH HH P,L
+lúkk,start L UW,HH
+saffran,start S,AE
+hálsmen,start HH AE UW L S M,EH
+dádýr,start T AE UW T,IH
+lettneska,start L EH HH T N EH,S
+samnefndur,start S AE M,N
+klæðaskápur,start K L AE IH DH,AE
+tvístirni,start T V IH S,T
+eitilfruma,start EH IH T,IH
+bróm,start,P
+útsaumur,start UW T S M,R
+grasvíðir,start K R AE S V IH DH IH R,stop
+ruddi,start R,T
+leikmynd,start L EH IH K M IH N T,stop
+ymja,start,IH
+georgía,start EH AO R IH Y AE,stop
+kvikmynd,start K V IH K M IH,N
+beinmergur,start P EH IH N M EH R K,R
+gervigígur,start EH R V IH,IH
+stöng,start S T NG,K
+áhugasamur,start AE,UW
+púma,start,P
+fáránlegur,start F AE UW R AE UW N L,EH
+petrína,start,P
+eyðsla,start EH IH DH S,T
+branda,start P,R
+boltaíþrótt,start P AO T AE IH TH R OH,UW
+trélitur,start,T
+megin,start M EH IH,Y
+svartur,start S,V
+gæluverkefni,start AE IH L,V
+hávaði,start,HH
+herdís,start,HH
+smánetla,start S M AE UW,N
+karen,start K,AE
+skækill,start,S
+beykitré,start P EH,IH
+svik,start,S
+ökumaður,start AE K M AE DH R,stop
+líkn,start L,IH
+pensill,start P EH,N
+hvað,start K V,AE
+framburður,start F R AE M P R,DH
+stelpa,start S T EH,P
+keila,start EH,IH
+vilhjálmína,start V IH,L
+hik,start HH,IH
+hnerri,start EH R,IH
+titringur,start,T
+vök,start V,AE
+tónfræði,start T OH UW N F R,AE
+sögumaður,start,S
+mannkyn,start,M
+mannasiður,start M AE N AE S IH DH R,stop
+minnimáttarkennd,start M IH N IH M AE,UW
+afsaka,start AE F S AE,K
+handrit,start HH AE,N
+beinmergur,start P EH IH N M EH R K R,stop
+nýyrðasmíð,start N,IH
+notandi,start N AO T AE N T,IH
+ljúka,start L Y,UW
+dynur,start T IH N,R
+þangað,start TH AE UW,NG
+frauð,start F R DH,stop
+andvaka,start AE N T V AE K,AE
+afsökun,start AE F,S
+slegill,start S T L EH IH,Y
+freðinn,start F R,EH
+rýna,start R IH N AE,stop
+festing,start F EH S T IH,NG
+snuð,start,S
+breytilegur,start P,R
+jötunn,start Y AE T,N
+níðingur,start N IH,DH
+reykvískur,start R,EH
+hjallur,start AE T L R,stop
+borðstofa,start P AO,R
+bílskúr,start P IH,L
+dverglilja,start T V,EH
+drottningarriddari,start T R AO HH T N IH NG,K
+lauslæti,start L S L,AE
+skurðgröftur,start S K R DH K R,AE
+sykurrófa,start S IH K R R OH UW V AE,stop
+lénharður,start L Y,EH
+leir,start L EH,IH
+dagdraumur,start T AE,T
+víðir,start V IH DH IH R,stop
+sníkill,start S T,N
+tafla,start T AE P L,AE
+bjúgur,start P Y UW R,stop
+þórmundur,start TH,OH
+síður,start S,IH
+argentína,start,AE
+fyrirgangur,start F IH R IH,R
+kamfóra,start K AE M F OH UW R AE,stop
+gagnsemi,start K AE K N S,EH
+geðshræring,start EH DH S AE IH,R
+fyrirgefning,start F IH R IH R EH,P
+endurskoðandi,start EH N T R S K AO DH,AE
+geimfari,start EH IH M F,AE
+tryggð,start T R IH DH,stop
+undirbúa,start N T IH,R
+æður,start AE,IH
+hverflyndi,start K V EH R,V
+erfiði,start EH,R
+þorbjörg,start,TH
+smásaga,start S M,AE
+doði,start T,AO
+beikon,start,P
+lappi,start L AE HH,P
+kameldýr,start K AE M EH L T IH R,stop
+lauslátur,start L S L AE UW T,R
+látbragðsleikur,start L AE UW T P R AE DH S L EH IH K,R
+dekka,start T EH HH K AE,stop
+súrkál,start S UW K AE,UW
+austurríkismaður,start S T R R IH IH S M AE DH,R
+uppfæra,start HH P F,AE
+bjó,start P Y OH UW,stop
+embætti,start EH M,P
+heimskautsnótt,start HH EH IH M S,K
+sópur,start S OH UW,P
+prentari,start P R EH T AE R IH,stop
+bleyði,start P L EH IH,DH
+körfuknattleiksþjálfari,start K AE,R
+beinagrind,start P EH IH N,AE
+köfnunarefni,start K AE P N N AE R EH P,N
+stóð,start,S
+línulega,start L,IH
+lykja,start L,IH
+mexíkó,start,M
+tilfinningaleysi,start T IH,L
+skandall,start S K AE N T AE,T
+dauðlegur,start T DH,L
+beitilyng,start P EH IH T IH L IH NG K,stop
+sökka,start S AE HH K,AE
+gangbraut,start K AE UW,NG
+bjúgstör,start P Y UW S T,AE
+fabúla,start F AE,P
+gála,start K,AE
+hór,start HH OH,UW
+steikja,start S T EH IH AE,stop
+árlegur,start AE UW R L,EH
+blóðvökvi,start P L OH UW DH V,AE
+spurning,start S P R T N IH,NG
+millinafn,start M IH T L IH N AE,P
+gróp,start K,R
+óáreiðanleiki,start OH UW AE UW R,EH
+leyndarmál,start L EH IH,N
+skurðgoð,start S K R DH K AO,D
+hvelfdur,start K V EH L V,T
+sefa,start S EH V AE,stop
+prósenta,start P R OH,UW
+romm,start R,AO
+árna,start AE UW R T,N
+kærulaus,start AE IH R L S,stop
+biðstöð,start P IH DH S,T
+litúrgískur,start L,IH
+upplifun,start HH P L IH V,N
+fimur,start F,IH
+eitrun,start EH IH,T
+tilfinninganæmur,start T IH,L
+glódís,start K L OH UW T,IH
+lágþrýstingur,start L,AE
+burnirót,start P R T,N
+laugaskarð,start L AE S K AE,R
+hryggbrjóta,start IH K P R Y OH,UW
+svilkona,start S V IH L K AO,N
+dráp,start,T
+andvari,start AE N T V AE R IH,stop
+póstur,start P,OH
+fornnorræna,start F AO R T N N AO R R AE,IH
+sálfræðilegur,start S AE UW L,F
+káeta,start K AE UW EH,T
+aldinborg,start AE L T,IH
+skiptavinur,start S K IH F T AE V IH N,R
+metta,start M EH HH T,AE
+skyggn,start S,IH
+tyrkjasól,start T IH AE S,OH
+slésvík,start S T L Y EH S V IH K,stop
+framræsla,start F R AE M,R
+glata,start K L AE T,AE
+tvívetni,start T V IH V EH HH T,N
+fæða,start F AE IH,DH
+mjókka,start M Y OH,UW
+hljóma,start Y OH UW M,AE
+for,start F AO R,stop
+ljón,start L Y,OH
+steinselja,start S T EH IH N S,EH
+stjórnmálamaður,start S T Y OH UW R T N M AE UW L AE M AE DH,R
+þrjóskur,start TH R Y OH,UW
+rámur,start,R
+heimboð,start HH EH,IH
+dreif,start T R,EH
+endir,start EH N T IH,R
+vefa,start V EH V AE,stop
+ísakína,start,IH
+ráp,start R AE UW,P
+klipping,start K L IH HH P,IH
+júní,start Y UW N IH,stop
+leikur,start L,EH
+geldingalauf,start EH L T IH,NG
+rispa,start R IH S,P
+aðeins,start,AE
+heimskautsnótt,start HH EH IH,M
+guðlaugur,start K V DH L R,stop
+halastjarna,start HH AE L AE S T Y AE R T N,AE
+lyf,start,L
+blindhæð,start P L IH N T,HH
+streita,start S T R EH IH T AE,stop
+verða,start V EH R DH,AE
+boðflenna,start P AO DH F L EH N AE,stop
+mjólkurkýr,start M Y OH,UW
+árósar,start AE UW R OH UW S AE,R
+iðja,start IH DH Y AE,stop
+lungnakrabbamein,start L UW,NG
+hjarna,start AE R T N,AE
+hornafræði,start HH AO R T,N
+trésmíði,start T R Y EH S M IH DH IH,stop
+krefjast,start K R,EH
+dagblaðapappír,start T AE P L AE DH AE P,AE
+fartölva,start F AE,T
+tilvísunarfornafn,start T IH L V IH S,N
+japan,start Y AE P AE,N
+altari,start AE T,AE
+lífeðlisfræði,start L IH V,EH
+mjólka,start M Y OH UW,K
+flæði,start F,L
+landslag,start L AE N S,L
+blátoppastör,start P L AE UW T AO HH P AE S,T
+aþena,start AE TH EH N,AE
+afmæli,start,AE
+eldfimur,start,EH
+vista,start V IH,S
+tælenska,start T AE,IH
+sæða,start S AE IH,DH
+frystiskápur,start F R IH S T IH,S
+drepsótt,start T R EH P S OH UW HH,T
+gljá,start K L Y,AE
+skollafingur,start S K AO T L AE F IH,NG
+ófreskja,start,OH
+löggjafarþing,start L AE AE V AE R TH IH NG,K
+lengur,start L EH IH,NG
+keppinautur,start EH HH P IH,N
+föndra,start,F
+almennilegur,start AE L M,EH
+vilma,start V IH,L
+forvitni,start F AO R,V
+hreyfing,start EH IH,V
+geisla,start EH IH S T,L
+hnúskakrækill,start UW S K AE K R AE,IH
+tréspíri,start T R Y,EH
+thoroddsen,start T OH,UW
+fjölveri,start,F
+flaka,start F L AE K AE,stop
+hárkolla,start HH AE UW R,K
+feigð,start F EH,IH
+spark,start S P AE,K
+daufur,start T V R,stop
+rór,start R OH UW R,stop
+járn,start Y AE,UW
+bastarður,start P AE S T AE R DH R,stop
+dökkna,start T AE HH,K
+ljósastör,start L Y,OH
+flauelsblóm,start F L Y EH L,S
+hrái,start AE,UW
+blævængur,start P L AE IH V AE IH NG K R,stop
+gremja,start K R EH M,Y
+bræðsla,start P R,AE
+guðbrandína,start,K
+bíldrusla,start P IH L T R S,T
+svipur,start S V IH P,R
+deild,start,T
+svona,start S V AO,N
+fantur,start F,AE
+marmennill,start M AE R,M
+fiskibolla,start F IH S IH P AO L,AE
+diljá,start T IH L Y AE UW,stop
+hundasúra,start HH N,T
+níundi,start N IH Y N T IH,stop
+staðall,start,S
+hornabolti,start HH AO T N,AE
+kiljan,start,IH
+kristí,start K R IH S T,IH
+bikar,start P IH K,AE
+handbremsa,start HH AE N T P R EH M,S
+andvari,start AE N T V,AE
+steinefni,start S T EH IH N EH P N,IH
+kommúna,start K AO M UW N,AE
+túrmerik,start T UW R M,EH
+hjól,start OH UW,L
+vindur,start V IH N T,R
+jóð,start,Y
+mæðraveldi,start,M
+rot,start,R
+holdvotur,start HH AO,L
+beygingardæmi,start P EH IH Y IH NG K AE R,T
+fyrirtæki,start F IH R IH R,T
+draumleysi,start T R M L EH IH S IH,stop
+peyi,start P EH IH,Y
+megn,start M EH K,N
+strætisvagn,start S T R AE,IH
+óvína,start OH UW,V
+zóphonías,start,S
+fleirtala,start F L EH IH T AE L,AE
+vanræksla,start V AE N R AE IH,K
+næmi,start,N
+vigt,start V IH,T
+yfirdrepsskapur,start IH,V
+ólafssúra,start OH UW,L
+laugamaðra,start L AE M,AE
+rella,start R,EH
+tæki,start T,AE
+spegill,start S P EH IH,Y
+einlægni,start EH IH N L,AE
+fótsnyrting,start F OH UW T,S
+loftpúði,start L AO,F
+skipun,start S IH P,N
+meistari,start M EH IH,S
+rafsvið,start R AE V S V IH,DH
+ferhyrndur,start F EH,R
+forskaut,start F AO S,K
+snökt,start S N,AE
+vordís,start V AO R,T
+röskur,start R,AE
+glanni,start K,L
+brottvísun,start P R AO HH T V IH,S
+alvarlega,start AE L V AE R L EH,AE
+matreiðslubók,start M AE T R,EH
+jóhanna,start Y OH UW,HH
+hvítasunna,start,IH
+húðflúr,start HH UW DH F,L
+frábending,start F R AE UW,P
+framhlaðningur,start F R,AE
+sálmabók,start S AE,UW
+þátttaka,start,TH
+sameind,start S AE M EH,IH
+snerra,start,S
+steinselja,start S T EH IH,N
+aðalból,start AE DH AE L,P
+gagnagrunnur,start K AE K,N
+meiðsli,start M EH IH DH S,T
+vinnumaður,start V IH N M AE DH,R
+rifsber,start,R
+blak,start P L AE K,stop
+miðmynd,start M IH DH M IH N,T
+afi,start AE V,IH
+aðalendir,start AE DH AE L EH N T,IH
+angan,start,AE
+skokka,start S K AO HH,K
+svíri,start S V,IH
+jóhanna,start Y,OH
+búnaður,start P UW N AE DH R,stop
+saltaður,start S AE T AE,DH
+þumalputtaregla,start TH M AE L P HH T AE R EH K L AE,stop
+dvergsóley,start,T
+japanskur,start Y AE P AE N S K,R
+vináttuleikur,start V IH,N
+mjög,start M Y,AE
+auðmýking,start,DH
+hlæja,start AE IH Y,AE
+afburður,start AE V P R DH,R
+listmálari,start L IH S T,M
+sjóher,start S Y OH UW HH EH,R
+fræðimaður,start F R AE IH DH IH,M
+mispill,start M IH S,P
+sendiherra,start S EH N T IH HH EH R AE,stop
+heiðarleiki,start HH EH IH DH AE R L EH,IH
+afmælisdagur,start AE V M AE IH L IH S,T
+steikarhnífur,start S T EH IH K,AE
+tröllavíðir,start T,R
+aðdáandi,start,AE
+læra,start L,AE
+konur,start K AO,N
+dómpápi,start T OH UW M P AE UW P,IH
+héðinn,start EH DH IH N,stop
+alvöruleysi,start AE L V AE,R
+póstmódernismi,start P OH UW S T M OH UW T EH,R
+læri,start L AE,IH
+banka,start,P
+haust,start HH S T,stop
+læknisskoðun,start L AE IH HH K N IH S S K AO DH,N
+gildur,start,IH
+fílsbein,start F IH L,S
+forsíða,start F AO S IH DH,AE
+hrímblaðka,start,IH
+beygla,start P,EH
+ofkæling,start AO V AE IH L IH NG K,stop
+gola,start K AO L AE,stop
+naflagras,start N AE P,L
+ás,start AE UW,S
+orkuver,start AO K V,EH
+blóðmura,start P,L
+tengja,start T EH IH,AE
+grænspæta,start K R AE IH,N
+stelling,start S T EH T L IH,NG
+brauðmylsna,start P R DH M IH L S T N,AE
+prófessor,start P R OH UW F,EH
+tryggvína,start T R IH K,V
+hamingjusamur,start HH AE M IH S AE,M
+fornafn,start,F
+stafróf,start S T AE,V
+geispi,start EH IH,S
+kveikjari,start K V EH IH,AE
+þverskurður,start TH V EH R S K R DH,R
+franskur,start F R AE N S K R,stop
+andstæður,start AE N T S,T
+serótónín,start S EH R OH UW T OH,UW
+broddfura,start P R AO T,F
+krossför,start,K
+sagnbeyging,start S AE K N P EH IH,Y
+broddgöltur,start P R AO T K,AE
+þykkja,start,TH
+þakkagjörð,start TH,AE
+buxnavasi,start P K S,N
+kvaðratrót,start K,V
+frændhygli,start F,R
+kaldhæðni,start K AE L T,HH
+kveðskapur,start K V EH DH S,K
+atvik,start AE T,V
+ljósbjalla,start L,Y
+prentduft,start P R EH T,T
+línarfi,start L IH N AE R V IH,stop
+svitna,start S V,IH
+hópkynlíf,start HH OH UW P IH N L IH V,stop
+fjón,start F,Y
+ef,start EH V,stop
+gelda,start EH,L
+djákni,start T,Y
+orðsifjabók,start AO R DH S IH V Y,AE
+nýnorska,start N IH N AO S K AE,stop
+grund,start K R,N
+bjálki,start P,Y
+faraó,start F,AE
+ruðningur,start R DH N IH,NG
+tenging,start T EH IH,IH
+stjörnufræðingur,start S T Y AE R T N F,R
+skriða,start,S
+ertni,start EH T N,IH
+grænlenska,start K R AE IH N L,EH
+þvættingur,start TH,V
+hvirfilvindur,start IH R V IH L V IH N T R,stop
+sérstakur,start S Y EH S T,AE
+kúrín,start K UW,R
+eysill,start EH IH S,IH
+bjarma,start P Y AE R M AE,stop
+ráðgáta,start R AE UW DH K AE,UW
+auðmýkja,start DH M,IH
+sammiðja,start S AE M M,IH
+skurðgrafa,start S,K
+kitla,start IH HH T,L
+kvabba,start K V AE,P
+nætur,start N AE IH T,R
+vasaorðabók,start V AE S AE AO R DH AE P OH UW K,stop
+heimsókn,start HH EH IH M S OH UW HH K N,stop
+samvist,start S,AE
+vesturland,start V EH S T,R
+krossgáta,start K R AO S K,AE
+frakkneskur,start F R AE HH K N EH S,K
+trompet,start T,R
+háhyrningur,start HH,AE
+steðji,start S,T
+regnvatn,start R EH K N V AE,HH
+kynslóð,start IH N S,T
+mjólkursúkkulaði,start M Y OH UW K R S UW HH K L AE,DH
+míkrófónn,start M IH K R OH,UW
+vinna,start V IH,N
+leikari,start L,EH
+teygja,start T EH IH Y AE,stop
+granatepli,start K,R
+breti,start P R EH T IH,stop
+strjálingur,start S T R Y AE,UW
+tækisfall,start T AE IH K,IH
+halda,start HH AE L T,AE
+seðja,start S,EH
+bjartsýnn,start P Y AE T S IH T N,stop
+mistilteinn,start M,IH
+flinkur,start F L IH K R,stop
+ver,start,V
+rein,start R EH IH,N
+heimasæta,start HH EH IH M AE S AE IH,T
+bannfæring,start P,AE
+dýptarleit,start T IH F T AE R L EH,IH
+hrúga,start,UW
+mismikill,start M IH,S
+síst,start S IH,S
+purpuraþistill,start P P R,AE
+járning,start Y,AE
+ættkvísl,start AE IH HH T K V IH S,T
+fjallastör,start F Y AE T L AE S T AE,R
+tónlist,start T OH,UW
+meistari,start M EH IH S,T
+afbökun,start AE V P,AE
+bakka,start P AE,HH
+daglega,start T AE,L
+ísakína,start IH S AE K,IH
+gagnrýni,start K AE K,N
+háþrýstingur,start HH AE UW TH,R
+bílskúr,start,P
+sakaskrá,start S,AE
+meðleikur,start M EH DH L,EH
+loðfíll,start L AO DH F,IH
+léttúð,start L Y EH HH T UW DH,stop
+nói,start N,OH
+kyrrð,start IH R DH,stop
+slarka,start S T L AE K,AE
+heimsókn,start HH EH IH M S OH UW HH K,N
+bragð,start,P
+heiðagæs,start HH EH,IH
+hitamælir,start HH IH T AE M AE IH L,IH
+karlkyn,start K AE,R
+brugghús,start P R K HH UW,S
+langkrækill,start L AE UW NG K K R AE IH IH,T
+breiðnefur,start P R EH IH,DH
+íhvolfur,start IH K V AO L V R,stop
+stærðfræði,start S T AE IH R DH F R AE IH DH,IH
+stjörnuspekingur,start S T Y,AE
+hálfnótuþögn,start HH AE UW L V N OH,UW
+selur,start S,EH
+flengur,start,F
+hróðný,start OH UW DH N IH,stop
+dust,start T S,T
+hermannaskáli,start HH EH R M AE N AE S K AE UW L IH,stop
+drottningarbiskup,start T R AO HH T N IH NG K AE,R
+formaður,start F AO R M,AE
+mosajafni,start M AO S AE Y AE P N,IH
+marsbúi,start M AE,S
+pipar,start P IH P AE,R
+forvitni,start F AO,R
+útvarp,start UW T,V
+liðsforingi,start L,IH
+árós,start,AE
+lensa,start,L
+ending,start EH N T IH NG K,stop
+sniðill,start S N IH,DH
+kosningarréttur,start K AO S T N IH NG K AE R R,Y
+mjallhvít,start M Y AE,HH
+gullfiskur,start K,T
+þungur,start TH UW NG K R,stop
+haddur,start HH AE T,R
+glymur,start K L IH M,R
+gjaldeyrir,start AE L T EH IH,R
+stöng,start,S
+hnupla,start HH,P
+hersveit,start HH,EH
+sjálfur,start S Y AE,UW
+hviklyndi,start K V IH K,L
+reikningur,start R EH IH HH K N IH NG K,R
+bur,start P,R
+bæsa,start P,AE
+þakklæti,start TH AE HH K L,AE
+óþægindi,start OH UW TH AE IH Y IH N,T
+hendni,start HH EH,N
+adamsepli,start AE D AE M S,EH
+paxblað,start P AE K S P L,AE
+hausta,start HH S T,AE
+ræma,start R AE,IH
+nafna,start N AE P P AE,stop
+forsjá,start,F
+nýta,start N IH,T
+brennisóley,start P,R
+ingibjörg,start IH IH P,Y
+arameíska,start AE R,AE
+agi,start AE Y,IH
+áhrifsfall,start AE UW IH F,S
+hrímtittlingur,start,IH
+helgi,start,HH
+brjóstbein,start P R Y OH UW,S
+kall,start K AE T,L
+rifs,start,R
+guða,start K V,DH
+þolfall,start,TH
+vasahnífur,start V AE,S
+þakkagjörð,start TH AE HH K AE,AE
+djarfur,start T Y,AE
+nælon,start,N
+eyrnapinni,start EH IH R T N AE P IH N,IH
+bakstur,start P AE S,T
+skipaskurður,start S IH P,AE
+staðarfall,start S T AE DH AE R F AE,T
+riddari,start R IH T,AE
+telma,start T EH L M,AE
+nútími,start N UW T IH M,IH
+hárleggjastör,start HH AE UW R L EH AE S T AE,R
+hempa,start HH EH,P
+heimsmethafi,start HH EH IH M,S
+þórólfur,start TH OH UW R OH UW L V,R
+trompet,start T R AO P EH,T
+met,start M,EH
+mýramaðra,start M IH R AE M AE DH R AE,stop
+mýrastör,start M IH R AE S T AE,R
+emja,start EH M,Y
+bar,start P,AE
+franskur,start F R AE N,S
+tollur,start T AO T L R,stop
+kæpa,start,AE
+ellingsen,start EH L IH NG,K
+nirfill,start N,IH
+gluggatjald,start K L K AE T Y AE L,T
+japanskur,start Y AE P AE N S,K
+færiband,start F AE IH R IH P AE N T,stop
+sítar,start S IH T AE,R
+jaki,start,Y
+sækja,start,S
+byssuhlaup,start,P
+lefsa,start L EH F S,AE
+tappi,start T AE HH,P
+logri,start L AO,R
+engiferöl,start EH IH IH,F
+móðga,start M OH UW DH,K
+brot,start P R AO,T
+más,start M AE,UW
+víns,start V IH N,S
+kúld,start K UW L,T
+gilitrutt,start IH L IH T R HH,T
+konur,start K AO N,R
+múslimi,start M,UW
+tjása,start T,Y
+stórfenglegur,start S T OH UW F EH IH NG K L EH,R
+bárður,start,P
+steinefni,start,S
+olga,start AO L K,AE
+morðingi,start M AO,R
+húsfrú,start HH UW S,F
+fjölmiðlasaga,start F Y,AE
+lóðleit,start,L
+sara,start,S
+fretta,start F R,EH
+baldur,start P AE L,T
+jafnaðarstefna,start Y AE P N AE,DH
+silfurlitaður,start S IH L V R L IH T AE,DH
+framlag,start F R AE,M
+styrkja,start S T,IH
+yfirlæti,start IH V,IH
+boltaíþrótt,start P AO T AE IH,TH
+persónulega,start P EH S OH UW,N
+tæta,start T AE,IH
+karlfugl,start K AE R T L F,K
+bensínsala,start P EH N S IH N,S
+eyjólfína,start EH,IH
+hryðjuverkamaður,start IH,DH
+erindi,start EH,R
+dý,start T,IH
+snörla,start S N AE R T L AE,stop
+múli,start M,UW
+minningargripur,start M IH N,IH
+vagn,start V AE,K
+hvirfilbylur,start K V IH R V IH L P,IH
+heygja,start,HH
+gervigígur,start EH R V,IH
+afar,start AE V AE R,stop
+barnæska,start P AE R T N AE IH S K,AE
+mesópótamía,start M EH S OH UW P OH UW T AE M,IH
+skemmta,start S EH T,AE
+flokka,start,F
+flekkaður,start F,L
+vogunarsjóður,start V,AO
+leikvöllur,start L,EH
+kornbreskur,start K AO R T N,P
+goðafræði,start K AO DH AE F R AE IH DH,IH
+hvergi,start K V EH R,IH
+einhentur,start EH IH N HH,EH
+marka,start M,AE
+sagnfræðingur,start S AE K N F R AE IH DH IH NG K R,stop
+skorningur,start S K AO R,T
+linnur,start,L
+fullur,start F,T
+örgjörvi,start,AE
+lind,start,L
+tuldur,start T L T,R
+þorleifína,start TH AO,R
+soldill,start S AO L T IH,T
+heimsmet,start HH EH IH,M
+lambakjöt,start L AE M,P
+fræðigrein,start F R,AE
+kjartanía,start,AE
+nepja,start N EH,P
+fróðný,start F,R
+kalksteinn,start K AE K S T EH IH,T
+áhrif,start,AE
+uppgjör,start,HH
+skelfiskur,start S EH L F,IH
+róður,start R OH UW DH R,stop
+hýjungur,start HH IH Y,UW
+hrúður,start UW,DH
+safn,start S AE P,N
+klunni,start K L N,IH
+suðaustur,start S DH S T,R
+björn,start P Y AE R T,N
+máni,start M AE,UW
+mjálma,start M,Y
+mjónefur,start M Y OH UW,N
+brúka,start B R UW,K
+ívera,start IH V EH R,AE
+aðalskrifstofa,start AE DH AE L S K R IH,F
+ferðaáætlun,start F,EH
+kjaftur,start AE F T R,stop
+komutími,start K AO M T IH M IH,stop
+mitti,start M IH HH T IH,stop
+ójafn,start OH UW Y AE P,N
+burður,start P R DH R,stop
+einær,start EH IH,N
+rannsókn,start R AE N S OH UW HH K N,stop
+karlmaður,start K AE R T L M AE DH R,stop
+korra,start K AO R,AE
+kastali,start K,AE
+netja,start N EH T,Y
+marr,start M AE,R
+grallari,start K R AE T L AE R,IH
+hörfræ,start,HH
+handbremsa,start HH,AE
+eignarfornafn,start EH IH K N AE R F AO R N AE P N,stop
+þórunn,start,TH
+skunkur,start S K UW K,R
+hinstur,start HH,IH
+undirflokkur,start N T IH F L AO,HH
+bróðir,start P R OH UW,DH
+herdís,start HH EH R T IH S,stop
+átthyrningur,start AE UW HH T HH IH,R
+járnbrautarstöð,start Y AE UW R T N P R T,AE
+flækja,start F L AE IH AE,stop
+nýsilfur,start,N
+læri,start L,AE
+postullegur,start,P
+bé,start P Y EH,stop
+silki,start S IH,IH
+seiða,start,S
+tíra,start T IH,R
+veifa,start V EH IH V AE,stop
+arngunnur,start AE R T,N
+brokka,start P R AO HH,K
+kleppur,start,K
+drepsótt,start T R,EH
+týtulíngresi,start T IH T L IH,N
+setningafræði,start,S
+skál,start S K AE UW,L
+germynd,start,EH
+vegir,start V EH Y IH R,stop
+snæfríður,start S T N AE IH F R IH,DH
+lygi,start L IH IH Y,IH
+fólk,start F OH UW,K
+naggrís,start N AE K,R
+skin,start,S
+náungi,start N AE UW,UW
+sérstaklega,start S Y EH S,T
+snilli,start,S
+jóð,start Y,OH
+albanskur,start AE L P AE N S K R,stop
+mosasteinbrjótur,start M AO S AE S T EH IH N P R Y OH UW T,R
+esóp,start EH S,OH
+mildur,start M IH L T R,stop
+bábilja,start P AE UW P IH L Y AE,stop
+seyði,start S EH,IH
+íferðarfall,start IH F EH R DH AE R F AE T L,stop
+fjallnykra,start F Y AE T L N IH,K
+tilkynning,start T IH L,IH
+goti,start K AO,T
+afkáralegur,start AE,V
+funi,start,F
+bílstjóri,start P IH L S T Y,OH
+rúmföt,start,R
+galli,start K AE T L IH,stop
+námskeið,start N,AE
+gervill,start,EH
+fiskifræði,start F IH S IH F R AE IH,DH
+sekvensa,start S EH K V EH N S,AE
+aðalatriði,start AE DH AE L AE T R IH DH IH,stop
+týsfjóla,start T IH S,F
+páskavika,start P AE UW S K AE V,IH
+riðla,start R IH DH L AE,stop
+heimili,start HH EH IH M IH L IH,stop
+samnefndur,start S AE M N EH,M
+geislabaugur,start EH IH S T L AE P R,stop
+tvenna,start T V EH N,AE
+vöndur,start V AE N,T
+breki,start P R,EH
+klaufalegur,start K L V AE L,EH
+þrunginn,start,TH
+vín,start,V
+óreglulegur,start OH UW,R
+kæra,start AE IH R AE,stop
+ánægjulegur,start AE UW N,AE
+stelling,start S T,EH
+æra,start AE IH,R
+pennavinur,start P EH N AE V,IH
+fljúga,start F L Y UW AE,stop
+bana,start P AE N AE,stop
+boðháttur,start P AO DH HH AE,UW
+kengur,start,EH
+pétur,start P Y EH T R,stop
+hjónaband,start OH UW N AE,P
+spritt,start S P R IH,HH
+ölgerð,start AE,L
+teppi,start T,EH
+humall,start HH M AE,T
+hnefaleikari,start EH V AE L EH IH K AE R IH,stop
+gísl,start IH S T,L
+lesblinda,start L EH S P L IH N T,AE
+hjúkrunarheimili,start UW K R N AE R HH EH IH M,IH
+viðbragð,start V,IH
+undirskrift,start,N
+engiferöl,start,EH
+tölvupóstur,start T AE L V P OH UW,S
+gatari,start K AE T AE R,IH
+orkídea,start AO IH T EH AE,stop
+landnemi,start L AE N T N,EH
+blóðfruma,start P L OH UW DH F R,M
+broddfura,start P,R
+sáðrás,start S,AE
+guðjohnsen,start,K
+munaðarleysingjahæli,start M N AE DH AE R L EH,IH
+claessen,start K L,AE
+meðstjórnendur,start M EH,DH
+egg,start EH,K
+stak,start S T AE K,stop
+ganamaður,start K AE N AE M AE DH R,stop
+einhyrningur,start EH IH N,HH
+kufl,start K P L,stop
+regndropi,start R EH K N T R,AO
+styggur,start S T IH K,R
+hjáleið,start,AE
+galílea,start K AE L IH L EH AE,stop
+stífla,start S T IH P L AE,stop
+tappatogari,start T AE HH P AE T,AO
+spænska,start S P AE IH N S K AE,stop
+kjarnakorn,start AE R T N AE K AO,R
+klarínett,start K L AE R IH N EH HH,T
+neðanjarðarbraut,start N EH DH AE N,Y
+kynfæri,start IH N F,AE
+slíta,start S T L IH,T
+gestína,start EH S T,IH
+fals,start F,AE
+lækjafræhyrna,start L AE IH AE,F
+bæra,start P,AE
+broddmjólk,start P R AO,T
+göng,start K NG K,stop
+samviskusamur,start S AE M V IH S K S,AE
+töff,start,T
+tíðaratviksorð,start T IH DH AE,R
+tál,start T AE UW L,stop
+díli,start T IH L IH,stop
+óreglulegur,start OH UW R EH K,L
+grávorblóm,start K,R
+lengur,start L EH IH NG,K
+gargönd,start K AE R K AE N,T
+eiginleiki,start EH IH Y,IH
+hirða,start HH IH R,DH
+fíladelfía,start F IH L AE T EH L F IH Y AE,stop
+sítrónusýra,start S,IH
+bernhöft,start P EH R N HH AE F,T
+fyrirgangur,start F IH,R
+tíð,start T IH DH,stop
+vaða,start V AE DH,AE
+algjörlega,start AE L AE R L EH AE,stop
+norræna,start N AO R R AE,IH
+frækinn,start F R AE IH IH N,stop
+körfuvíðir,start K AE R V,V
+klof,start,K
+slag,start S,T
+víkja,start V,IH
+fregna,start F R EH K N AE,stop
+hekk,start HH EH HH K,stop
+hrjúfur,start Y UW V R,stop
+dreyri,start T,R
+síra,start S IH R AE,stop
+persneska,start P EH,S
+netafræði,start,N
+salvi,start,S
+rusl,start R S T L,stop
+berlín,start P EH R,L
+gómfilla,start K OH UW M F IH T L,AE
+sifjarsóley,start S IH V Y AE R S OH UW L EH IH,stop
+bassetthorn,start P AE S EH HH T,HH
+möndull,start M AE N,T
+aðstoðarmaður,start AE DH S T AO DH AE R M AE DH R,stop
+leðja,start L,EH
+einasti,start EH IH,N
+prósenta,start P R OH UW S EH,T
+gleðilegur,start K L EH DH IH L,EH
+sæði,start,S
+skriðnablóm,start S K R IH DH N AE P L OH UW M,stop
+malajíska,start M AE L AE IH Y,IH
+akkeri,start AE HH,K
+kafa,start,K
+bóla,start P OH,UW
+býr,start,P
+mótorhjól,start M OH UW T AO R OH UW,L
+málmur,start M AE UW L M,R
+orðasafn,start AO R DH AE,S
+helsingjaborg,start HH EH L S,IH
+methafi,start M EH T HH AE V IH,stop
+slarkfær,start S T L AE K F AE IH,R
+apa,start AE P,AE
+perú,start P EH,R
+bergþrúður,start P EH R K TH R UW,DH
+eiður,start EH IH,DH
+tölusetja,start T AE,L
+rappa,start R,AE
+þakklátur,start TH AE HH K L AE UW T R,stop
+hárleggjastör,start HH AE UW R,L
+grautur,start K,R
+þolfall,start TH AO L F,AE
+framtíðarfræði,start F R AE M T IH DH AE R F R AE IH,DH
+grænlenskur,start,K
+vinkona,start V IH NG K AO,N
+reyður,start R EH IH DH,R
+þorn,start TH AO T,N
+eftirmynd,start,EH
+jósefína,start Y,OH
+ediksýra,start EH,T
+mispill,start M IH,S
+ljóstillífun,start L Y OH UW S T IH L L,IH
+fen,start F EH,N
+mold,start M AO,L
+johnsen,start Y OH UW,N
+franska,start F R AE N S K,AE
+trommuleikari,start T R AO M L EH IH K AE R IH,stop
+bílaleiga,start P IH L AE L,EH
+nár,start N AE UW R,stop
+bryðja,start P R,IH
+búlgarska,start P UW L K AE S K,AE
+barnagæla,start P AE R T N AE AE IH L,AE
+þyngd,start TH IH,NG
+aldinborg,start,AE
+klöpp,start K L,AE
+skak,start S K AE,K
+evklíðskur,start EH V K L IH DH S K,R
+duttlungur,start T HH T,L
+fylgd,start,F
+milta,start M IH,T
+ilskór,start IH L S,K
+blaðsíða,start P L AE DH S IH DH,AE
+sökk,start S AE HH,K
+körfuboltaþjálfari,start K AE R V P AO T AE TH Y AE UW L V,AE
+landslag,start L AE N S L AE,stop
+michelsen,start M IH HH K EH L S EH N,stop
+eldfimur,start EH,L
+ísmoli,start IH S,M
+jólaköttur,start Y OH UW L AE K AE HH T R,stop
+lómur,start L OH,UW
+skellihlæja,start S EH T L,IH
+kameldýr,start K AE M,EH
+jöstur,start Y AE,S
+bryggja,start P R IH,AE
+afmælisdagur,start,AE
+vofa,start V AO,V
+ökuskírteini,start AE K S IH T EH,IH
+rakafullur,start R AE K AE F,T
+júlí,start Y UW L,IH
+rukka,start R HH K,AE
+bráðna,start P R,AE
+númer,start N UW M EH R,stop
+eilífð,start EH IH L IH V,DH
+heilbrigði,start HH EH IH L P,R
+monta,start,M
+blæðing,start P L AE IH DH IH NG,K
+tónlistarskóli,start T OH UW N L IH S T AE R S K OH UW L,IH
+óskhyggja,start OH,UW
+fara,start F AE R,AE
+slóvenska,start,S
+forsætisráðherra,start F AO S AE IH T IH S R AE UW DH,HH
+gjöf,start AE,V
+pottur,start,P
+hjaðna,start AE DH N AE,stop
+blágreni,start P L AE UW K R EH N,IH
+krefjast,start K R EH V Y AE,S
+fölvi,start,F
+schram,start S K R AE,M
+skorpa,start S K,AO
+einstaklingur,start EH IH N S T AE K,L
+korpönd,start K AO P AE N T,stop
+blaðamaður,start P L,AE
+andardráttur,start AE N T AE R T R,AE
+flyksa,start F,L
+fylling,start F IH T L,IH
+heilnóta,start HH EH IH L N OH UW,T
+farseðill,start F AE,S
+lífhimna,start,L
+seytla,start S EH,IH
+svona,start S V AO N,AE
+ákafi,start AE UW,K
+seiður,start,S
+segulsvið,start,S
+kjartan,start AE T AE N,stop
+vigdís,start V IH T IH S,stop
+fiður,start,F
+dílaskóf,start T IH L AE S K,OH
+milta,start M IH T,AE
+heimsmet,start HH EH,IH
+lagga,start L AE,K
+þuríður,start TH R,IH
+konráð,start K AO N R,AE
+eyjafjallajökull,start EH IH Y,AE
+iðunn,start IH DH,N
+úthaf,start UW T HH AE,V
+sí,start,S
+dagatal,start,T
+þörf,start TH,AE
+mat,start M AE T,stop
+magnús,start,M
+kristjánssandur,start K R IH S T Y,AE
+frelsisstyttan,start F R EH L S IH S S T IH HH T,AE
+stikla,start S T IH HH K,L
+hilla,start,HH
+baðkar,start P,AE
+prammi,start P R AE M,IH
+sólbað,start S OH UW L P AE DH,stop
+lýðveldi,start L IH DH,V
+árós,start AE UW,R
+samfélag,start S AE M F Y,EH
+hrekkja,start,EH
+búrka,start,P
+trésmiðja,start T R,Y
+glæpamaður,start K,L
+móðga,start M OH,UW
+stjarneðlisfræðingur,start S T Y AE R T N EH DH L IH S F R AE IH DH IH NG K R,stop
+haltra,start,HH
+plaga,start P,L
+leiðbeining,start,L
+skjaldberi,start S AE L,T
+lyndi,start L IH,N
+eyðni,start EH IH DH N IH,stop
+djöfladýrkun,start T Y,AE
+kjólföt,start K Y OH,UW
+móberg,start M,OH
+ógna,start OH UW,K
+heimsmet,start HH EH IH M S M,EH
+klósett,start K L OH,UW
+jafnaðarstefna,start Y AE,P
+kafari,start,K
+ver,start V EH R,stop
+jarðsprengja,start Y,AE
+njóli,start N Y OH UW L IH,stop
+skriðuhnoðri,start S K R IH DH AO DH R IH,stop
+þoka,start,TH
+áreiðanleiki,start AE UW,R
+mýrdalur,start M IH R T AE L,R
+hjólasæti,start OH UW L AE S,AE
+leiðindi,start L EH IH DH,IH
+þrái,start,TH
+internet,start IH T EH R N,EH
+þrýstihópur,start TH R IH,S
+goðafræði,start K AO DH AE F,R
+hjartastillir,start AE T AE,S
+geiri,start EH,IH
+bólivía,start P OH UW L IH V,IH
+kalksteinn,start K AE K S T EH,IH
+verkefni,start V EH K EH P,N
+leigubíll,start L EH IH P IH T,L
+hrafnkell,start AE P N,EH
+nývirki,start N,IH
+kanadagæs,start K AE N AE,T
+konráðína,start,K
+sveindís,start S,V
+krabbamein,start K R AE P AE M EH,IH
+leppalúði,start L,EH
+skel,start S EH L,stop
+gegnvirkur,start EH K N V IH K,R
+ögn,start AE K N,stop
+hækkun,start HH AE,IH
+grind,start K R,IH
+sexa,start S EH K S,AE
+landráð,start L AE N T R AE UW,DH
+deiling,start T EH IH L IH NG,K
+holt,start HH AO,T
+aðdragandi,start AE DH T R AE AE,N
+metorð,start M EH T AO R,DH
+glæruvængur,start K,L
+aukaspyrna,start K AE S P IH R,T
+valköstur,start,V
+biðröð,start P IH DH,R
+fnykur,start F N,IH
+nýyrði,start N IH IH R DH IH,stop
+gestína,start EH S T IH,N
+töff,start T,AE
+reisn,start R EH IH S T,N
+örn,start AE,R
+lófi,start L OH UW,V
+kokkur,start K AO HH K R,stop
+frakkar,start F R AE HH K AE R,stop
+föðurbróðir,start F,AE
+hlíðaburkni,start,IH
+dúskur,start,T
+landi,start L AE N T,IH
+pólland,start P OH UW L L,AE
+hefill,start HH,EH
+gustuk,start,K
+frábærlega,start F R AE UW P,AE
+tjara,start,T
+ræðismannsbústaður,start R AE IH DH,IH
+hryðja,start IH DH,Y
+þakklæti,start TH AE HH K,L
+slefa,start S T L,EH
+skapvondur,start S K AE P V AO N T,R
+ölgerðarhús,start AE L EH R DH AE R,HH
+almennur,start AE L M EH N R,stop
+ægilegur,start AE IH Y IH L EH,R
+innyfli,start IH,N
+heimsmethafi,start HH EH IH,M
+káka,start K,AE
+safír,start,S
+málfræði,start M AE UW L F R AE IH DH IH,stop
+bremsa,start P R EH M,S
+fórnarlamb,start F OH UW R,T
+fólk,start F,OH
+brautarstöð,start P R T AE R S T,AE
+barátta,start P,AE
+þukla,start TH HH K L AE,stop
+rasismi,start R AE S IH S,M
+fjölmiðlasaga,start F Y AE L M IH DH L,AE
+mannlegur,start M AE N,L
+lenda,start L EH,N
+garðyrkjumaður,start K AE,R
+kennari,start EH N AE,R
+meðleikur,start M EH DH L EH IH K,R
+skapvondur,start S K AE P V,AO
+dreifing,start T R EH IH V IH NG,K
+hægð,start HH AE IH,DH
+nyt,start N IH,T
+flokka,start F L AO HH K,AE
+reyna,start R,EH
+benda,start P EH N T,AE
+farsakenndur,start F AE,S
+endastöð,start EH N T,AE
+trésmiðja,start T R Y EH S M IH DH,Y
+geldingalauf,start EH,L
+hjarna,start,AE
+vafri,start V AE V R IH,stop
+stinga,start S T IH NG,K
+niðji,start,N
+gamansamur,start K,AE
+stafur,start S,T
+fyrirferðarmikill,start F IH R IH,R
+augnablik,start,K
+tvinna,start T V IH,N
+sori,start S AO,R
+rusla,start R S T L,AE
+þyrnir,start TH IH,R
+manntal,start M AE,N
+kalka,start K AE K,AE
+rúðuborg,start R UW DH,P
+geldingahnappur,start EH L T IH NG,K
+dýralæknir,start T IH R AE L AE IH HH K N,IH
+austurland,start S,T
+klukkustund,start K L HH K S T N T,stop
+herðablað,start HH EH R,DH
+kakkalakki,start K AE HH K AE L AE HH,IH
+áhugasamur,start AE UW HH AE S AE M,R
+niður,start,N
+staður,start S T,AE
+manngera,start M AE N EH R AE,stop
+þátíð,start TH AE UW T IH,DH
+fitusýra,start F IH,T
+lógresi,start L OH UW,K
+lauf,start,L
+vasaorðabók,start V AE S AE AO R DH AE P OH,UW
+sögumaður,start S,AE
+leiðbeining,start L EH IH DH P EH IH,N
+drukkna,start T R HH K N,AE
+sófókles,start S OH UW F OH,UW
+dé,start,T
+kíghósti,start K IH HH OH UW S T,IH
+tvistur,start T V IH,S
+stjarna,start S T Y AE R,T
+prísund,start P R IH S,N
+nautgripur,start N T K R IH P,R
+bruðl,start P R,DH
+radísa,start R AE T IH,S
+baðherbergi,start P AE DH HH EH R P EH R,IH
+austurríkismaður,start S T R R IH IH S M AE DH R,stop
+lerki,start L EH,IH
+melanóra,start M EH L AE N OH UW R AE,stop
+einbirni,start EH IH N P IH R,T
+schiöth,start S AE,HH
+krydda,start K R,IH
+lausnarhraði,start L S T N AE R,AE
+saltkjöt,start S AE,T
+fjölkvæni,start F Y AE L,K
+ríkisborgararéttur,start R IH,IH
+núa,start N UW AE,stop
+gluggatjald,start K L,K
+ættingi,start AE IH HH T IH,IH
+strætisvagn,start S T R AE IH T IH S V AE K N,stop
+sporvagn,start S P AO R V,AE
+fjandmaður,start F Y AE N T M,AE
+ræðari,start R AE IH DH AE R,IH
+sina,start,S
+teygjustökk,start,T
+hreindýr,start EH IH N,T
+umtalsverður,start M T AE L,S
+dirfska,start T IH R V S K,AE
+hámundur,start HH AE UW M N T R,stop
+duggönd,start,T
+knattspyrnuþjálfari,start K N AE HH,T
+aðfaranótt,start AE DH F AE R,AE
+einhver,start EH IH,K
+spánska,start S P AE,UW
+fuglakjöt,start F K L AE,AE
+almætti,start AE L M AE IH,HH
+launahækkun,start L N AE,HH
+stjórnborð,start S T Y OH UW R T N P,AO
+benda,start,P
+dráttarvél,start T R,AE
+lás,start,L
+sími,start S IH M IH,stop
+hnútafræði,start UW T AE,F
+strompur,start S,T
+þvegill,start TH V EH IH Y IH T,L
+blotna,start P L AO HH T N AE,stop
+svelta,start S V EH,T
+kví,start,K
+leiðarstef,start L EH IH DH AE R S T EH,V
+eintyngdur,start EH IH N T IH NG,T
+glæta,start,K
+hind,start,HH
+blóðsuga,start P L OH UW DH,S
+íkorni,start IH K AO R T N IH,stop
+bytta,start P IH HH,T
+tónlistarskóli,start T OH UW N L IH,S
+stífni,start S,T
+belja,start P EH L Y AE,stop
+hugleysingi,start HH L EH IH,S
+torveldi,start T,AO
+hnésbót,start Y EH S P OH UW,T
+ninja,start N IH,N
+persónufornafn,start P EH S OH UW N F,AO
+samvistarfall,start S AE M V IH S T AE R,F
+öl,start AE L,stop
+markspyrna,start M AE K S,P
+hátalari,start,HH
+ferningur,start,F
+líkna,start L IH HH K N,AE
+bur,start P R,stop
+hrafnaklukka,start AE P N AE K L HH,K
+lexía,start L EH K S IH Y AE,stop
+karen,start K AE R,EH
+álfadrottning,start AE UW L V AE T R AO HH T N,IH
+hríðarbylur,start,IH
+bloggari,start P L AO K AE R,IH
+lífljómun,start L,IH
+kennaratyggjó,start EH N AE R,AE
+blásveifgras,start P L AE UW S V EH IH V K R,AE
+fiskibolla,start F IH S,IH
+rengla,start,R
+jónasína,start Y OH UW N AE S IH N,AE
+jaki,start Y,AE
+dáti,start T AE,UW
+andrés,start AE,N
+júgur,start,Y
+stjúpdóttir,start S T Y UW,P
+jónasína,start,Y
+vilhjálmur,start V IH L,AE
+árekstur,start,AE
+heilla,start HH EH IH T,L
+valdína,start V,AE
+stóriburkni,start S T OH UW R,IH
+þrýsta,start TH R IH S T AE,stop
+elía,start EH L IH Y AE,stop
+gallblaðra,start K AE T L P,L
+keisaraskurður,start EH IH S AE R AE S K R DH,R
+reikningur,start R EH IH HH,K
+girðing,start IH R DH IH NG K,stop
+bjarga,start P Y AE,R
+senna,start S EH,N
+hrjóta,start Y OH UW,T
+styrkur,start S T IH,K
+kverk,start K V,EH
+valdimaría,start V AE L T IH M,AE
+gríð,start K,R
+gallabuxur,start K AE L,AE
+blettatígur,start P L EH HH T AE T IH,R
+geipa,start EH,IH
+örlítill,start AE R L IH T IH T,L
+kynsjúkdómur,start IH N,S
+rör,start R,AE
+flýja,start F,L
+sjúkdómafræði,start S Y UW K T OH UW M AE F R,AE
+sænska,start S AE IH N S K AE,stop
+algjörlega,start AE L AE R L EH,AE
+ríða,start R IH DH,AE
+málfrelsi,start,M
+snæland,start S N AE IH L AE,N
+upplýsing,start HH P L IH S IH NG,K
+jónas,start Y OH,UW
+virginía,start V IH R IH,N
+sóttir,start S OH,UW
+eyra,start EH IH R AE,stop
+kverkar,start K V EH K AE,R
+stjörnuspá,start,S
+skermur,start,S
+prentsmiðja,start P R EH,T
+fjölskylda,start F Y AE L S IH L T AE,stop
+rjómaís,start,R
+óaðlaðandi,start OH UW AE DH L,AE
+ljóðskáld,start L Y OH UW DH S,K
+hjarni,start AE R,T
+brokkolí,start P R AO,HH
+djúp,start T Y,UW
+skaft,start S K AE F,T
+hnignun,start,IH
+heigull,start HH EH IH T,L
+strengja,start S T R EH IH,AE
+galdur,start K AE L T,R
+valda,start,V
+straumur,start S T R,AE
+tígur,start T IH R,stop
+hornabolti,start HH AO R,T
+dreki,start T R EH,IH
+tjákn,start T Y,AE
+frónsk,start F R OH UW N S,K
+hálfsystir,start HH AE UW L V S IH S,T
+eiginhandaráritun,start EH IH Y IH N,HH
+játa,start,Y
+eldmóður,start EH L T M OH UW,DH
+niðjatal,start N IH DH Y AE T AE L,stop
+aukatenging,start K AE T EH IH IH,NG
+kurteisi,start K T EH IH S,IH
+vaxa,start V AE S,AE
+draumlaus,start T R M L,S
+skjálfa,start S AE UW L,V
+lýður,start L IH DH R,stop
+skírisskógur,start S IH,R
+hádegisverður,start HH AE,UW
+lífhimna,start L IH V HH IH M N AE,stop
+ljótunn,start L Y OH UW T,N
+forsprakki,start,F
+bretónska,start P R,EH
+kór,start,K
+hárkolla,start HH,AE
+tungumál,start T UW NG K M AE UW,L
+klængur,start K L AE IH NG K,R
+hveitiklíð,start EH IH T IH K,L
+leiðtogi,start L EH,IH
+forma,start F,AO
+skógarkerfill,start S K OH UW AE R EH R V IH T,L
+bretland,start P R EH T L AE N,T
+frelsisbarátta,start F R,EH
+jörundína,start Y AE,R
+lyng,start L,IH
+drumbur,start T R M P,R
+ofbeldi,start AO V,P
+birkitré,start P,IH
+skrafa,start S K R AE,V
+félag,start F,Y
+verulega,start V EH R L,EH
+beina,start,P
+flæði,start F L AE IH DH,IH
+sítrónusýra,start S IH T R OH UW N S,IH
+skírnarfontur,start S IH R T N AE R F,AO
+reglustika,start R EH K,L
+tota,start T AO T,AE
+köllun,start K,AE
+vetni,start V EH HH T N IH,stop
+göndull,start K AE N T,T
+dripla,start T R IH,HH
+lesblinda,start L EH,S
+beitieski,start P EH IH,T
+bruggari,start P R K,AE
+taugafræði,start T,AE
+hulda,start HH,L
+sannfærandi,start S AE N F AE,IH
+þræla,start TH R AE IH L,AE
+brauðmylsna,start P R DH M IH L,S
+kok,start K,AO
+sókn,start S OH,UH
+knapi,start K N AE P,IH
+skvetta,start,S
+sálfræðingur,start S AE UW L F R AE IH DH IH NG K R,stop
+knattspyrnuþjálfari,start K N AE HH T S P IH R T N TH Y AE,UW
+kennslustund,start EH N S T L S T N T,stop
+gjaldmiðill,start,AE
+læknisfræðilegur,start L AE IH HH K N IH S F R,AE
+beykitré,start P EH IH IH T R,Y
+blómvöndur,start P L OH UW M V AE N T R,stop
+harmóníum,start HH AE R M OH UW,N
+ábendingarfornafn,start AE UW P EH N T IH NG K AE,R
+ninja,start N IH N Y,AE
+sýkja,start S,IH
+kynda,start IH N,T
+maður,start M,AE
+grunnli,start K R N L IH,stop
+fyrirtæki,start F IH,R
+vélbúnaður,start V,Y
+höfðingi,start HH AE V,DH
+þátíð,start TH AE UW,T
+hönnun,start,HH
+brautargengi,start,P
+dingull,start T IH NG K T L,stop
+upphæð,start,HH
+vettvangur,start V EH HH T V AE UW NG,K
+saurblað,start S R P L AE,DH
+múkki,start M UW,HH
+stikla,start,S
+valkostur,start V AE L K AO S,T
+neðanjarðarbraut,start N EH DH AE N Y,AE
+einteymingur,start EH IH N T EH IH M IH NG,K
+afráða,start AE V,R
+melóna,start M,EH
+vasaljós,start V,AE
+bjarnheiður,start,P
+endurskoðandi,start EH N T R S K AO DH AE N,T
+eðalsteinn,start EH DH AE L S T,EH
+mjólkurmatur,start M Y OH UW K R M AE T R,stop
+gunnólfur,start K N OH UW L V,R
+bringa,start P R,IH
+snjallur,start S T N Y,AE
+skíðaþjálfari,start S IH DH AE TH Y AE UW L V AE,R
+obláta,start AO P,L
+frumufræði,start F R,M
+spindill,start S,P
+sauðvingull,start S DH V IH NG K T L,stop
+löngun,start,L
+húðsjúkdómafræðingur,start HH UW DH S Y UW K T OH UW M,AE
+steinn,start S T EH IH T N,stop
+arfi,start AE,R
+kítti,start IH,HH
+íhaldssamur,start IH,HH
+lækjasef,start L AE,IH
+markgreifi,start M AE K K R EH,IH
+óvarkár,start OH,UW
+ísbjörn,start IH S P Y,AE
+yfirráð,start IH V IH R R AE UW DH,stop
+elfting,start EH T,IH
+tvístirni,start T V IH S T,IH
+ýrar,start IH R AE,R
+vottur,start V AO,HH
+eðlilegur,start,EH
+dirfð,start T,IH
+aðalsögn,start AE DH AE L,S
+drangi,start,T
+handavinna,start HH AE N T AE V IH N,AE
+botnlangatota,start P AO HH T N L AE UW NG K AE,T
+magnúsína,start M AE,K
+einn,start EH,IH
+drottningarriddari,start T R,AO
+stjórnleysi,start S T,Y
+árstími,start AE,UW
+marta,start M AE,T
+kameldýr,start K AE M EH L,T
+frekna,start F R EH HH,K
+djúprista,start T Y UW P R,IH
+blómkál,start P,L
+böl,start P,AE
+íverufall,start IH V,EH
+refill,start R EH V,IH
+frystiskápur,start F R IH S T IH S K AE UW,P
+þýfi,start,TH
+biðja,start,P
+kúlupenni,start K,UW
+rifta,start R IH F,T
+sigurdís,start S,IH
+nýfæddur,start N,IH
+gripur,start K R,IH
+einangrari,start EH,IH
+þjálfa,start TH Y AE,UW
+hreinsun,start,EH
+vilmundur,start V IH L M N,T
+klettur,start K L EH HH T,R
+glæða,start,K
+stefanía,start S T EH F AE N IH Y,AE
+snilld,start S,T
+menga,start M EH IH NG K AE,stop
+loppa,start L AO,HH
+framkvæmdastjóri,start F R AE M K V AE IH M T AE S T,Y
+beltisstaður,start P EH T IH S S T AE DH,R
+persóna,start P EH,S
+lagður,start L AE,DH
+troða,start T R AO,DH
+glíma,start,K
+jólaeyja,start Y OH UW L AE EH IH Y,AE
+kóngur,start K OH UW NG,K
+hátíð,start HH AE UW T IH DH,stop
+holurt,start,HH
+fjöldamorð,start F Y AE L T AE M AO R,DH
+snípur,start S,T
+baðherbergi,start,P
+tækling,start T AE,IH
+græða,start K R AE IH DH AE,stop
+neysla,start N EH IH,S
+skáldskapur,start,S
+uppdatera,start HH P T AE T EH,R
+ræðari,start R,AE
+spítt,start,S
+mænudeyfing,start M AE IH N T EH IH V IH NG,K
+frelsisstyttan,start F R EH L S IH S S T IH,HH
+kalkspat,start K AE K S,P
+jakki,start Y,AE
+bera,start,P
+djók,start T Y OH UW,K
+þáttaskil,start TH AE UW HH T AE S,K
+hárbursti,start HH AE UW R P S T,IH
+blóðmura,start P L OH UW,DH
+eiturlyfjanotandi,start EH IH T R L IH V Y AE N AO T AE N,T
+rölt,start,R
+breki,start P R EH IH,stop
+hornafræði,start HH,AO
+nýfæddur,start N IH F AE IH T R,stop
+tónlistarskóli,start T OH UW N L,IH
+frónskur,start F R OH,UW
+heiðdís,start HH EH IH,DH
+ásókn,start AE UW S OH UW HH K,N
+freydís,start,F
+stjarneðlisfræði,start S T Y AE R T N EH DH L IH S,F
+tröð,start T,R
+jafn,start Y AE,P
+kremja,start K,R
+lögreglumaður,start L AE R EH,K
+silfursóley,start,S
+hróarskelda,start OH UW,AE
+ræll,start R AE,IH
+tungljurt,start,T
+þyngdarsvið,start TH IH NG T AE R,S
+stemma,start S T,EH
+fjölskylda,start,F
+prjónn,start P R,Y
+hrím,start,IH
+ákafir,start AE UW K AE V IH,R
+sturta,start,S
+ferskur,start F EH S K,R
+illmælgi,start,IH
+hyrna,start,HH
+tækisfall,start T AE IH K IH,S
+morkill,start,M
+péttneska,start P Y EH HH T N,EH
+liðveisla,start L,IH
+sammiðja,start S AE M,M
+núbbi,start N,UW
+framleiða,start F,R
+gerandi,start,EH
+eipa,start EH IH,P
+clausen,start K L AE UW,S
+lúga,start L UW,AE
+nenni,start N EH N,IH
+hvolfa,start K V AO,L
+áfergja,start AE UW F,EH
+páhæna,start P AE UW HH AE IH,N
+bollur,start,P
+tvítyngdur,start T V IH T IH NG T,R
+gráða,start K R AE UW,DH
+þorsteinína,start TH AO,S
+hátterni,start HH AE UW HH T EH R,T
+sjúkdómur,start S Y,UW
+innheimta,start IH,N
+snjóa,start S N Y OH UW AE,stop
+vögguvísa,start,V
+flass,start F,L
+tilfinningasamur,start T,IH
+snepill,start S T N EH P IH T L,stop
+asetón,start AE S EH T,OH
+majór,start M AE Y OH,UW
+broddsúla,start P R,AO
+bólstur,start,P
+flotaforingi,start F L AO T,AE
+snökta,start S,N
+hrísgrjón,start IH S K R,Y
+basla,start P AE S T L,AE
+heiðarlegur,start HH EH IH DH AE R,L
+barnagæla,start P AE R T N AE AE,IH
+innyfli,start IH N IH P L IH,stop
+rjómaostur,start R Y OH,UW
+ábyrgð,start AE UW P,IH
+fyrirlitning,start F IH R IH R L,IH
+dýpi,start T IH,P
+ljómi,start L,Y
+kristján,start K R IH,S
+víóla,start V IH Y,OH
+dýraspítali,start T IH R AE S P IH T AE L IH,stop
+tordýfill,start T AO R T,IH
+handbók,start HH AE N,T
+ábyrgð,start AE UW,P
+nálgunarbann,start N AE UW L K,N
+hálfnótuþögn,start HH AE UW L V N OH UW T TH AE K N,stop
+torfi,start T AO R V IH,stop
+örðugleiki,start AE R DH K L EH,IH
+glissa,start,K
+frábending,start,F
+aðstæður,start,AE
+kyndill,start IH,N
+vöxtur,start V,AE
+umskurður,start,M
+norðmaður,start N AO R DH M AE DH R,stop
+myrkur,start M IH K,R
+handsnyrting,start HH AE N T S,T
+fótboltafélag,start F OH UW T P AO T AE F Y EH L,AE
+galsi,start K AE,L
+platónskur,start P L,AE
+glepja,start,K
+stefna,start S T EH P N AE,stop
+tryggur,start T R IH,K
+detta,start,T
+língresi,start L IH N K R,EH
+reyrgresi,start R EH IH R K,R
+morgunkorn,start M AO R K N K AO R T N,stop
+dörslag,start T AE R S T L AE,stop
+hylla,start HH IH,T
+tónleikar,start,T
+magapína,start M AE AE,P
+sessa,start S,EH
+hiksti,start HH IH S T,IH
+grefill,start K R EH,V
+svili,start S V,IH
+götun,start K AE T,N
+ambaga,start AE M,P
+nærmynd,start N AE IH R M IH,N
+hellir,start HH EH,T
+ólafína,start OH UW L AE V IH,N
+upphæð,start HH,P
+heima,start,HH
+saumavél,start S M AE V Y EH,L
+jafna,start,Y
+næringarfræðingur,start N AE IH R IH NG K,AE
+júkki,start Y UW HH IH,stop
+guðvaldína,start K V DH V AE L T IH N AE,stop
+undirflokkur,start N T IH,F
+fyrirferðarmikill,start F IH R IH R F EH R DH AE R M IH IH T,L
+óvinátta,start OH UW V IH N AE UW HH T AE,stop
+bólstraberg,start P OH UW L S T R AE P EH R K,stop
+hersegóvína,start HH,EH
+óásjálegur,start OH UW AE UW S,Y
+typpi,start,T
+póstur,start P OH,UW
+magndís,start M AE K,N
+umbrot,start M,P
+sagnfræði,start S AE K N F,R
+brynjólfína,start P R IH N Y OH UW L V IH N AE,stop
+auglýsa,start L IH S,AE
+ríbónúkleasi,start R,IH
+forn,start F AO R T,N
+veiðimaður,start V EH IH DH,IH
+léttur,start L Y EH HH,T
+mýfluga,start M IH F,L
+lágmynd,start L AE UW M,IH
+byrstur,start P IH,S
+smiðja,start,S
+dauðadómur,start T DH AE T,OH
+sáðrás,start S AE UW DH R AE UW,S
+míga,start M,IH
+bróðurdóttir,start,P
+stilkur,start S T IH K,R
+strútur,start S T R UW,T
+hreyta,start EH IH T AE,stop
+heimsálfa,start HH EH IH,M
+nautakjöt,start N,T
+þrældómur,start TH,R
+yfirdrepsskapur,start IH V IH R T R EH P S S K AE P,R
+lifandi,start L,IH
+hásveifgras,start HH AE UW S V EH IH V K,R
+gatnamót,start K AE HH T N AE M OH UW T,stop
+sæti,start S AE IH,T
+norn,start N AO R T,N
+virði,start V IH R DH IH,stop
+hljómlist,start Y OH UW M L,IH
+þurr,start TH,R
+merki,start,M
+poppa,start P AO HH P AE,stop
+sálfræði,start S AE UW,L
+fjúka,start F Y UW,K
+úkraína,start UW K R AE,IH
+langbarðaland,start L AE UW NG K P AE,R
+jafnaldri,start Y AE P N AE,L
+norðdahl,start N AO R DH T AE L,stop
+tálvon,start T AE UW,L
+poki,start P AO IH,stop
+lýsing,start L,IH
+metorð,start M EH,T
+klára,start K,L
+ferðaáætlun,start F EH R DH AE AE UW AE IH HH T L N,stop
+geislabaugur,start EH IH S T,L
+galgopi,start K,AE
+samfélagsmiðill,start S AE M F,Y
+sameind,start S AE M EH IH,N
+skjaldbaka,start S AE L T,P
+töf,start,T
+aukaspyrna,start K AE S P,IH
+framleiða,start,F
+slúta,start S T L UW T AE,stop
+strigaskór,start S T R,IH
+eiginkona,start EH IH Y IH N K,AO
+brún,start,P
+fastur,start F AE S,T
+manngera,start M,AE
+dýpt,start T IH F T,stop
+hámundur,start HH AE UW,M
+bergkvika,start P EH R K K V IH,K
+sesín,start S EH,S
+hjallur,start AE,T
+skær,start S AE IH,R
+miðnætti,start M IH,DH
+friggjargras,start F R IH AE R K R AE S,stop
+þágufall,start TH AE UW F AE T L,stop
+allteins,start AE T EH IH,N
+niðurskurður,start N IH DH,R
+ostagerð,start AO S,T
+ökumaður,start,AE
+hólmfríður,start,HH
+stama,start S T AE M,AE
+sannleikur,start S AE N L EH,IH
+lúterskur,start L,UW
+megna,start M EH K,N
+botnlangatota,start P AO HH,T
+blóðþrýstingur,start P L OH UW DH TH R IH S T IH NG K,R
+ilmur,start IH L M,R
+maríubjalla,start M AE R IH Y P Y AE T L AE,stop
+skæni,start S AE IH N IH,stop
+trúlegur,start T R UW L,EH
+pardusdýr,start P AE R T S T,IH
+hrúður,start UW DH,R
+fönikía,start,F
+einlægni,start EH IH N L AE IH K N IH,stop
+tíðni,start T IH DH,N
+rannsókn,start R AE N S OH UW,HH
+stjarneðlisfræði,start S,T
+fræðigrein,start F,R
+hlað,start AE,DH
+líkskurður,start L IH K S K R DH,R
+vélfræðingur,start V Y EH L F R AE IH,DH
+móðir,start,M
+íslenska,start IH S L EH N S K,AE
+steindór,start S T EH IH N,T
+móðga,start M OH UW DH K,AE
+mylja,start,M
+greinilegur,start K R EH IH N IH,L
+kænn,start AE IH,T
+gagnsemi,start K AE K N S EH M,IH
+krefja,start K R EH V Y AE,stop
+jódís,start Y OH UW T IH,S
+gráta,start K R AE,UW
+sléttlendi,start S T L Y,EH
+slit,start S T,L
+þörf,start TH AE R V,stop
+stjörnufræði,start S T Y AE,R
+skadda,start,S
+skratti,start S K R AE HH,T
+lítri,start L,IH
+skaf,start S K AE V,stop
+lystauki,start L IH S T IH,stop
+handavinna,start HH AE N T AE V IH,N
+einhyrningur,start EH IH N HH,IH
+hörður,start,HH
+bretland,start P R EH T L AE N T,stop
+andrés,start,AE
+skjaldarmerki,start S AE L T AE R M,EH
+beitieski,start P EH IH T IH EH S,IH
+hálskirtill,start HH AE UW L S IH,R
+skrímsli,start S K R IH,M
+lausnarhraði,start L,S
+kengur,start EH IH NG K R,stop
+svil,start S,V
+heild,start HH,EH
+v,start V AE F,stop
+silfraður,start S,IH
+hríspappír,start IH S P AE HH,P
+ofurþungur,start AO V R,TH
+jóð,start Y OH UW DH,stop
+íferðarfall,start IH F,EH
+merkúr,start,M
+anga,start AE UW NG K AE,stop
+klaufalegur,start,K
+röskur,start R AE,S
+baugfingur,start P F,IH
+bylgjufall,start P IH L F AE T L,stop
+leysigeisli,start L EH IH S IH EH,IH
+ákavíti,start AE UW K AE,V
+lýra,start L,IH
+hreyfill,start,EH
+sannfærandi,start S AE N F AE IH R AE N T,IH
+svipta,start S V IH F,T
+fingurbjargarblóm,start F IH NG K R P Y AE R K AE,R
+rödd,start R,AE
+húsfreyja,start HH UW S F R EH,IH
+gríska,start,K
+undanfari,start N T AE N F AE R,IH
+nú,start N UW,stop
+strjúka,start S,T
+fallbeyging,start F AE T L B EH,IH
+gamansamur,start K AE,M
+miðeyra,start,M
+rífa,start R IH V AE,stop
+elías,start EH,L
+valhöll,start V AE L,HH
+tjón,start T Y,OH
+meinsæri,start M EH IH N,S
+nýrun,start N,IH
+rennibraut,start R EH,N
+kleina,start K L EH IH N,AE
+meðferð,start M EH DH,F
+hljóðbók,start OH UW DH P OH,UW
+kynfæri,start IH N F AE,IH
+ríkisborgari,start R,IH
+heimsmet,start,HH
+friggjarlykill,start F R,IH
+blíður,start P,L
+fjórir,start F Y OH UW R IH R,stop
+fræðigrein,start F R AE IH DH IH,K
+hrólfur,start OH,UW
+fórna,start F OH UW R T N,AE
+romm,start R AO M,stop
+herkvaðning,start HH EH K V AE DH N,IH
+reikistjarna,start R EH IH IH S T Y AE R T,N
+þýskur,start TH,IH
+búretta,start P,UW
+ótt,start OH UW HH,T
+leiðni,start L EH,IH
+skeiðklukka,start S,EH
+rækja,start,R
+svæfing,start S V AE IH V IH,NG
+fenómen,start F EH N OH UW M EH,N
+markalína,start M AE K AE L IH N AE,stop
+syrja,start S IH R Y,AE
+innsog,start IH N,S
+sníkja,start,S
+markspyrna,start M AE K,S
+guðmundína,start K V DH M N T IH,N
+visna,start V,IH
+michelsen,start M IH HH K EH L S,EH
+pomp,start,P
+hýdrat,start IH T,R
+skil,start S IH L,stop
+fanga,start F AE UW NG K AE,stop
+leikrit,start L EH IH K R,IH
+alræði,start,AE
+jarðskjálfti,start Y AE R DH S AE UW T IH,stop
+bóg,start P OH,UW
+krani,start K R AE,N
+innheimta,start IH N HH EH IH,T
+einkalykill,start EH IH NG K AE,L
+áhrifaríkur,start AE UW,IH
+skynsemi,start S,IH
+aukafallsliður,start K AE F AE L S L IH DH R,stop
+vínandi,start V IH N AE N,T
+léttur,start L Y EH HH T,R
+höfðaborg,start HH AE V DH,AE
+sálmabók,start S AE UW L M AE,P
+kala,start K,AE
+gát,start K,AE
+eggertína,start EH EH T IH,N
+trjóna,start T R Y OH UW N,AE
+hjálparsagnorð,start,AE
+forheimskun,start F AO R HH EH IH M,S
+gamall,start,K
+ríkharður,start R IH K HH AE,R
+jafnaldri,start Y AE P,N
+blinda,start P L IH N T,AE
+diskótek,start T IH S,K
+múrbrjótur,start M UW,R
+veðurtungl,start V EH DH R,T
+vor,start V AO R,stop
+körfubolti,start,K
+stari,start S T,AE
+própan,start P R OH UW P,AE
+vélfræði,start V Y EH L F R AE IH DH IH,stop
+rekstur,start R EH K,S
+vita,start,V
+léttmjólk,start L Y EH HH T M Y OH UW K,stop
+bardagalist,start P AE R T AE AE,L
+aldinbori,start AE L T IH N P AO R IH,stop
+kyrja,start IH,R
+býli,start P,IH
+æsa,start AE IH,S
+hof,start,HH
+matarborð,start M AE T AE R P AO,R
+dansa,start T AE N S AE,stop
+móheiður,start M OH UW HH EH IH DH,R
+dráttartaug,start T R AE UW HH T AE R,T
+áhætta,start AE UW HH AE IH HH T,AE
+knippi,start K N IH HH P IH,stop
+asía,start,AE
+brjóstvasi,start P R Y OH UW S T V AE S IH,stop
+köngull,start K,NG
+syrjóttur,start S,IH
+miskunna,start M IH S,K
+standpína,start S T AE N T P,IH
+staður,start S T AE,DH
+gómur,start K,OH
+hæll,start HH AE,IH
+auðmundur,start DH M N T R,stop
+rakari,start R AE K AE R IH,stop
+lausung,start L,S
+bensínstöð,start P EH N S IH N S T AE,DH
+trúr,start T R,UW
+dúkönd,start T UW K AE N T,stop
+stríða,start S T R IH,DH
+fjór,start F Y OH,UW
+olnbogabót,start AO L N P AO AE P,OH
+bókaútgáfa,start P OH UW K,AE
+pólland,start P OH UW,L
+fótsnyrting,start F OH UW T S N IH T IH,NG
+jakuxi,start Y AE K K,S
+leirburður,start L EH IH R P R DH R,stop
+kok,start K AO K,stop
+friggjargras,start F R IH AE R K R AE,S
+blóðmör,start P,L
+leiði,start L EH,IH
+framleiðandi,start F R AE,M
+tölvupóstur,start T,AE
+holtsetaland,start HH AO T S EH T AE L,AE
+konungsveldi,start,K
+opnunartími,start,AO
+kjöltutölva,start AE T T,AE
+stýra,start S T IH R AE,stop
+mótgerð,start M OH,UW
+aðalhaf,start AE DH,AE
+mjólkursýra,start M Y,OH
+hollenska,start HH AO L L EH N,S
+danalög,start,T
+blóðappelsína,start P L OH UW DH AE,HH
+eingetinn,start EH IH N EH T IH N,stop
+ákaflega,start AE UW,K
+indriðína,start IH,N
+flagasóley,start F L AE,AE
+hveitiklíð,start EH IH T,IH
+kyrrsetning,start IH R S EH HH T N IH,NG
+stimpill,start,S
+ákafur,start AE,UW
+þúbróðir,start TH UW,P
+úff,start UW,F
+prentsmiðja,start P,R
+séríslenskur,start S,Y
+sprunga,start S P R UW NG K AE,stop
+lettland,start L EH HH T L AE,N
+gryfja,start K R,IH
+melgresi,start M EH L,K
+sandkassi,start S AE,N
+afla,start AE P L,AE
+hugsanlegur,start HH S AE,N
+móheiður,start,M
+bráðna,start P R AE UW DH N AE,stop
+felga,start F,EH
+hnúskur,start UW,S
+happdrætti,start HH,AE
+valtýr,start V,AE
+beddi,start P EH,T
+andvarp,start AE N T V AE P,stop
+lotsveifgras,start L AO T S,V
+tafnið,start T AE P N IH,DH
+rándýr,start,R
+sykurrófa,start,S
+dökkasef,start T AE HH K AE S EH,V
+títt,start T,IH
+óreglulegur,start OH,UW
+nafarsrauf,start N AE V AE S R V,stop
+vistfræði,start V IH S T F R AE IH DH IH,stop
+helsingi,start,HH
+friðlýsa,start F R IH DH L IH S AE,stop
+hveitikím,start K V EH IH T IH K IH M,stop
+viftureim,start V IH F,T
+marteinn,start M AE T EH IH,T
+rými,start R IH M IH,stop
+nökkvi,start N AE HH,K
+klettasalat,start,K
+flugslóði,start F L,S
+f,start EH,F
+tjarnablaðka,start T Y AE R T N AE P L AE DH K,AE
+trúður,start T,R
+pakkhús,start P AE HH K,HH
+vélbúnaður,start V Y EH L P UW N AE DH R,stop
+minjagripur,start M IH N Y AE K R IH P R,stop
+lífsmark,start L IH F S M,AE
+hólmfríður,start HH OH UW L M F R IH,DH
+jólabókaflóð,start Y OH UW L AE,P
+þrenningarmaðra,start TH,R
+bandingi,start P,AE
+tása,start,T
+rengja,start R EH,IH
+ísmael,start,IH
+hugsjónamaður,start HH S Y OH UW N AE,M
+jónatan,start Y OH UW N AE,T
+erlendur,start,EH
+bílaflutningabíll,start P IH L AE F L,HH
+rifrildi,start R IH V R,IH
+hrefna,start EH P N AE,stop
+hjálparsögn,start AE UW P AE R S AE,K
+bolur,start P AO L,R
+kók,start K OH,UW
+djús,start T,Y
+plóma,start P L OH UW,M
+hildimundur,start,HH
+vepja,start V EH P Y,AE
+innihald,start IH N IH,HH
+ull,start,L
+dingla,start,T
+alkul,start AE L,K
+rafeindasmásjá,start,R
+gunnþórunn,start K N TH OH UW R,N
+fangaklefi,start F AE UW NG,K
+veð,start V EH DH,stop
+græja,start K R AE IH,Y
+ósló,start OH UW S T L OH UW,stop
+undirforrit,start N,T
+vinna,start V IH N AE,stop
+svaf,start S V AE V,stop
+mávur,start M AE,UW
+andstyggilega,start AE N T S T IH IH L,EH
+býfluga,start P IH,F
+kviða,start K V IH,DH
+líkindi,start L IH IH,N
+þorn,start TH,AO
+upplifun,start HH P L IH V N,stop
+skeljamura,start S EH L Y AE M R,AE
+hjólhýsi,start,OH
+tuldra,start T L T R AE,stop
+stóðgarður,start S T OH UW DH,K
+hespa,start HH EH,S
+spurning,start S P R T,N
+frelsi,start F R EH L S IH,stop
+handknattleikur,start HH AE N T K N AE HH T L EH IH K R,stop
+dæld,start T AE,IH
+munur,start M N,R
+fjórðapartsnóta,start F Y OH UW R DH AE P AE,T
+fésbók,start F Y EH S P OH UW K,stop
+at,start AE T,stop
+snekkja,start S N EH HH,AE
+gæluverkefni,start AE,IH
+toppur,start T AO HH,P
+eignarhaldsfélag,start EH IH K N AE R HH AE L T S F Y EH,L
+drengskapur,start T R EH,IH
+súta,start,S
+þungur,start,TH
+lauslátur,start,L
+vaka,start V AE,K
+útlenskur,start UW T L EH N S K,R
+náðhús,start N AE,UW
+glerungur,start K L EH R UW,NG
+sítrónusafi,start S IH T R OH UW N S,AE
+sáning,start S AE UW N IH NG,K
+möppudýr,start M AE HH P T IH R,stop
+sífellt,start,S
+skorningur,start S K AO R T N IH NG K R,stop
+flórens,start,F
+flórens,start F L OH UW R EH,N
+þreifa,start TH R EH IH V AE,stop
+náttúra,start N AE UW HH,T
+hálíngresi,start HH AE UW L IH N K R EH S IH,stop
+títra,start T IH T R,AE
+hríspappír,start IH S P AE HH P IH R,stop
+neyða,start N EH IH DH,AE
+svæði,start S V,AE
+forrit,start,F
+framhlaðningur,start F R AE M AE DH N IH NG K R,stop
+sjár,start S Y AE,UW
+notkun,start N AO HH T K N,stop
+leifturstríð,start L EH IH F T R S,T
+munaðarleysingi,start,M
+eldstæði,start EH L T S T AE IH,DH
+spurnarfornafn,start S P R T N AE R F,AO
+semja,start S EH,M
+klökkur,start K,L
+fylgirit,start F IH L IH,R
+taka,start T,AE
+krýning,start,K
+aftaka,start AE,V
+lávarður,start L AE UW V AE,R
+hárgreiðsla,start HH AE UW R K R EH IH DH,S
+búlgaría,start P UW L K AE,R
+ræðari,start R AE IH DH AE,R
+krappur,start K R AE HH P,R
+höfuðborgarsvæðið,start HH AE V TH P AO R K AE R S,V
+gella,start EH L AE,stop
+hanki,start HH,AE
+spyrja,start S P,IH
+þyrnir,start TH IH R,T
+hræring,start AE IH R IH,NG
+púsluspil,start,P
+einbirni,start EH IH N P,IH
+búlgarska,start P UW L K AE,S
+spergilkál,start S P EH R IH L K AE UW L,stop
+mávur,start M AE UW V,R
+franskur,start F R AE N S,K
+heilla,start,HH
+arnfríður,start AE R T N F R IH,DH
+friggjarlykill,start F R IH AE R L IH IH T,L
+kyrrð,start IH R,DH
+afklæða,start AE V K L AE IH DH,AE
+stafa,start S T AE,V
+berlín,start,P
+slef,start S T L EH V,stop
+mas,start,M
+unglingur,start UW NG,K
+bensínsala,start P,EH
+sítrónusafi,start S,IH
+niðjatal,start N IH DH Y,AE
+hirðulaus,start HH IH,R
+næpa,start N AE IH P AE,stop
+sjúkdómur,start S Y UW K T,OH
+rífast,start R IH,V
+bismút,start P IH S M,UW
+hvíla,start K,V
+legging,start L EH IH NG K,stop
+spínat,start S,P
+grínisti,start K R IH N IH S T,IH
+basi,start P AE,S
+geirfugl,start EH IH R F,K
+akrein,start AE K R EH IH,N
+úkraínskur,start UW K R AE IH N S K R,stop
+d,start T,Y
+lepja,start L EH,P
+frónsk,start F,R
+forjaxl,start F AO R,Y
+millimetri,start M IH L IH,M
+kræklóttur,start K R AE IH HH K L,OH
+þingforseti,start TH IH NG K F AO S EH T,IH
+kvöld,start K V,AE
+vegir,start V EH Y IH,R
+þýfi,start TH IH V IH,stop
+skelfiskur,start S EH L F IH,S
+skósmiður,start S K OH UW S,M
+kólesteról,start K OH UW L EH S T EH R OH,UW
+kussari,start K S AE R IH,stop
+kyn,start IH N,stop
+fyrirlitning,start F IH R IH R L IH HH T N,IH
+yfirdrepsskapur,start IH V IH R T R EH P S S,K
+men,start M,EH
+þvottabjörn,start TH V AO HH T AE P Y AE R T,N
+missir,start,M
+reið,start R EH IH DH,stop
+aðdróttun,start AE DH T R,OH
+hlíta,start IH,T
+strápils,start S T R AE UW P,IH
+annar,start AE N AE,R
+petrína,start P EH T R IH N AE,stop
+háband,start HH AE UW P AE N,T
+salvadori,start S AE L V AE T,AO
+pissuskál,start P IH S S K,AE
+ljósmyndavél,start,L
+málfrelsi,start M AE UW L F R,EH
+ágirnd,start AE UW,IH
+stjórnborð,start S T Y OH UW,R
+kvikna,start K V IH HH K,N
+kirjálaland,start IH R Y,AE
+dalmatía,start T AE L M AE T IH Y AE,stop
+sjónskertur,start S Y OH UW,N
+súrmjólk,start S UW R M Y OH UW,K
+eyrún,start EH IH,R
+framan,start F R,AE
+heflaður,start HH EH P L,AE
+hálfsystir,start HH AE,UW
+línarfi,start,L
+kunta,start K T,AE
+óáreiðanleiki,start OH UW AE UW R EH IH DH AE N L EH,IH
+ræna,start R AE IH N AE,stop
+klósigi,start K L OH UW S,IH
+gallalaus,start K,AE
+sippuband,start S IH,HH
+leikkona,start L EH,IH
+himbrimi,start HH IH,M
+logri,start,L
+göfuglyndur,start K AE V L IH N T R,stop
+dáti,start T AE UW T IH,stop
+bákn,start P,AE
+gallblaðra,start K AE T L P L AE DH,R
+duttlungafullur,start T HH T,L
+erlendína,start,EH
+halli,start HH,AE
+gatnamót,start K AE HH T N AE M OH UW,T
+tröllatré,start T R AE T L AE,T
+hvítkál,start IH T K,AE
+heimta,start,HH
+rúmenska,start R UW M EH N S K,AE
+kilja,start IH,L
+hlýri,start IH R,IH
+lyngjafni,start L IH NG K Y AE P,N
+þrymskviða,start TH R IH M S K,V
+blómstra,start P L,OH
+ljónslappi,start,L
+óratóría,start OH UW R,AE
+trúarjátning,start,T
+pensill,start P EH N S IH T,L
+líffræði,start L IH F F R AE IH,DH
+langnykra,start L AE,UW
+kirja,start IH R Y,AE
+vasahnífur,start,V
+silfur,start S,IH
+léttir,start L Y EH HH T,IH
+flak,start F L AE K,stop
+prúðmennska,start P R UW,DH
+óáreiðanleiki,start OH UW AE UW R EH IH DH AE N L,EH
+lágþrýstingur,start L AE UW TH R IH S T IH,NG
+hólf,start HH OH UW L V,stop
+annríki,start AE N R IH IH,stop
+stjarfur,start S,T
+samför,start S AE,M
+vindmylla,start V IH N T M IH L AE,stop
+kolsýra,start K AO L S,IH
+knéfiðla,start K N Y,EH
+blóðfruma,start P L OH UW DH F,R
+hvítblæði,start,IH
+sagnfræði,start S AE K N F R,AE
+kempa,start EH P,AE
+grasafræði,start,K
+bygging,start P,IH
+grannur,start K R AE N,R
+karþagó,start,K
+stuttermabolur,start S T HH T EH R M AE P AO,L
+stofa,start S T,AO
+tafnið,start,T
+skaf,start,S
+vinnukona,start V,IH
+vasaúr,start V AE S AE,UW
+kyrja,start IH R Y AE,stop
+pollagalli,start P AO T,L
+hálmstrá,start HH AE,UW
+karmur,start K AE R M R,stop
+dílaburkni,start T IH,L
+heimasími,start HH,EH
+partur,start P,AE
+göfuglyndur,start,K
+roða,start R AO DH,AE
+sveðja,start S V EH DH Y,AE
+telja,start T EH,L
+gustur,start K S T R,stop
+syrja,start,S
+klak,start K L,AE
+slydda,start S T L IH,T
+búlgarska,start P UW L K AE S K AE,stop
+ríkisfang,start R IH,IH
+svampur,start S V AE P R,stop
+bæheimskur,start P AE IH HH,EH
+letur,start,L
+strjúka,start S T R,Y
+hröngl,start NG,L
+verð,start V,EH
+selkjöt,start S EH L,AE
+dollari,start T AO L AE,R
+frábærlega,start F R AE UW,P
+sólskin,start S OH UW L S,K
+thorlacius,start T AO R L AE S IH,Y
+húðsjúkdómafræði,start HH UW DH S Y UW K T OH UW M AE F R AE IH,DH
+höfðaborg,start,HH
+týr,start,T
+letur,start L,EH
+erkiengill,start EH IH EH IH,IH
+lúðalegur,start L,UW
+gælunafn,start AE IH,L
+vefsíða,start V EH F S,IH
+dæsa,start T,AE
+fuglafræði,start F K L AE F R AE IH DH IH,stop
+afturhald,start AE F,T
+mistilteinn,start M IH S T IH L T EH IH,T
+rjómaostur,start R Y OH UW M AE,AO
+breki,start P R EH,IH
+smokkar,start S,M
+leyfi,start L EH IH V,IH
+hárleggjastör,start HH,AE
+stjúpmóðir,start S T Y UW P M OH UW DH IH R,stop
+vinda,start V IH N T,AE
+fjölmiðlasaga,start F Y AE L M IH DH,L
+blásveifgras,start P L AE UW S V EH IH V K R AE,S
+geislabaugur,start EH IH S T L AE P,R
+ólafssúra,start OH UW L AE F S,S
+byrði,start P,IH
+snæfríður,start S T N AE IH F R,IH
+kveif,start K,V
+golf,start K AO,L
+jórdanía,start,Y
+skjóða,start S OH UW DH AE,stop
+frakkland,start F R AE HH K L AE,N
+gönguferð,start K,NG
+alaskavíðir,start AE L AE S K AE,V
+steinbrjótur,start S T EH IH,N
+stephensen,start S T EH,F
+hluti,start,T
+orðsifjabók,start AO R DH S IH V,Y
+bötnun,start P AE,HH
+múskat,start M,UW
+grallari,start K R AE,T
+leiftur,start L,EH
+galdrakerling,start K AE L T R AE EH,R
+snjór,start,S
+natrín,start N AE T R IH,N
+sendill,start S EH,N
+þumalputti,start TH M AE,L
+lettneska,start L EH HH T N EH S,K
+yfirlæti,start IH V IH R L AE IH T IH,stop
+hálendi,start HH AE UW L,EH
+áhersla,start AE UW HH EH S,T
+gagnagrunnur,start K AE K N AE K R N R,stop
+bragðskyn,start P,R
+svæfi,start S V AE IH V IH,stop
+frakkland,start F R,AE
+túnvingull,start,T
+slitinn,start S T L,IH
+vegarfi,start V EH AE R V,IH
+tísta,start T,IH
+moska,start M AO S,K
+orðfræði,start AO R DH F R AE IH DH IH,stop
+ös,start AE,S
+ungur,start UW NG K,R
+yfirheiti,start IH V IH,R
+stokkhólmur,start S T AO HH K,HH
+jórdanía,start Y OH,UW
+hvalveiði,start K V,AE
+þýska,start TH,IH
+búðarkassi,start,P
+sólblóm,start S OH,UW
+drottningarriddari,start T R AO HH T N IH NG K AE R R IH T AE R IH,stop
+yrkja,start IH,AE
+styrkja,start S,T
+dalalilja,start T AE L AE L IH L Y,AE
+einasta,start EH IH,N
+djamm,start,T
+austurland,start S T R L AE,N
+brautarstöð,start P R T,AE
+jón,start,Y
+flissa,start F L IH S AE,stop
+ólga,start OH UW L K,AE
+kumbaraland,start K M P AE R,AE
+hryssingur,start IH S IH NG K,R
+mótorhjól,start M OH UW,T
+beinagrind,start P EH IH N AE K R IH N,T
+steindór,start S T EH IH N T,OH
+afbaka,start AE,V
+hræðilegur,start AE IH DH IH L EH R,stop
+himnaríki,start HH IH,M
+hindartré,start HH,IH
+silja,start S IH L,Y
+kopar,start K,AO
+laxerolía,start L AE S EH R AO L IH,Y
+fjara,start F Y AE,R
+aðferðafræði,start AE DH F EH R DH AE F R AE IH DH,IH
+fjallafræhyrna,start F Y AE T L AE F,R
+prófsumma,start P R OH UW,F
+röskur,start R AE S K R,stop
+klarínett,start K L AE R IH N EH,HH
+guðfræðingur,start K,V
+blinda,start P L IH N T AE,stop
+krúna,start K R,UW
+mauraþúfa,start M R AE,TH
+steikarhnífur,start S T EH IH K AE R IH V,R
+umbrot,start M P R AO T,stop
+gleypa,start K L EH IH,P
+botnlangaskurður,start P AO HH T,N
+lotsveifgras,start,L
+hálfnótuþögn,start HH AE UW L V N OH UW,T
+jarðarberjasulta,start Y AE R DH,AE
+réttindi,start R Y EH HH T IH N,T
+jöklaklukka,start Y AE HH,K
+sýnishorn,start S IH N,IH
+fanga,start F AE UW NG K,AE
+beita,start,P
+glær,start K L AE,IH
+liðþjálfi,start L,IH
+snurða,start S T N R DH,AE
+kaðlari,start K,AE
+evklíð,start EH V,K
+grein,start K R EH,IH
+andersen,start AE N T EH R S EH N,stop
+hjálparsagnorð,start AE UW P AE R S AE K N AO,R
+kónguló,start K OH UW NG,K
+beisli,start P EH IH S T L IH,stop
+flakka,start,F
+bróðursonur,start,P
+paxblað,start P AE K S P,L
+föðurlandsvinur,start F AE DH R L AE N S,V
+rugga,start R,K
+davíð,start,T
+hagnaður,start HH AE K,N
+kennarasleikja,start EH N AE R AE S T L EH,IH
+kalksteinn,start K AE K,S
+mesópótamía,start M EH S OH UW P OH UW T,AE
+broddmjólk,start P R AO T M Y OH,UW
+krít,start K,R
+jafnaðarstefna,start Y AE P N AE DH AE R S T EH,P
+landsvæði,start L AE N T S V AE IH DH,IH
+bókstafur,start P OH UW K S T AE,V
+forskeyti,start F AO S EH IH T,IH
+skellihlæja,start S EH T L IH,AE
+hverfa,start K V EH R,V
+hæfur,start HH AE IH,V
+rismál,start R IH S,M
+ánamaðkur,start AE UW N AE M AE TH K,R
+englahorn,start EH IH NG L AE HH AO R,T
+holdsveiki,start HH AO L T S V EH IH IH,stop
+garðar,start K AE,R
+áreynsla,start AE UW R EH IH N S,T
+sinnuma,start S IH,N
+smári,start S M AE UW,R
+afturelding,start AE F T R EH,L
+vasaklútur,start V AE S,AE
+atvinnumaður,start AE T,V
+brandur,start P R AE,N
+gleði,start K L EH DH,IH
+gjall,start AE T L,stop
+grúfa,start K R UW,V
+eplamauk,start EH HH,P
+múgur,start M UW,R
+einasta,start EH,IH
+hugur,start HH,R
+tignarlegur,start,T
+gríður,start K R IH,DH
+þari,start TH AE R,IH
+brúskur,start,P
+markspyrna,start M AE K S P IH R T N,AE
+sigmundína,start S IH M N T IH N AE,stop
+stjóri,start S T Y OH UW R,IH
+óhlýðni,start OH,UW
+lónasóley,start L OH UW N AE S OH UW,L
+steik,start,S
+dramb,start T R AE,M
+fleygja,start F L EH IH Y,AE
+meðstjórnandi,start M EH DH S T,Y
+hártogun,start HH AE UW T AO N,stop
+toga,start T,AO
+eisa,start EH IH,S
+tíkarsonur,start T IH K AE R S AO N R,stop
+ávarpa,start AE UW V AE P AE,stop
+vanrækja,start V AE N R AE,IH
+mýrasef,start M IH R AE S,EH
+guðlegur,start K V DH L,EH
+ábendingarfornafn,start AE UW P EH N T IH NG K AE R F AO R,N
+óska,start OH UW S K,AE
+íferðarfall,start IH F EH R DH AE R F AE T,L
+litháíska,start L IH T HH AE UW IH S,K
+lending,start L EH N T,IH
+bíldrusla,start P IH L,T
+lungnaberklar,start L UW NG,K
+andstyggilega,start AE N T S T,IH
+náttúra,start N AE UW HH T UW R AE,stop
+össur,start AE,S
+jóakim,start,Y
+pallur,start P AE T,L
+dynur,start T,IH
+dimma,start T,IH
+spaði,start S,P
+skógarsóley,start,S
+sterkur,start S T EH K,R
+lofðungur,start L AO V DH UW,NG
+apalhraun,start AE P,AE
+riddari,start R IH,T
+krjúpa,start K R,Y
+heimspekingur,start HH EH IH,M
+andfélagslega,start AE,N
+brennuvargur,start P R EH N V AE R K,R
+fáni,start F AE UW N IH,stop
+laslegur,start L,AE
+brjóta,start,P
+bleikja,start P L EH IH,AE
+títra,start T IH,T
+tólg,start T OH UW L K,stop
+gort,start K AO T,stop
+aðsjáll,start AE DH S Y AE,UW
+krumla,start K R M L,AE
+svarðmosi,start S V AE R DH M AO S IH,stop
+bagi,start P AE,Y
+mjólkursýra,start M,Y
+ætiþistill,start AE,IH
+réttur,start R Y EH,HH
+árangur,start AE UW R AE UW NG,K
+hérað,start EH R,AE
+gljávíðir,start K,L
+píra,start P IH R,AE
+erítreskur,start EH R IH T R EH,S
+siggi,start S IH IH,stop
+kelta,start EH T AE,stop
+aðfaranótt,start AE,DH
+gyðja,start IH DH Y AE,stop
+lífsgleði,start L IH F S K L EH DH IH,stop
+eftir,start EH,F
+geirmundur,start EH IH R M N,T
+framvinda,start F R AE M V IH N T,AE
+snefill,start S,T
+þrír,start TH R,IH
+aðalskrifstofa,start,AE
+kýli,start IH L,IH
+krappur,start K R AE HH P R,stop
+sár,start S AE UW,R
+lund,start L N,T
+þarna,start TH AE R,T
+sveindís,start S V EH,IH
+sofa,start,S
+símtal,start S,IH
+staðhæfa,start S T,AE
+rani,start R,AE
+óvarkár,start OH UW,V
+gas,start K AE,S
+bókasafnsfræðingur,start P OH UW K AE S AE P N S F R,AE
+snjóa,start S N Y OH UW,AE
+alklæddur,start AE L,K
+net,start N EH T,stop
+færa,start F,AE
+helvískur,start HH EH L V IH S K,R
+mala,start M AE L AE,stop
+bæla,start P AE IH,L
+appelsína,start AE HH P,EH
+afbrigðilegur,start AE V P R IH DH IH L EH R,stop
+örvun,start AE,R
+réttritun,start R Y EH HH,T
+nýtt,start,N
+skýr,start S IH,R
+úð,start UW,DH
+veiða,start V EH,IH
+hunangsfluga,start HH N AE UW NG K S F L AE,stop
+þúsundblaðarós,start,TH
+roða,start R,AO
+hlið,start IH DH,stop
+kynþáttur,start IH N TH AE UW,HH
+stýrikerfi,start S T IH R IH EH,R
+timburmaður,start T IH M P R M AE,DH
+merja,start M,EH
+tilviljunarkenndur,start T IH L V IH L Y,N
+rússneska,start R UW S N,EH
+svengja,start,S
+hreðka,start EH,TH
+gat,start K,AE
+þórgunnur,start TH OH UW R,K
+spyrja,start S P IH R Y,AE
+hjónaskilnaður,start OH UW N AE,S
+trúarjátning,start T R UW AE R Y,AE
+stilla,start S T IH T L AE,stop
+fyllilega,start F IH T L,IH
+rækta,start R AE IH T AE,stop
+hnigna,start IH K N AE,stop
+áll,start AE UW T L,stop
+brasilía,start P R AE S IH L IH Y AE,stop
+gegna,start EH K N AE,stop
+blak,start,P
+dynur,start,T
+markvörður,start M AE K,V
+þórshöfn,start TH OH,UW
+hjóm,start OH,UW
+fjóla,start F,Y
+grautur,start K R,T
+íkorni,start IH K AO,R
+læða,start L AE IH DH AE,stop
+kjarnahvarf,start AE R T N AE K V AE R,V
+lögga,start L AE K AE,stop
+sæmundína,start S AE IH M N,T
+fær,start F AE,IH
+ferill,start F EH R IH,T
+landfræði,start L,AE
+fjölröddun,start F Y AE L R AE,T
+noregur,start N AO,R
+líffæri,start L IH F,F
+þýfður,start TH IH V DH,R
+hlýri,start,IH
+bensín,start P EH N S IH N,stop
+banka,start P,AE
+styrja,start,S
+hefill,start HH EH,V
+blik,start,P
+skammur,start S K AE,M
+linna,start L IH N AE,stop
+bær,start P AE IH R,stop
+slarksamur,start S T L AE K S,AE
+drottning,start T R AO,HH
+beitukóngur,start,P
+biðminni,start P,IH
+málsgrein,start M,AE
+sverja,start,S
+fíladelfía,start F IH L AE T EH L F,IH
+wathne,start V AE,HH
+dúkahnífur,start T UW K AE IH V,R
+siður,start S IH,DH
+bær,start P AE IH,R
+samvinna,start,S
+óratóría,start,OH
+hreinn,start EH IH T,N
+prútta,start P R UW HH T,AE
+ærsl,start AE IH R S T,L
+nemandi,start N EH M AE N T IH,stop
+strjáll,start S T R Y,AE
+lífljómun,start L IH V L,Y
+fíkill,start F IH IH,T
+lungnaberklar,start L UW NG K N AE P EH,K
+grúi,start K R UW IH,stop
+runólfína,start R N OH UW L V IH N AE,stop
+nágrenni,start N AE UW K R EH N IH,stop
+guðmunda,start,K
+fyrirgjöra,start F IH,R
+hryggð,start IH,DH
+fjall,start,F
+rammi,start R AE M,IH
+byrkningur,start P IH K N IH NG K R,stop
+gjóstur,start,OH
+maídís,start M AE IH T IH S,stop
+hornafall,start HH AO R,T
+ládauður,start L AE,UW
+andlagsfall,start AE N T L AE S F AE T L,stop
+ál,start AE UW L,stop
+ginna,start IH N AE,stop
+klæðnaður,start,K
+millibil,start M IH,T
+guðbrandína,start K V DH P R AE N T IH,N
+mannorð,start M AE N AO R,DH
+hirðulaus,start HH IH R DH L S,stop
+persneska,start P EH S N EH S K,AE
+túrmerik,start T UW R M EH R,IH
+kristjánssandur,start K R IH S T Y AE UW N S S AE N,T
+frasi,start F,R
+skulda,start S K L T,AE
+þamba,start TH AE M P,AE
+barnabarn,start,P
+þrítyngdur,start TH R IH T IH NG,T
+tíðahvörf,start T IH DH AE AE R V,stop
+torf,start T AO R V,stop
+útlendur,start UW T,L
+stjúpmóðir,start S T Y UW P M OH,UW
+igla,start IH K L,AE
+metta,start M EH HH,T
+hlaup,start,P
+skekkja,start,S
+eistneska,start EH,IH
+níska,start N IH S,K
+hálfkák,start HH AE UW L V K,AE
+bylgjufall,start P IH L F AE,T
+hljóðkerfisfræði,start Y OH UW DH EH R V IH S F R,AE
+þjöl,start TH Y AE L,stop
+lögregla,start L AE,R
+hansína,start HH AE N S IH N AE,stop
+vartappi,start V,AE
+naggrís,start N AE K R IH,S
+völva,start V AE L V AE,stop
+hálfnóta,start HH AE UW L V N OH UW T AE,stop
+áhugamál,start AE UW HH AE M AE UW,L
+blaðsíða,start P L AE DH S,IH
+veturliði,start V EH T,R
+finsen,start,F
+þróa,start TH R,OH
+tréspíri,start T,R
+höstugur,start HH AE,S
+þjófnaður,start TH Y,OH
+kreditkort,start K R EH T IH T K AO,T
+hollenskur,start HH AO L L EH N S K R,stop
+þáttaskil,start TH AE UW,HH
+bernharður,start P EH R N HH AE R DH,R
+tvísykra,start T V IH S IH K,R
+frumefni,start F R M EH P N,IH
+hefndarþorsti,start HH EH M T AE R TH AO S T,IH
+gjá,start AE UW,stop
+lífsspursmál,start,L
+kjölfar,start AE L F AE,R
+dónalega,start T OH UW N AE L EH,AE
+vasaljós,start V AE S AE L,Y
+hlaði,start AE DH IH,stop
+bergmann,start P,EH
+heimsálfa,start HH EH,IH
+hæfileiki,start HH AE IH V IH L EH,IH
+málmblásturshljóðfæri,start M AE UW L,M
+sléttlendi,start S T,L
+prótín,start P R OH,UW
+dóni,start T OH UW N,IH
+kanarífugl,start K AE N AE R,IH
+hattur,start HH AE T,R
+farlama,start F AE,R
+kynslóð,start IH N S T L OH UW DH,stop
+skurðstofa,start S K R DH S T AO V,AE
+fölvi,start F,AE
+krossfiskur,start K R AO S F IH,S
+organisti,start AO,R
+prímus,start P R IH M,S
+mosasteinbrjótur,start M AO,S
+eggertína,start EH EH T,IH
+drottningarbiskup,start T R AO HH T N IH,NG
+heilindi,start HH EH IH L IH,N
+ostahnífur,start AO,S
+glópagull,start K L OH UW P AE K,T
+flekklaus,start F L EH HH,K
+látæði,start L AE UW T,AE
+fuglakjöt,start,F
+vasapeli,start V AE,S
+fuglahræða,start F,K
+þerna,start TH,EH
+korn,start K AO,R
+undirforrit,start N T IH R F AO,R
+talmynd,start T AE L M IH N,T
+dagur,start,T
+fyrirgjöra,start F IH R,IH
+netkorn,start,N
+grynna,start K R IH,N
+spjald,start S P Y AE L,T
+misjafn,start M,IH
+karp,start K AE P,stop
+sveittur,start S V,EH
+holtsetaland,start HH,AO
+trymbill,start T R IH M,P
+skytta,start S IH,HH
+búðarkassi,start P UW DH AE R,K
+menntun,start,M
+visk,start V IH S,K
+ákveða,start AE UW K V EH,DH
+bólivía,start P OH UW L IH V IH Y AE,stop
+sleipa,start S T,L
+bókaskápur,start P OH UW K AE S K AE UW,P
+vifta,start,V
+snæri,start S T,N
+foreldrar,start F AO R EH,L
+fíladelfía,start F IH L AE,T
+leikritaskáld,start,L
+kringumstæður,start K R IH NG K M S T AE IH DH R,stop
+fimbulvetur,start F IH M P L V EH,T
+hjördís,start AE,R
+beinmergur,start P EH IH N,M
+háaloft,start HH AE UW AE,L
+eintyngdur,start EH IH,N
+skápur,start,S
+gráspör,start K R AE UW S P,AE
+rjúfa,start R Y UW V AE,stop
+spindill,start S P IH N T,IH
+bloggari,start P L AO,K
+öryggisbelti,start,AE
+fýsn,start F IH S,T
+fordrykkur,start F,AO
+tjald,start T Y,AE
+kraftaverk,start,K
+mý,start M,IH
+sáðrás,start S AE UW DH,R
+karþagó,start K,AE
+bókasafn,start P OH,UW
+orsök,start AO S AE K,stop
+samviskusamur,start S AE M,V
+sítróna,start,S
+hey,start,HH
+velgengni,start V EH L EH IH NG,K
+kúkur,start K,UW
+aðdráttur,start AE DH T R AE UW HH,T
+kollhnís,start K AO T L IH S,stop
+afsaka,start,AE
+tékkneskur,start T Y EH HH K N EH,S
+iðngrein,start IH DH,N
+reiðubúinn,start R EH IH DH P UW IH,N
+lesta,start L,EH
+bólstraský,start P OH UW L S T R AE S,IH
+símonía,start S IH,M
+mýfluga,start M IH F L,AE
+rómaborg,start R,OH
+breiða,start P R EH,IH
+heftivír,start HH EH F T IH V IH,R
+krúna,start K R UW,N
+rispa,start R IH S P,AE
+ráðabrugg,start,R
+elíasína,start EH L IH Y AE S IH N AE,stop
+hegning,start HH EH K N IH NG,K
+hætta,start HH,AE
+marr,start M AE R,stop
+tælenska,start,T
+vísifingur,start V IH S IH,F
+vanræksla,start V AE N R AE IH K S T L,AE
+innrita,start IH N R,IH
+spánskur,start S P AE UW,N
+dynja,start T IH,N
+plast,start P,L
+deiling,start T,EH
+yfirtaka,start IH V IH,R
+fornnorræna,start F AO R,T
+austurland,start S T,R
+áhugi,start AE UW HH Y IH,stop
+snjallsími,start S T N Y AE T L S,IH
+trygging,start T R IH IH,NG
+kraká,start K R AE K AE UW,stop
+kajak,start K,AE
+baskneska,start P AE S K N EH S K,AE
+skírlífi,start,S
+konungshöll,start K AO,N
+geðveikur,start EH DH V EH IH,K
+snoppufríður,start S T N AO HH P F R,IH
+uppfæra,start HH P F AE IH,R
+sláttarstöðvun,start S T L AE UW HH T AE R S T AE DH,V
+drífa,start,T
+kvikasilfur,start K V IH K AE S IH L V R,stop
+péttneska,start P Y EH HH T N EH S K AE,stop
+hvarfstig,start AE R F S,T
+þingkona,start TH IH NG K AO N,AE
+umbrot,start M P,R
+keipa,start EH,IH
+bjarnheiður,start P Y AE R T N HH EH,IH
+frímannía,start F,R
+spritt,start,S
+kristþyrnir,start K R,IH
+léttvatn,start L Y EH HH T V AE HH T,N
+droplaug,start T R AO,P
+eyjaálfa,start EH IH,Y
+hettupeysa,start HH EH HH T P EH IH S AE,stop
+skelkaður,start S EH K AE DH R,stop
+lífsþróttur,start L,IH
+segulljós,start S EH L L Y OH,UW
+rómur,start,R
+kærulaus,start AE,IH
+konungshöll,start K AO N UW NG K,S
+hvergi,start K V,EH
+flugstjóri,start F L S T,Y
+svað,start S V AE,DH
+norðymbraland,start N AO R DH IH M P R AE L AE N T,stop
+bæra,start P AE IH R AE,stop
+krakkaskömm,start K R AE HH K AE S K,AE
+farseðill,start F AE S EH DH IH,T
+skotland,start S K AO,T
+dómur,start T OH UW M R,stop
+hefla,start HH EH P L AE,stop
+heimsyfirráð,start HH EH IH M S IH V IH R R AE,UW
+hreinskilinn,start EH IH N,S
+elías,start EH L IH Y AE,S
+kræklingur,start,K
+eigandi,start EH IH,AE
+úkraínska,start UW K,R
+franskur,start,F
+jóhannesína,start Y OH UW HH AE,N
+áfall,start AE UW F AE T L,stop
+kex,start EH K S,stop
+sorg,start S AO,R
+nopi,start N,AO
+þórhallur,start TH OH UW R HH AE T L,R
+flinkur,start F,L
+ræpa,start R AE,IH
+spói,start S P,OH
+konráðína,start K AO N R AE UW DH IH,N
+blóðmör,start P L OH UW,DH
+náhvalur,start N AE,UW
+netafræði,start N EH T,AE
+atvikssaga,start AE T V IH,S
+áskrift,start AE UW S K R,IH
+smár,start S M AE,UW
+loftslag,start L,AO
+tárvotur,start T AE UW R V,AO
+rýtingur,start R IH,T
+norðurljós,start N AO R DH R L,Y
+hrynja,start IH,N
+methafi,start M,EH
+forneskja,start F AO R,T
+bjarndís,start P Y AE,R
+flipi,start F L IH,P
+krít,start K R IH,T
+rakna,start,R
+beltisdýr,start P EH T IH S,T
+gluggatjald,start K,L
+búðarborð,start P UW,DH
+forsprakki,start F AO S P R AE,HH
+gullintoppa,start K T L IH N T AO HH P,AE
+hermd,start HH EH R M,T
+djús,start T Y UW S,stop
+sifji,start S IH,V
+staðarfall,start S T AE DH AE R,F
+menntaskóli,start M EH T AE S K OH,UW
+drottningarriddari,start T R AO HH T N IH NG K AE R R IH T AE,R
+broddsúla,start P R AO,T
+fimma,start F,IH
+hljóta,start Y OH UW T,AE
+afæta,start AE V,AE
+hreysi,start EH IH,S
+indland,start IH N,T
+hvala,start K V,AE
+auðvelda,start DH V,EH
+trúarlegur,start T R UW AE R L EH R,stop
+sís,start S IH S,stop
+skuldari,start S,K
+siðvenja,start S IH,DH
+eiturlyfjasali,start EH IH T R L IH V,Y
+enda,start EH N,T
+höfuðborgarsvæðið,start HH AE V TH P AO R K AE R S V AE IH DH IH DH,stop
+kolvetni,start K AO L V EH HH T N,IH
+flekkaður,start,F
+vinnukona,start V IH N K,AO
+krossferð,start K,R
+dauðadá,start T DH,AE
+líkamsrækt,start L IH,K
+hungur,start,HH
+snjótittlingur,start S N Y OH UW T IH HH T L IH NG K,R
+skárri,start S K AE UW,R
+saltsýra,start S AE T S IH R,AE
+moldvarpa,start M AO L T,V
+sælgæti,start S AE,IH
+bleðill,start,P
+flugmaður,start F,L
+lán,start L,AE
+melaskóli,start M EH,L
+saltfiskur,start S AE T F IH,S
+jósebína,start Y OH UW S EH P IH,N
+landsvæði,start L AE N T S V,AE
+man,start,M
+draumur,start T R M,stop
+trésmiður,start,T
+garg,start K AE,R
+hljóðeind,start Y OH UW DH EH IH N,T
+kyssilegur,start IH S IH,L
+gráta,start K R,AE
+kóngsbiskup,start K OH,UW
+veðja,start V EH DH,Y
+forrit,start F AO R R IH,T
+dýrka,start,T
+teikning,start T EH IH HH K N IH,NG
+sjór,start S Y OH UW R,stop
+aðalskáli,start AE DH AE L S K AE,UW
+fasismi,start F AE S IH S,M
+skyrpa,start S IH,P
+péttneska,start P Y EH HH,T
+buna,start P N AE,stop
+fjöl,start F,Y
+lykta,start L,IH
+marxismi,start M AE K S IH S M,IH
+sess,start S,EH
+sótt,start,S
+mötun,start M AE T N,stop
+handbolti,start HH AE N T,P
+valhnappur,start V AE L AE HH P,R
+holland,start HH AO,L
+keipur,start EH IH P R,stop
+glymur,start,K
+þorbjörg,start TH AO R,P
+tryggð,start T R IH,DH
+valdimaría,start V AE L T,IH
+brottvísun,start P R AO HH T V,IH
+raup,start,R
+barón,start P AE R,OH
+hafur,start HH AE,V
+schram,start S K,R
+hörðaland,start,HH
+almannatengsl,start AE L M AE N N AE T EH,IH
+þáttaskil,start TH AE UW HH T AE S K IH L,stop
+botnlangi,start,P
+vefja,start V EH V,Y
+hreyfill,start EH IH V IH T L,stop
+halli,start HH AE T,L
+áflog,start AE UW F L,AO
+einhver,start,EH
+ávísun,start AE,UW
+broddkúmen,start P R AO T K UW M,EH
+kvennabósi,start,K
+miðlari,start,M
+ástralía,start AE,UW
+patríarki,start P AE T,R
+frilla,start F R IH,T
+armur,start AE,R
+maríutása,start M AE R IH Y T AE UW,S
+lýðræðisríki,start L,IH
+skruna,start S K R N,AE
+kvoða,start K V AO DH AE,stop
+persneska,start,P
+baðherbergi,start P AE DH HH,EH
+greinilega,start K R EH IH N IH L EH,AE
+hafliðína,start HH AE V,L
+kóngsriddari,start K OH UW NG,K
+frænka,start F R AE,IH
+pynting,start P IH T IH NG,K
+hnyttinn,start IH HH T IH,N
+efnasamband,start EH P,N
+hafna,start,HH
+áhyggja,start,AE
+thorarensen,start T OH UW R,AE
+flón,start,F
+ljótur,start L Y OH UW,T
+krimmi,start K R IH M IH,stop
+hylli,start,HH
+ilskór,start IH,L
+prósenta,start P R OH UW S,EH
+ánægður,start AE UW N AE IH DH R,stop
+sproti,start S P R,AO
+bleyði,start P,L
+tónlist,start T OH UW N L,IH
+brjóstsviði,start P R Y OH UW S,T
+leðja,start,L
+grameðla,start K R AE M EH DH L AE,stop
+samkoma,start S AE M K AO M,AE
+bóla,start P,OH
+spámaður,start S P AE UW M AE DH,R
+lík,start,L
+sökkull,start S AE HH K T L,stop
+fjarvera,start F Y AE,R
+snjall,start S T N Y AE T,L
+adamsepli,start AE D AE M S EH HH,P
+móheiður,start M OH UW HH,EH
+astat,start AE,S
+huggulegur,start HH,K
+brátt,start P,R
+reykvískur,start R EH,IH
+skemma,start S EH M,AE
+göngutúr,start K NG K T UW,R
+hafna,start HH,AE
+naggrís,start N AE,K
+mölur,start M AE L R,stop
+pedall,start P EH,T
+bjarnheiður,start P Y AE R T N HH EH IH DH,R
+kantur,start K AE T R,stop
+fit,start F,IH
+tíðahvörf,start T IH DH AE,AE
+frændsemi,start F R AE IH,N
+lúxus,start,L
+bergþrúður,start P EH R K TH,R
+buski,start P S,IH
+sveigja,start S V EH IH Y,AE
+lundi,start,L
+naðurtunga,start N AE DH,R
+kvabb,start,K
+tékkneska,start T Y EH HH K N,EH
+hýrna,start HH,IH
+aðalritning,start,AE
+spjaldtölva,start S P Y,AE
+köngull,start K NG K T L,stop
+glæruvængur,start K L AE IH R V AE IH NG K,R
+miðjumaður,start M,IH
+skjaldbaka,start,S
+krossfífill,start K R AO S F IH V IH T,L
+prímtala,start P R IH M T AE,L
+rof,start,R
+afríkanska,start AE F R IH K AE,N
+kæliskápur,start AE IH L IH S K AE P,R
+blússa,start P L UW,S
+geðshræring,start EH DH S,AE
+formáli,start F AO R,M
+kókoshneta,start K OH UW K,AO
+illur,start IH T,L
+gras,start K R AE S,stop
+hnefaleikari,start EH V AE,L
+fletja,start F,L
+drottnari,start T,R
+kvennabósi,start K V EH N,AE
+hættulegur,start HH AE,IH
+dreki,start T,R
+astat,start AE S T AE T,stop
+hvelfing,start K V EH L V,IH
+minnimáttarkennd,start M IH N IH M,AE
+blotna,start P,L
+stuna,start S T N,AE
+kínaskák,start IH N AE S,K
+mærskur,start M AE IH S K R,stop
+aðferðafræði,start AE DH F EH R DH AE F R AE,IH
+fró,start F,R
+húsfrú,start HH UW S F R,UW
+svæfing,start S V,AE
+hárlýja,start HH AE UW R L IH,Y
+styðja,start S T IH,DH
+afbrot,start AE V P R,AO
+imbi,start IH M P IH,stop
+mjólkurmatur,start M Y,OH
+njóli,start N Y,OH
+frumbyggi,start F R M,P
+marsmánuður,start M AE S M AE,UW
+hneykja,start EH IH AE,stop
+seiða,start S EH IH,DH
+skírteini,start S,IH
+athygli,start AE,T
+hrútur,start,UW
+auðmýkja,start DH M IH AE,stop
+fis,start F,IH
+ákveða,start,AE
+tölvuleikur,start T AE L V,L
+muldra,start M L,T
+hanna,start HH AE,N
+granda,start K,R
+hrynji,start,IH
+pynting,start,P
+karlremba,start K AE R T L,R
+fornenska,start F AO R T N EH N,S
+stutt,start,S
+hafa,start HH,AE
+gelda,start EH L,T
+leví,start L EH V,IH
+gretta,start K R EH,HH
+ávinningur,start AE UW V IH,N
+frumuhimna,start F,R
+gagnlegur,start K AE K N L EH,R
+bartar,start,P
+kurteisi,start K,T
+rymja,start R,IH
+hnetusmjör,start EH T S M,Y
+depill,start T EH P IH T L,stop
+undirbúa,start N T IH R,P
+átt,start,AE
+salvi,start S AE L V,IH
+hótfyndni,start HH OH,UW
+havaí,start HH AE V,AE
+runólfína,start R N,OH
+föt,start,F
+rotna,start R,AO
+skora,start S K AO R,AE
+tröllaukinn,start T R AE T L IH,N
+banna,start P AE,N
+tregi,start T,R
+bastarður,start P AE S,T
+skiljanlegur,start S IH L Y AE N L EH,R
+herðatré,start HH EH R DH AE,T
+trúarjátning,start T R UW AE R,Y
+mistilteinn,start M IH,S
+höfuðborgarsvæði,start HH,AE
+tefla,start T EH,P
+ferðamaður,start F EH,R
+ungi,start UW,NG
+laugardagur,start L AE R T AE R,stop
+kjálki,start,AE
+samtenging,start S AE M T EH IH,IH
+syrjóttur,start S IH R,Y
+blaðra,start P,L
+minningargripur,start M IH N IH NG K AE R,K
+veila,start V EH IH,L
+bylja,start P IH L,Y
+langreyður,start,L
+rýna,start,R
+stóð,start S T OH UW DH,stop
+gallabuxur,start K,AE
+a,start,AE
+pennahnífur,start P EH N AE IH V,R
+útskýra,start UW T S IH R AE,stop
+sófókles,start,S
+veturliði,start V EH T R L IH DH IH,stop
+lífsgleði,start L IH F S K,L
+spítali,start S P IH T AE L IH,stop
+flugvöllur,start F,L
+sykurreyr,start S IH,K
+vin,start V,IH
+hryssingur,start IH S IH NG,K
+fýldur,start F IH,L
+sólmyrkvi,start S OH UW L,M
+hæstiréttur,start HH AE IH S T IH R Y EH HH,T
+hringja,start,IH
+þrýstihópur,start TH R IH S,T
+ruggustóll,start,R
+öryggisgler,start AE,R
+rennibraut,start R EH N IH P R T,stop
+grýlukerti,start K R IH L EH,T
+afburður,start AE V P,R
+melaskóli,start M EH L AE S K,OH
+paxblað,start P AE K S P L AE,DH
+sannleikur,start S AE N L EH IH K R,stop
+skiptavinur,start S K IH F T AE,V
+hrappur,start,AE
+afturbeygður,start AE F,T
+afvopna,start AE,V
+ægilegur,start AE IH Y IH L EH R,stop
+margur,start M AE R K R,stop
+erilsamur,start EH R IH L S AE,M
+skammur,start,S
+védís,start V Y EH T IH,S
+bókasafn,start P OH UW K AE S,AE
+kæta,start AE IH,T
+gunnþórunn,start,K
+svigna,start S V IH K,N
+viðbrögð,start V IH DH,P
+orðsifjar,start AO R DH S IH V Y AE,R
+durgur,start T,R
+handtaka,start HH AE N T T AE K,AE
+indriði,start IH N T R IH DH IH,stop
+tvenna,start,T
+guðbrandína,start K V DH P,R
+kjánaskapur,start,AE
+hettupeysa,start HH EH HH,T
+mala,start M,AE
+málafærslumaður,start M AE UW L AE F AE IH,S
+vara,start,V
+kjöltutölva,start AE T T AE,L
+hettupeysa,start HH EH HH T P EH,IH
+sannfæra,start S,AE
+bernhöft,start P EH,R
+fyrirgefning,start,F
+breti,start P,R
+ljár,start L Y,AE
+hæka,start,HH
+meiða,start M EH IH DH,AE
+afturbatapíka,start AE F T R P AE T AE P IH K AE,stop
+klaufalegur,start K L,V
+bananahýði,start P,AE
+tréblásturshljóðfæri,start T R Y EH P L,AE
+innfeldi,start IH N F EH L T IH,stop
+útdauði,start UW T T DH,IH
+stjórnarbylting,start S T Y OH UW R T N AE R P IH T IH NG K,stop
+beitiland,start P EH IH T IH L,AE
+hérmeð,start EH R M,EH
+smekkur,start,S
+ríkjafræði,start R,IH
+stampur,start,S
+lágur,start L AE,UW
+grund,start K,R
+ávarpsfall,start AE UW V,AE
+málefni,start M,AE
+íkornabygg,start IH K AO,R
+hjólabretti,start OH,UW
+baggi,start,P
+hljóðkerfisfræði,start Y OH UW DH EH R V IH S F R AE IH DH IH,stop
+bananahýði,start P AE N AE N AE HH IH,DH
+ý,start F,S
+kirkjuendir,start IH K Y EH N T IH,R
+krossfiskur,start K R AO S F IH S K R,stop
+erkiengill,start,EH
+rabarbari,start,R
+hjálparsagnorð,start AE UW P AE R S,AE
+forsæla,start F AO S AE IH L AE,stop
+ráðgjafi,start R AE UW,DH
+eilífð,start EH,IH
+fjöldi,start F Y AE,L
+dylja,start T IH L,Y
+pálína,start P AE UW L IH N AE,stop
+barmur,start P AE R M R,stop
+fingurbjörg,start F IH NG K R P Y AE R K,stop
+skita,start S IH T,AE
+hugsun,start HH,S
+ævi,start,AE
+platónskur,start P L AE T OH UW N,S
+stjörnuspeki,start S T Y AE R T N S,P
+agi,start,AE
+listmálari,start L IH S T M,AE
+titringur,start T IH T R IH,NG
+veðurtunglamynd,start,V
+tilfinningaleysi,start T IH L F IH N IH NG,K
+prentsmiðja,start P R EH T S M IH DH Y,AE
+spakmæli,start S P AE,K
+sinfónía,start,S
+rúnna,start R,UW
+föndra,start F,AE
+skaplyndi,start S K,AE
+olsen,start OH UW L,S
+tárakirtill,start T,AE
+ós,start OH,UW
+haugarfi,start HH AE R,V
+kjötbolla,start AE T P AO,L
+barki,start P,AE
+svo,start S V AO,stop
+diskó,start T IH S K OH UW,stop
+risi,start R IH S IH,stop
+krossför,start K R,AO
+tómur,start,T
+efnahagur,start EH P N AE HH AE R,stop
+briskirtill,start P R IH S IH T IH T L,stop
+fyrirferðarmikill,start F IH R IH R F EH R DH AE R M IH,IH
+atarna,start AE T AE R T,N
+fló,start F L OH,UW
+þjálfun,start TH Y AE UW L,V
+lávarður,start L,AE
+hófsóley,start HH OH UW V S OH UW L EH,IH
+jökulhlaup,start Y AE,K
+sífelldur,start S,IH
+eftir,start,EH
+hjakka,start AE,HH
+staðarfall,start S T AE DH AE,R
+bernharður,start,P
+minnka,start M,IH
+hörðaland,start HH AE R DH AE L AE N T,stop
+drífa,start T R,IH
+málmblásturshljóðfæri,start M,AE
+sækja,start S AE IH,AE
+lénharður,start L Y EH N,HH
+heilalaus,start HH EH IH L AE L,S
+frímerkjasafnari,start F R IH M EH,AE
+þátíð,start TH AE UW T,IH
+öðruvísi,start AE DH R V,IH
+augnlæknir,start K N L AE IH HH K N IH,R
+hakakross,start HH AE K AE,K
+sögur,start S AE,R
+rauðkál,start,R
+frumeind,start F,R
+unglingur,start UW NG K,L
+fjölgyðistrú,start F Y AE L K IH DH IH,S
+jarðfræði,start Y AE R DH F R AE IH,DH
+putti,start P HH T,IH
+rjúfa,start,R
+heimill,start HH EH,IH
+greifingi,start K,R
+gæluverkefni,start,AE
+hómófóbía,start HH OH UW M OH UW,F
+mesópótamía,start M EH S OH UW P OH,UW
+folafluga,start F AO L,AE
+framlengja,start F R,AE
+líffræðilegur,start L IH F F R AE IH DH IH L,EH
+kennaratyggjó,start EH N AE R AE,T
+breyting,start P R EH IH T,IH
+konráð,start K AO N R AE UW DH,stop
+língresi,start L IH,N
+kringlóttur,start K R,IH
+hattari,start HH,AE
+hornafall,start,HH
+danalög,start T,AE
+þórshöfn,start TH OH UW S HH AE,P
+sonardóttir,start S AO N,AE
+skírnarfontur,start S IH R T N AE R F AO,T
+lungnaslagæð,start L UW NG K N AE S T L AE AE IH DH,stop
+benediktína,start P EH N EH T IH T IH,N
+krossfari,start,K
+jólakúla,start Y OH UW L AE K UW L AE,stop
+mótbára,start M OH UW T P AE UW R AE,stop
+athugasemd,start,AE
+lexía,start L EH S IH,Y
+flæmskur,start F L AE IH M S K R,stop
+efja,start,EH
+klippur,start K L,IH
+úkraínska,start UW K R AE IH N,S
+matskeið,start M AE T S EH IH,DH
+körfuboltaþjálfari,start K AE R V P AO T AE TH Y AE UW,L
+kristján,start K,R
+kúpull,start K UW,P
+farsi,start F AE S IH,stop
+hrekja,start,EH
+þjóðbraut,start TH Y OH UW,DH
+meina,start M EH IH,N
+fretta,start,F
+meitla,start M EH IH HH T L AE,stop
+eplabaka,start EH HH P L AE P AE K AE,stop
+hlýna,start,IH
+kvöl,start,K
+hallarvirki,start HH AE T L,AE
+aðstæður,start AE DH S T AE IH DH R,stop
+styðja,start S T IH DH Y AE,stop
+ungi,start UW NG K IH,stop
+hyggjuvit,start HH,IH
+skemill,start S EH M IH,T
+frænka,start F,R
+rafall,start R AE,V
+dökkbrúnn,start T AE HH K P R UW T,N
+amerískur,start AE M EH R IH S K R,stop
+lögreglustjóri,start L AE R EH K L S T Y,OH
+blóðnasir,start P L OH UW DH,N
+hænuegg,start HH AE IH N EH,K
+stika,start S T IH,K
+nenna,start N EH,N
+hampjurt,start HH AE P,Y
+mislingar,start,M
+flóastör,start F,L
+skriðdreki,start,S
+álka,start AE UW K AE,stop
+heimaverkefni,start HH EH IH M AE V EH K EH P N,IH
+faðir,start,F
+mattur,start M AE HH T R,stop
+hljómlist,start Y OH UW,M
+síróp,start S IH R,OH
+heppni,start HH EH HH P N,IH
+vin,start V IH,N
+skógarsóley,start S K,OH
+veð,start,V
+frísneska,start,F
+styrmir,start S,T
+stari,start,S
+rampur,start,R
+herpingur,start,HH
+lækjafræhyrna,start L AE IH AE F R AE IH,HH
+reikistjarna,start R EH IH IH S T Y AE R,T
+afturelding,start AE F T R EH L T IH NG,K
+doðrantur,start T AO DH,R
+klíka,start K L,IH
+fell,start F EH T L,stop
+gegnvirkur,start EH K N V,IH
+lögfræðingur,start L,AE
+nagli,start N AE K L,IH
+stör,start,S
+tímarit,start T,IH
+tónleikar,start T OH UW N L EH IH K AE R,stop
+garmur,start K AE R M,R
+brynjólfur,start P R IH N,Y
+eistland,start EH IH S T,L
+frumskógur,start F R M S K OH UW R,stop
+ljósvaki,start L Y OH UW S,V
+klóelfting,start K L,OH
+trélitur,start T R Y EH L IH T R,stop
+harður,start HH AE R DH,R
+gamansemi,start K AE M AE N S EH M,IH
+blóðvökvi,start P,L
+laus,start L S,stop
+muna,start M,N
+kalín,start K,AE
+sylgja,start,S
+skaplyndi,start S,K
+hvítvín,start IH T V IH N,stop
+strik,start S T R,IH
+heimskaut,start HH EH IH M S K,T
+tívar,start T IH V AE R,stop
+strútur,start S,T
+slitur,start S T,L
+gróf,start K R OH UW V,stop
+kennaratyggjó,start EH N AE R AE T IH OH,UW
+hjúfra,start UW V R AE,stop
+kerra,start EH R AE,stop
+andvaka,start AE N T V AE,K
+kría,start K,R
+vörumerki,start V,AE
+sárasótt,start S AE UW R AE,S
+sýkna,start S IH HH K N AE,stop
+jónheiður,start Y OH UW,N
+föðursystir,start F AE DH R,S
+forréttur,start F AO R R Y,EH
+kristþyrnir,start K R IH S T TH IH R,T
+hlébarði,start EH P AE R DH,IH
+dökkur,start T AE,HH
+bæjarstjóri,start P,AE
+egyptaland,start EH IH F T,AE
+afturhaldsstefna,start AE F T R HH AE L T S S,T
+rennilás,start R EH,N
+posi,start P AO S,IH
+tákn,start T AE UW HH,K
+ívar,start IH V AE,R
+piss,start P IH S,stop
+höfuðborgarsvæði,start HH AE V TH P,AO
+testósterón,start T EH S T OH,UW
+hagskælingur,start HH AE S AE IH L,IH
+egyptaland,start EH IH F T AE,L
+tréspíri,start T R Y EH S,P
+beygja,start P EH,IH
+jæja,start Y AE IH,Y
+foringi,start F,AO
+gautelfur,start K T EH L,V
+jarþrúður,start,Y
+fjöldamorðingi,start F Y AE L T AE M AO R DH IH,NG
+áhersluatviksorð,start AE UW HH EH,S
+andstæðingur,start AE N T S T AE IH,DH
+klukkustund,start K L HH K S T,N
+beddi,start,P
+rappa,start R AE HH P AE,stop
+mosasteinbrjótur,start M AO S AE S T EH IH N,P
+rassgat,start R AE S K AE,T
+gandur,start K,AE
+appelsínugulur,start AE HH P,EH
+vændi,start V AE IH N D IH,stop
+krossfiskur,start K R AO S F IH S,K
+gunnarína,start K N,AE
+gandur,start,K
+fjón,start,F
+mismunur,start M IH,S
+liðhlaupi,start L IH DH P,IH
+lotukerfi,start L AO T EH R V,IH
+björk,start P,Y
+mattur,start M AE HH,T
+fjölbreytni,start F Y AE L P R EH IH HH T N,IH
+klínískur,start K L IH N IH,S
+skjár,start S AE UW,R
+fley,start F L EH,IH
+steikja,start,S
+poki,start P AO,IH
+tað,start,T
+kenning,start EH N IH NG K,stop
+veita,start V EH IH T AE,stop
+gott,start K AO HH,T
+hitamælir,start HH IH T AE M AE,IH
+kantaraborg,start K AE,T
+kvennabósi,start K V,EH
+nálarauga,start N AE UW,L
+pirra,start P IH R,AE
+þerna,start TH EH R T N,AE
+leppalúði,start L EH,HH
+drjóli,start T R Y OH UW,L
+litháen,start,L
+sjóntaug,start S Y,OH
+endurtaka,start EH,N
+kvaka,start K V AE K,AE
+lungnakrabbamein,start L UW NG K N AE K R AE,P
+milta,start M IH T AE,stop
+hvítvín,start,IH
+hjördís,start AE R T IH,S
+trefill,start T R EH V IH T L,stop
+eftirmiðdagur,start EH F T IH R M IH DH T,AE
+sæmundína,start S AE IH M N T IH N AE,stop
+stríð,start S T R IH DH,stop
+elfur,start EH L,V
+íkornabygg,start,IH
+ágætur,start AE UW AE IH,T
+kæsa,start AE IH,S
+afríka,start AE F R IH,K
+bókrolla,start P OH UW K R AO T L,AE
+mátun,start M AE,UW
+gæsa,start AE,IH
+heimboð,start HH EH IH M P,AO
+broddmjólk,start P R AO T M Y OH UW,K
+systir,start S IH S T IH,R
+sleikja,start S,T
+ófullnægjandi,start,OH
+lítill,start,L
+lyklabarn,start L IH,HH
+melaskóli,start M EH L,AE
+mynt,start M,IH
+synda,start S,IH
+beina,start P EH,IH
+norðmaður,start N,AO
+greip,start K,R
+netjuský,start N,EH
+kokhlust,start K AO K S,T
+þagna,start TH AE K N AE,stop
+lúðalegur,start L UW,DH
+rifrildi,start R,IH
+rein,start R,EH
+deyða,start T EH IH DH,AE
+mærð,start M AE,IH
+vilma,start V IH L M,AE
+klunnalegur,start K L N AE L EH,R
+lýðræði,start L IH DH R,AE
+aðskilnaður,start AE DH S IH L N AE DH R,stop
+trúss,start T R UW,S
+jafnoki,start Y AE P N AO IH,stop
+hrani,start,AE
+haugalygi,start HH AE L IH Y,IH
+léttvatn,start L Y EH HH,T
+spakur,start S,P
+hæna,start HH AE IH N AE,stop
+vínandi,start,V
+prentun,start,P
+blóðfrumnamyndun,start P L OH UW DH,F
+tigl,start T,IH
+fagott,start,F
+neópren,start N EH OH,UW
+hélumosi,start EH L M,AO
+kirkjugarður,start IH K AE R DH R,stop
+netkorn,start N EH T K AO,R
+minkur,start M IH K R,stop
+stóriburkni,start S T OH UW R IH,P
+öryggisflokkur,start AE R IH IH S F L AO HH,K
+hræðilega,start AE,IH
+sloj,start,S
+rögnvaldína,start R AE K N V,AE
+hæsi,start,HH
+martröð,start M,AE
+námskeið,start N AE UW M S EH IH,DH
+lögregla,start L AE R EH K L,AE
+áfall,start AE UW F AE,T
+karkari,start K,AE
+ó,start OH UW,stop
+sólon,start S,OH
+stjörnufræðingur,start S T Y AE R T N F R AE IH DH,IH
+ára,start AE UW R,AE
+hobbiti,start HH AO P IH T IH,stop
+keisaraviður,start EH IH S AE R AE V IH DH R,stop
+flaska,start F L AE S K,AE
+mölur,start,M
+bákn,start P AE UW HH K N,stop
+dílaburkni,start T IH L AE P K,N
+skoppa,start,S
+serða,start S EH R DH AE,stop
+gulur,start,K
+dyntóttur,start T IH,T
+kjassa,start AE,S
+ferhyrningur,start F EH R HH IH,R
+tilfinningasamur,start T IH L F IH N IH NG K AE,S
+namibía,start,N
+froða,start F R,AO
+áreiðanleiki,start AE UW R EH IH DH AE N L,EH
+geislamaðra,start,EH
+gjóla,start OH UW L AE,stop
+tremmi,start T,R
+silja,start S IH L Y,AE
+bringa,start P R IH,NG
+teista,start T EH,IH
+spíra,start S P IH R AE,stop
+fyrirsæta,start F IH R IH R S AE,IH
+skikkja,start S K IH HH,AE
+föndur,start F AE N T R,stop
+ey,start EH IH,stop
+silja,start,S
+guðfræðingur,start K V,DH
+hnífur,start IH,V
+rangur,start R AE UW NG,K
+kornblóm,start K AO R T N P L OH UW M,stop
+fjólmundur,start F Y OH UW L M,N
+reykja,start R EH IH,AE
+sviftifall,start S,V
+áhersluatviksorð,start AE UW HH EH S T L AE T V,IH
+falla,start,F
+mári,start M AE,UW
+djass,start T Y AE S,stop
+gleðispillir,start,K
+klaki,start K L AE,IH
+taugafræði,start T AE F R AE IH DH,IH
+eyrugla,start EH IH R K L,AE
+krydd,start K R,IH
+knattspyrnuþjálfari,start K N AE HH T S P,IH
+rússneska,start R UW S,N
+sæbjúga,start S AE IH,P
+snotur,start S T N AO T,R
+klíka,start K,L
+kúbein,start K UW,P
+safamikill,start S AE V,AE
+beitieski,start P EH,IH
+teygjudýr,start T EH IH,Y
+leigubíll,start L EH,IH
+slægur,start S L AE IH R,stop
+hagsbót,start HH AE S P OH UW,T
+ágjarn,start AE,UW
+umkringja,start M K R IH,AE
+tenging,start T EH,IH
+broddkrækill,start P R AO,T
+sekkur,start,S
+postulín,start P AO S T L IH,N
+pasta,start P AE S,T
+ljóðlist,start L Y OH UW DH L IH S T,stop
+oföndun,start AO V AE N,T
+íkornabygg,start IH K AO R T N,AE
+hárgreiðsla,start HH AE UW R K R EH IH,DH
+baugfingur,start P F IH NG,K
+bygging,start P IH IH,NG
+athæfi,start AE T HH AE IH,V
+væskill,start V AE IH S IH,T
+verk,start V EH,K
+lafði,start L AE V DH IH,stop
+radar,start R AE T AE,R
+blásveifgras,start P L AE,UW
+flokkur,start,F
+blóðmör,start P L OH UW DH M AE R,stop
+frumbyggi,start F R,M
+svipur,start S V,IH
+háspil,start HH AE,UW
+ofvæni,start AO V V AE IH,N
+algyðistrú,start AE L IH DH,IH
+njálgur,start N Y AE UW L,K
+garðaprjón,start K,AE
+sófi,start S,OH
+skáld,start S K,AE
+geimferð,start EH IH M,F
+samnefndur,start S AE M N EH M T R,stop
+slark,start S,T
+atvikssaga,start AE T V IH S S,AE
+drynja,start T R IH,N
+krækja,start K R AE IH AE,stop
+gotland,start K AO T L AE,N
+páskadagur,start P AE UW,S
+fornenska,start F AO R T N EH,N
+prakkarastrik,start P R AE HH K AE R AE S T,R
+mínípils,start M IH N IH,P
+budda,start,P
+strand,start S T R,AE
+geimfari,start EH IH M F AE R,IH
+liðþjálfi,start L IH TH TH Y AE UW L V,IH
+virkni,start V IH,K
+grúi,start,K
+spurnaratviksorð,start S P,R
+broddur,start P DX AO T R,stop
+própan,start P R OH,UW
+varnaður,start V AE R T N,AE
+sól,start S OH,UW
+tilboð,start T IH L P AO DH,stop
+bleia,start P L EH IH Y,AE
+biðtími,start P IH DH T,IH
+mesópótamía,start M EH S OH UW P OH UW T AE,M
+pétti,start P Y EH HH T IH,stop
+skuldari,start S K L T AE,R
+efja,start EH,V
+verkaskipting,start V EH K AE S IH F T IH,NG
+sturlína,start S T,R
+laun,start L,N
+stefna,start S T EH P N,AE
+hýr,start,IH
+afvopna,start AE V V AO HH P N,AE
+alúðlega,start AE L UW DH,L
+tréblásturshljóðfæri,start T R Y,EH
+bel,start P EH,L
+línuskauti,start L IH N,S
+tíðka,start T IH,TH
+húsfrú,start HH UW S F,R
+gulmaðra,start K L M AE DH R,AE
+sær,start S AE IH,R
+eftirsókn,start EH F T IH,R
+hjartafífill,start AE T AE F IH,V
+skata,start S K AE,T
+hvítur,start,K
+mýrdalur,start M,IH
+heiður,start HH EH IH DH R,stop
+álfadrottning,start AE,UW
+sérstakur,start S Y,EH
+látæði,start L AE UW T AE IH,DH
+íslendingur,start IH S T L EH N T IH NG K,R
+grýttur,start K R IH HH T,R
+álfheiður,start AE UW L V HH EH,IH
+blámaður,start P L AE,UW
+konsúll,start K AO N S UW T,L
+víxl,start,V
+snilli,start S,T
+fljóð,start,F
+fylgifiskur,start F IH L IH F IH S K R,stop
+vordís,start V AO R T,IH
+munaðarleysingi,start M N AE DH AE R L EH,IH
+tabú,start,T
+betlari,start P EH HH T,L
+læknir,start L AE,IH
+legvatn,start L EH V AE HH T N,stop
+eldsneyti,start EH L T S,N
+blæösp,start,P
+þorleifína,start TH AO R,L
+brómber,start P R OH UW M P EH R,stop
+snúður,start S T N UW DH,R
+bókfinka,start,P
+svið,start S V IH,DH
+flugfélag,start F L F Y,EH
+majór,start M AE Y OH UW R,stop
+kalifornía,start K AE L IH F AO R,N
+safna,start S AE P,N
+gjaldmiðill,start AE L T M IH,DH
+slíður,start,S
+prússland,start P R UW S T L AE N T,stop
+leiðarstef,start L EH IH DH AE R S T EH V,stop
+litháíska,start L IH T,HH
+ökumaður,start AE K M AE,DH
+kerúb,start,EH
+elding,start EH L T IH NG K,stop
+reigingur,start R EH IH Y IH NG,K
+vindmylla,start V IH N T M IH L,AE
+snípur,start S T,N
+heit,start HH EH IH,T
+færeyska,start F AE IH R EH IH,S
+mylja,start M IH L,Y
+dreifing,start T,R
+mauraþúfa,start M R AE TH UW V AE,stop
+fullyrða,start F T L IH R,DH
+sigurðsson,start S IH R DH S S,AO
+einfaldlega,start EH IH N F AE L,T
+húfa,start HH UW V AE,stop
+aðskilnaðarstefna,start AE DH,S
+sjöfn,start S Y AE,P
+prútta,start P R UW,HH
+spil,start S P,IH
+stjarfi,start S T,Y
+sannindi,start,S
+bakborði,start P,AE
+örgjörvi,start AE R AE R V,IH
+imbi,start IH M P,IH
+hálmgresi,start HH AE UW L,M
+akurarfi,start AE K R AE R V,IH
+sigurður,start S IH,R
+hollenskur,start HH AO L L,EH
+bogga,start P AO K AE,stop
+karlmaður,start K AE R T L M AE,DH
+eymundur,start EH IH,M
+skólaár,start S K OH UW L,AE
+þrisvar,start TH R IH S V AE,R
+stjóri,start,S
+ljósapera,start L Y OH UW,S
+ólafía,start OH UW L,AE
+ari,start AE,R
+afturhaldsstefna,start AE F T R HH AE L T,S
+hvíld,start IH,L
+fórnarlamb,start F,OH
+perlumóðir,start P EH,R
+þraut,start TH R,T
+þorskur,start TH,AO
+anemóna,start AE N EH M,OH
+stía,start S T IH Y AE,stop
+matreiðsla,start M AE T R,EH
+játa,start Y,AE
+kennarasleikja,start EH N,AE
+tó,start T,OH
+tá,start T AE,UW
+svefnherbergi,start S V EH P N HH EH R P EH R IH,stop
+slóvenska,start S T L OH UW V EH N S K AE,stop
+biskupsdæmi,start P IH S K,P
+silfurlitaður,start S IH L V R L IH,T
+jól,start Y OH UW,L
+duna,start,T
+förðun,start F,AE
+apótek,start AE P OH,UW
+órækja,start OH UW R AE,IH
+hringa,start IH NG,K
+blekking,start P L EH HH K IH,NG
+brúða,start P R,UW
+skjaldarmerkjafræði,start S AE L T AE R M EH AE F R AE,IH
+asi,start AE S,IH
+einveldi,start EH IH N V EH L T,IH
+guðmundína,start K V,DH
+voffi,start,V
+samkomulag,start S AE M K AO M L,AE
+herkvaðning,start HH EH,K
+fastur,start F AE,S
+hver,start K,V
+bólstur,start P OH UW L S T R,stop
+botnlanganám,start P AO HH T N L AE UW NG K AE N AE UW,M
+virkni,start V IH K N IH,stop
+réttlæti,start R Y EH HH T L AE IH T,IH
+einhentur,start EH IH,N
+bavían,start P AE V IH,AE
+sessunautur,start S EH,S
+gylta,start IH T,AE
+réttlæti,start R Y EH HH T L AE IH T IH,stop
+benjamín,start P EH N Y,AE
+brum,start P R,M
+arnór,start AE R T N OH UW R,stop
+klórópren,start K L OH UW R,OH
+brúðgumi,start P R UW DH,K
+bros,start P R,AO
+langnykra,start L AE UW NG,K
+óhreinn,start OH UW,EH
+baðkar,start,P
+orðstír,start AO R DH S T,IH
+fitjasef,start F IH T Y AE S,EH
+bátsferð,start P AE UW T S F,EH
+sviði,start S V IH,DH
+kleif,start,K
+ósló,start OH UW S T,L
+aðsókn,start AE DH S OH UW HH K N,stop
+bumba,start,P
+hýdrat,start IH T R,AE
+skynjun,start S IH N Y N,stop
+sykra,start S,IH
+spyrja,start S P IH,R
+þorkelína,start TH AO EH,L
+berja,start P EH R Y AE,stop
+skurðgoð,start,S
+samþykki,start S AE M TH IH HH IH,stop
+hörðaland,start HH AE R DH AE L AE N,T
+fljóta,start,F
+lúður,start L,UW
+mosasteinbrjótur,start M AO S AE S T EH IH N P,R
+framleiðsla,start F R AE M L,EH
+hervör,start,HH
+heyrnarlaus,start HH EH IH R T N AE R L S,stop
+pétti,start P Y EH,HH
+útsaumur,start UW T S,M
+drottinn,start T R AO HH T IH N,stop
+lyfta,start L,IH
+snyrting,start,S
+magur,start M AE R,stop
+kristín,start K R IH S T,IH
+pynta,start P IH T,AE
+páskabróðir,start P AE UW S K,AE
+argentína,start AE,R
+pipar,start P IH P,AE
+setningafræði,start S EH HH T N IH NG K AE F R,AE
+alvöruleysi,start AE L V AE R L EH IH,S
+lita,start L,IH
+hrasa,start AE,S
+dömubindi,start T AE M P IH N,T
+lausn,start L AE IH S T N,stop
+aðalhending,start AE DH AE L HH EH,N
+klemens,start K L EH M EH,N
+minjagripur,start M IH N Y AE K,R
+veita,start,V
+bensín,start P,EH
+kornbreskur,start K AO,R
+öryggisráð,start AE R IH,IH
+ljóðlist,start L Y OH UW DH L,IH
+hótel,start HH OH UW T EH,L
+baðherbergi,start P AE DH HH EH R P EH R IH,stop
+lífeðlisfræði,start L IH V EH DH L IH,S
+strútur,start S T,R
+flís,start F L IH,S
+bakvörður,start P AE K V AE R DH R,stop
+fjórir,start F Y OH UW R,IH
+votlendi,start V AO,T
+orðabók,start AO R DH AE,P
+slegill,start S T L,EH
+ruggustóll,start R K S T OH UW,T
+stimpill,start S T IH P IH T L,stop
+kennsla,start EH N S T L AE,stop
+erkiengill,start EH IH EH IH IH T,L
+aðili,start AE,DH
+dverglilja,start T,V
+orðasamband,start AO,R
+portúgali,start P AO T,UW
+ferja,start F,EH
+gagnauga,start K AE K N,AE
+leifa,start L EH IH,V
+hæstiréttur,start HH AE IH S T IH,R
+kastari,start K AE S,T
+hæla,start HH AE,IH
+afburður,start,AE
+nábrók,start N AE UW P R,OH
+blóðappelsína,start P L OH UW,DH
+ferðamaður,start,F
+háll,start HH AE UW,T
+óraddaður,start OH UW R AE T AE DH R,stop
+markspyrna,start,M
+uppspuni,start HH P S P,N
+kennarasleikja,start EH N AE,R
+tælenska,start T AE IH L EH,N
+niðurlæging,start N IH DH R L AE IH,Y
+grípa,start K R,IH
+nagdýr,start,N
+orðsifjabók,start AO R DH,S
+bifur,start,P
+barnabarn,start P AE R T N AE P AE R,T
+gikkur,start IH HH,K
+vanræksla,start V AE N R AE,IH
+eyrnalokkur,start EH IH R T N AE L AO HH,K
+svartsýnn,start S V AE T S IH,T
+teista,start T EH IH S T AE,stop
+forritunarmál,start F AO R IH T N,AE
+kommúnismi,start K AO M UW N IH S M,IH
+hirðingi,start HH IH R DH IH IH,stop
+þúfutittlingur,start TH UW,V
+bryti,start P R IH T IH,stop
+rafpóstur,start R AE V P OH UW S T,R
+ostakaka,start AO S,T
+strandsauðlaukur,start S T R AE N T S,DH
+kóngsriddari,start K OH UW NG K S R,IH
+einhyrningur,start EH IH,N
+sólveig,start S OH UW L V EH IH,stop
+grís,start,K
+jarðskorpa,start Y AE R DH S K AO P AE,stop
+meðan,start M,EH
+pels,start P EH L,S
+hálsbindi,start HH AE UW L S P IH,N
+bólstraský,start P OH UW L S T R AE,S
+eigur,start EH IH R,stop
+stirfinn,start S,T
+eingetinn,start EH IH N EH T IH,N
+kvenhylli,start K V EH N,HH
+fjólmundur,start F Y OH UW L M N,T
+garmur,start K AE R,M
+goð,start K,AO
+postuli,start,P
+hnefaleikari,start EH V,AE
+hnykkur,start IH HH K R,stop
+balsamedik,start P AE L S AE M EH T IH K,stop
+flagasef,start,F
+klakkur,start K L AE HH K,R
+gætt,start K AE IH,HH
+stofa,start S T AO V AE,stop
+þjálfa,start,TH
+látbragð,start L,AE
+agalega,start AE AE L EH,AE
+franskbrauð,start F R AE,N
+perlumóðir,start P,EH
+ást,start,AE
+krónprins,start K R OH UW N P R,IH
+linna,start,L
+harka,start HH AE K AE,stop
+nýtt,start N IH HH T,stop
+haförn,start HH AE V AE,R
+mær,start M,AE
+orðrómur,start AO,R
+undirbúa,start N T,IH
+löm,start L,AE
+votur,start V AO T R,stop
+tvinna,start,T
+þjóðerni,start TH Y OH UW DH,EH
+lykill,start L IH,IH
+orðaforði,start AO R DH AE F,AO
+víngarður,start V IH N K AE R DH R,stop
+tréblásturshljóðfæri,start T R Y EH P L AE UW S T S Y OH,UW
+girða,start IH R DH,AE
+akurstjarna,start AE K R S T,Y
+snjallsími,start,S
+viðeigandi,start V IH DH EH IH AE N T IH,stop
+næturgali,start N,AE
+lungnaslagæð,start L UW NG K N AE S T L AE,AE
+kvaðratrót,start K V AE DH R AE T R OH,UW
+þórhallur,start TH OH UW R HH AE,T
+klara,start,K
+skessa,start,S
+samkynhneigð,start S AE M IH,N
+nú,start,N
+hvor,start K V,AO
+vilji,start V IH,L
+dökkvíðir,start T AE HH K V IH DH,IH
+gos,start,K
+verðlaun,start V EH R DH,L
+veina,start,V
+sökka,start S AE,HH
+öfl,start AE P L,stop
+naggrís,start N,AE
+ratsjá,start,R
+sparka,start S P AE K AE,stop
+afkomandi,start AE V K,AO
+snæfríður,start S,T
+hlekkja,start EH,HH
+nauð,start N,DH
+grænlenskur,start K R AE IH N L EH N S K R,stop
+titrari,start T IH T,R
+lambagras,start,L
+kjarnavopn,start AE R T N AE V AO,HH
+vilhjálmína,start V IH L,AE
+lúxus,start L UW,K
+helgisiður,start HH EH L IH S IH DH R,stop
+knattspyrnuþjálfari,start K N AE HH T S,P
+kífa,start IH V,AE
+sandfok,start S AE N T F AO,K
+þjóðsöngur,start TH Y OH UW DH S NG K,R
+kollhnís,start K AO,T
+frískur,start,F
+reyrgresi,start R EH IH R K R EH,S
+serbókróatíska,start,S
+meinsæri,start,M
+útskýring,start UW T S IH R IH NG,K
+notandi,start N AO T AE N,T
+skriðlíngresi,start S K R,IH
+glaður,start K L AE,DH
+skófla,start S K OH UW P,L
+barnalæknir,start P AE R T N AE L AE,IH
+slegill,start S T L EH,IH
+framan,start F R AE M AE N,stop
+aldrei,start AE,L
+app,start,AE
+hæfileiki,start HH,AE
+mauraæta,start M,R
+kamelljón,start K AE M EH L L Y,OH
+prímtala,start P,R
+hommi,start,HH
+uppsalir,start HH P S AE L IH,R
+prestastefna,start P R EH S T AE S T EH,P
+kveðja,start K,V
+baðmullarsvunta,start,P
+nirfill,start,N
+grunnsævi,start K R N S AE,IH
+tívar,start T IH V,AE
+vefsíða,start V,EH
+lýsingarháttur,start L IH S IH,NG
+festing,start,F
+handklæði,start HH AE N T K,L
+sófókles,start S OH,UW
+netfang,start N EH T F AE UW,NG
+varmi,start V AE R M,IH
+galsi,start,K
+loðvíðir,start L,AO
+erlendína,start EH R L EH N T IH N,AE
+ljósmyndavél,start L Y OH UW S M IH N T AE V Y EH,L
+hyrni,start HH IH R T N IH,stop
+dvergkráka,start T V EH R K K R AE,UW
+þrír,start,TH
+miskunn,start M IH S K,N
+auðvald,start DH V AE L T,stop
+tollera,start T AO L EH R,AE
+tilgangsfall,start T IH L K AE UW,NG
+ragnar,start R,AE
+portúgali,start,P
+valdimaría,start V,AE
+halldór,start HH AE L T OH UW R,stop
+lónasóley,start L OH UW N AE,S
+dimmur,start,T
+sökkull,start S AE,HH
+fölna,start F AE L N AE,stop
+stinnasef,start S T IH,N
+karta,start K AE T,AE
+reiðufé,start R EH IH DH,F
+lyklaborð,start,L
+hagi,start HH AE,IH
+fælni,start F AE IH L,N
+georgía,start EH,AO
+stóll,start S T,OH
+kirsuber,start,IH
+orðasamband,start,AO
+járnbrautarlest,start Y AE UW R T N,P
+jakki,start Y AE HH,IH
+tælenska,start T,AE
+ábendingarfornafn,start AE UW P EH N T IH NG K AE R F AO R N,AE
+réttritun,start R Y EH,HH
+varkár,start V,AE
+gulstör,start K L,S
+skorningur,start S K AO R T N,IH
+kamelljón,start K,AE
+nútími,start N UW T IH,M
+handtaka,start HH AE,N
+skósmiður,start S K OH,UW
+flygill,start F L IH,Y
+líkamlegur,start L IH K AE M L EH R,stop
+vangi,start V AE UW IH,stop
+bíldrusla,start P IH L T,R
+uppspretta,start HH P S,P
+svalir,start S V,AE
+konsúll,start K AO,N
+klekkja,start K L EH HH,AE
+gunga,start K UW NG K AE,stop
+kokkteill,start K,AO
+biðminni,start P IH DH,M
+sót,start,S
+kurt,start,K
+bastarður,start P AE,S
+auðveldlega,start DH V,EH
+bústinn,start P UW S T IH N,stop
+möndull,start M AE N T,T
+þjóðsöngur,start TH Y OH UW DH S NG,K
+blálanga,start P,L
+steypa,start S T EH IH P AE,stop
+drungi,start T,R
+séra,start S Y EH,R
+brúnn,start P R UW T,N
+lauslæti,start L S L AE IH T,IH
+hægur,start,HH
+blóðvökvi,start P L OH UW DH V AE K,V
+krummi,start,K
+beikon,start P EH IH K,AO
+litháíska,start L IH T HH AE,UW
+skauta,start S K T,AE
+fjallgarður,start F Y AE T L K,AE
+sullur,start,S
+banani,start P AE N AE N IH,stop
+tryggvi,start T R,IH
+graður,start K,R
+miða,start M IH,DH
+rauðkál,start R DH K AE UW L,stop
+þorgilsína,start TH AO,R
+skemill,start S,EH
+bálkur,start P AE UW,K
+samheitaorðabók,start S AE M HH EH IH T AE,AO
+hulda,start HH L T,AE
+endurskoðandi,start,EH
+ná,start N AE UW,stop
+þrýstihópur,start,TH
+krosskónguló,start K R AO S,K
+dvergkráka,start T V EH R K K R AE UW K,AE
+eyrnalokkur,start,EH
+slarkfær,start S T L AE K F,AE
+flugur,start F L R,stop
+nót,start N OH UW,T
+vinalegur,start V,IH
+fjólublár,start F Y,OH
+skratti,start S K R AE HH T,IH
+megra,start M EH,R
+aðgerð,start AE DH EH R,DH
+spað,start S P AE,DH
+grafít,start K R AE F IH,T
+hrynjandi,start,IH
+slím,start,S
+duttlungur,start T,HH
+skarpur,start S K AE P,R
+æra,start,AE
+serbókróatíska,start S EH R P OH UW K R,OH
+flaski,start F L AE,S
+lögfræðingur,start L AE F R AE,IH
+dútl,start,T
+tilvísunarfornafn,start T IH L V IH S N AE R F AO R N AE,P
+máltækni,start M AE UW L T AE,IH
+hálsfesti,start,HH
+þurrkur,start TH K R,stop
+selur,start,S
+brydding,start P R IH T IH NG,K
+fjallaþinur,start F Y AE,T
+krabbamein,start K R AE P AE M EH IH N,stop
+hreinsunareldur,start EH IH N S N AE R EH L,T
+steinselja,start,S
+knattspyrnufélag,start K N AE HH T S P IH R T,N
+gat,start K AE,T
+alþýðlegur,start AE L TH IH DH L EH R,stop
+hnefahögg,start EH V,AE
+guðmunda,start K V,DH
+fönix,start F AE N IH S,stop
+bulla,start P T,L
+hnjóta,start Y OH,UW
+póstmódernismi,start P OH UW S T M OH,UW
+tapa,start T AE P,AE
+mjókka,start,M
+lá,start L AE,UW
+ferningur,start F EH R T N IH NG K,R
+rindill,start R IH N T IH T,L
+blakkneskur,start P L AE HH K N EH S K,R
+móberg,start M OH,UW
+grameðla,start K R,AE
+friðlýsa,start F R IH DH L IH,S
+matvara,start M AE T V AE,R
+dollari,start T AO,L
+jaðar,start,Y
+tilfinningasamur,start T IH L,F
+búfé,start P UW F Y,EH
+gjarna,start,AE
+norska,start N,AO
+teikn,start T EH IH,HH
+aðalendir,start AE,DH
+ostabakki,start AO S T AE P AE,HH
+þykkur,start TH IH HH K R,stop
+pund,start P N T,stop
+kyrrseta,start IH R S EH T,AE
+friðarbogi,start,F
+vistvænn,start V,IH
+einingarfylki,start,EH
+jörð,start,Y
+aukafall,start K AE F AE T L,stop
+títra,start T IH T,R
+mosafræði,start M AO S AE F R AE IH,DH
+gull,start,K
+lóðleit,start L OH UW DH L,EH
+sporður,start S,P
+miðvikudagur,start M IH DH V IH,K
+bróðurdóttir,start P R OH UW DH R T OH UW HH T IH R,stop
+nemandi,start N EH,M
+blóðarfi,start P L,OH
+skurðgrafa,start S K R,DH
+vináttuleikur,start V IH N AE UW HH T L EH,IH
+útdráttur,start UW T,T
+smánykra,start S M AE,UW
+vafri,start V AE,V
+klósettpappír,start K L OH UW S EH HH T P AE HH P IH R,stop
+strandsauðlaukur,start S T R AE N,T
+hindrun,start HH IH N T R N,stop
+sjöundi,start S Y AE N,T
+farangur,start F AE R AE UW NG,K
+hafliðína,start HH AE V L,IH
+slátra,start S T L AE UW T R,AE
+millibil,start,M
+mótmæla,start M OH UW T M AE IH,L
+heimsendir,start HH EH IH M S EH N T IH,R
+félagi,start F Y EH L,AE
+sítrónusafi,start,S
+kristþyrnir,start K R IH S T TH IH,R
+gæluverkefni,start AE IH L V,EH
+flagahnoðri,start F L AE,AE
+kvaðratrót,start,K
+hver,start K V AE R,stop
+stjórn,start S T,Y
+heyrn,start HH EH IH R,T
+endaþarmsop,start EH N T AE TH,AE
+radísa,start R AE,T
+rist,start R IH S T,stop
+líffræði,start L IH F F R AE IH DH IH,stop
+eyrnapinni,start EH IH R T,N
+frakkneskur,start F R AE HH K N EH S K,R
+ráðgjafi,start R,AE
+gerill,start,EH
+taska,start T AE,S
+borðtennis,start P AO R DH T EH,N
+sprikla,start S P R IH HH,K
+lúðalegur,start L UW DH AE L EH R,stop
+vetrarbraut,start V EH,T
+postuli,start P,AO
+hvatberi,start K V AE T P EH R IH,stop
+samtenging,start S AE,M
+kastali,start K AE,S
+hvass,start AE,S
+ristill,start R IH S T IH T L,stop
+fölna,start F AE L,N
+guðdís,start K V DH T,IH
+afmælisgjöf,start AE,V
+málbein,start M AE UW L P EH IH,N
+bjóða,start P Y,OH
+elli,start EH T L EH IH N T,R
+líffræðingur,start L IH F F R,AE
+samþykkja,start S AE M,TH
+feiti,start,F
+tollera,start T AO L EH,R
+drottning,start,T
+baks,start P,AE
+auglýsing,start,L
+óperuhús,start OH UW P EH R HH UW,S
+heilalaus,start HH,EH
+minning,start M IH N IH NG,K
+nostalgía,start N AO S,T
+krækill,start,K
+blágreni,start P L AE UW K R EH N IH,stop
+þrá,start,TH
+flórída,start F L OH UW R IH T AE,stop
+háttaratviksorð,start HH AE UW HH T AE R,AE
+lið,start L IH,DH
+dey,start T EH,IH
+slóvenska,start S T L OH UW V EH N,S
+strætisvagn,start S,T
+skjaldarmerkjafræði,start S AE L T AE R M EH AE F R AE IH DH,IH
+skott,start S,K
+stjörnuspá,start S T Y AE R T N S P AE UW,stop
+meiðsli,start,M
+forsjá,start F AO S Y AE UW,stop
+sturla,start S T R T L,AE
+jóný,start Y,OH
+sjaldan,start S,Y
+múr,start,M
+baksa,start P AE K S,AE
+parís,start P AE R IH S,stop
+bambus,start P AE M P,S
+nettóþyngd,start N EH HH T OH UW TH IH NG,T
+auður,start DH R,stop
+karlkyn,start K AE R T,IH
+skil,start,S
+símasamband,start,S
+málfrelsi,start M AE UW L,F
+loða,start,L
+máfur,start M AE UW V R,stop
+fleygur,start F L EH IH,R
+akur,start AE,K
+kynþáttur,start,IH
+svengja,start S,V
+þunnur,start,TH
+afgangur,start AE V K AE UW NG K R,stop
+fjallasveifgras,start F Y AE T L AE S V EH IH V K R AE S,stop
+ljósmóðir,start,L
+kólibrífugl,start K OH UW,L
+helmingur,start HH EH L M IH NG,K
+astat,start AE S,T
+magapína,start M,AE
+rætur,start R AE IH T R,stop
+sykra,start S IH K R AE,stop
+sannfæra,start S AE N F AE,IH
+skrín,start S K R,IH
+hrái,start AE UW IH,stop
+kjánaskapur,start AE UW N AE S K AE,P
+stýfa,start S T IH V,AE
+skurðaðgerð,start S K R,DH
+rætur,start R AE IH T,R
+framkvæmdastjóri,start F R AE M,K
+svindlari,start S V IH N T L AE,R
+sýnn,start,S
+hnísa,start IH S AE,stop
+vana,start,V
+bræði,start P,R
+loft,start L AO,F
+plata,start P L,AE
+hálfsystir,start HH AE UW L V S,IH
+slóvenska,start S T L OH UW V EH N S K,AE
+hornspyrna,start HH AO,R
+dólgslegur,start T OH UW,L
+franskur,start F R AE N S K,R
+glögg,start,K
+fiðla,start,F
+þýska,start TH IH S K,AE
+áhrifaríkur,start,AE
+ykkur,start IH HH K R,stop
+efnilegur,start EH,P
+lögregluþjónn,start L AE R EH K L,TH
+bandaríkin,start P AE N T AE R,IH
+ysta,start,IH
+frétt,start F R Y EH,HH
+borgundarhólmur,start P AO R K N T AE R HH OH UW,L
+flórída,start F L OH UW,R
+hringvöðvi,start,IH
+regnbogi,start R EH K N,P
+félagshyggja,start F Y EH L AE S HH IH AE,stop
+sigurdís,start S IH R T,IH
+yfirtaka,start IH V IH R T AE,K
+spergill,start S P EH R,IH
+dýjamosi,start T IH,Y
+sáðfruma,start S AE UW,DH
+sálfræðilegur,start,S
+sveppur,start S V EH HH P R,stop
+martröð,start M AE T R AE DH,stop
+boðorð,start P,AO
+sannindi,start S AE N IH N T,IH
+sykra,start S IH K R,AE
+vanilla,start V AE N IH,L
+freknóttur,start F R EH HH K N OH UW HH T R,stop
+skæla,start S AE IH,L
+rafgreining,start R AE V K R,EH
+persónulega,start P EH,S
+perlumóðir,start P EH R T,L
+háll,start,HH
+andfélagslega,start AE N T F Y EH,L
+hljóta,start,Y
+flokkur,start F L AO,HH
+sigur,start S IH,R
+slefa,start S,T
+hagfræði,start,HH
+fífill,start F IH V,IH
+vinátta,start V IH N,AE
+torvelda,start T AO R V EH,L
+lotsveifgras,start L AO T S V EH IH,V
+kvenkyn,start K V EH,N
+körfuknattleikur,start K AE R V,K
+þorna,start TH AO R T,N
+járnbrautarstöð,start Y AE UW R T N P R T AE R S T AE,DH
+geislamaðra,start EH IH,S
+garn,start K AE R,T
+skynugur,start S IH N R,stop
+efa,start EH,V
+brennisteinn,start P R,EH
+klossi,start K,L
+regn,start R EH,K
+halldórsdóttir,start HH AE,L
+kynhvöt,start IH,N
+rak,start R AE,K
+þjóð,start TH,Y
+ýlda,start IH L,T
+skrímsli,start,S
+stafafura,start S T AE,V
+fordómur,start F AO R T OH,UW
+áttundi,start AE UW HH,T
+angi,start AE,UW
+hræða,start AE IH,DH
+krimmi,start K R,IH
+ljósmyndavél,start L Y OH UW S M IH,N
+flík,start F L,IH
+hnerri,start EH,R
+dúkahnífur,start T UW K AE IH V R,stop
+flís,start F L,IH
+skyr,start S,IH
+fóstri,start F OH UW S T R IH,stop
+illur,start IH T L R,stop
+starfsemi,start S T AE R V S,EH
+majór,start M AE,Y
+eldast,start EH L,T
+sæti,start,S
+vinalegur,start V IH N,AE
+mjólkurkýr,start M,Y
+kryppa,start K R IH HH,P
+dýfa,start,T
+tökuþýðing,start T AE,K
+eldlilja,start EH,L
+tossi,start T,AO
+yfirdrepsskapur,start IH V IH R T R EH P S S K,AE
+marta,start M,AE
+kvíga,start K V,IH
+ósíris,start OH UW S IH R IH S,stop
+tvímynd,start,T
+krækla,start K R AE IH HH K L,AE
+magnúsína,start M AE K N UW S,IH
+langbarðaland,start L,AE
+lungnaberklar,start L,UW
+stó,start S T,OH
+ofan,start,AO
+magn,start M AE K,N
+tyrkland,start T IH K L AE N T,stop
+rispa,start R,IH
+skjaldburkni,start S AE L T P K N IH,stop
+hræra,start AE IH R AE,stop
+leður,start L,EH
+gustur,start,K
+hveitikím,start,K
+krækla,start K R AE IH HH K L AE,stop
+kolkrabbi,start K AO L,K
+droll,start T R AO T L,stop
+japanskur,start Y,AE
+nafnið,start N,AE
+höfuðsmaður,start HH AE V DH S M AE,DH
+kitla,start IH HH T L AE,stop
+hvítlaukur,start IH,T
+alkul,start AE L K,L
+áður,start AE UW DH,R
+hobbiti,start HH AO P IH T,IH
+herfugl,start,HH
+smáorð,start S M AE UW,AO
+flagahnoðri,start F,L
+nytsemi,start N IH T S EH,M
+einstefnugata,start EH IH N S T EH P,N
+sykurmoli,start S IH K R M AO L IH,stop
+múrhúð,start M UW R,HH
+meri,start M EH R,IH
+pallur,start P AE T L,R
+rafstöð,start R AE V S T AE,DH
+brennuvargur,start P R EH N V,AE
+dimma,start T IH,M
+stoppa,start S T AO HH,P
+íkorni,start IH,K
+metanól,start,M
+stjórnarbylting,start S T Y OH,UW
+afvopna,start AE V V AO HH P,N
+hundasúra,start HH N T AE S,UW
+ungverska,start,UW
+krani,start K R,AE
+vilmundur,start,V
+ríkidæmi,start R IH IH T AE IH,M
+mærð,start M AE IH,R
+feluleikur,start F EH,L
+tröllkona,start,T
+indriði,start IH N T R IH,DH
+birki,start P IH IH,stop
+naður,start N,AE
+tómstundagaman,start T OH UW M,S
+auðveldlega,start DH V EH L T L,EH
+bókstafur,start P,OH
+sifjar,start S IH,V
+leg,start,L
+æstur,start AE,IH
+einveldi,start EH IH N V EH L T IH,stop
+hérna,start EH R T N AE,stop
+virði,start,V
+þiggja,start TH IH,AE
+heiður,start HH,EH
+ingvarsson,start IH NG K V AE S S,AO
+karamella,start K AE,R
+þarmur,start TH AE R,M
+vistvænn,start V IH,S
+vilmundur,start V,IH
+rúsína,start R,UW
+tófugras,start T OH UW V K,R
+gagnagrunnur,start,K
+bremsa,start P,R
+hortugur,start HH AO T,R
+blendingur,start P L EH N T IH NG K R,stop
+sinfóníuhljómsveit,start S IH N F OH UW N IH Y Y OH UW M,S
+frjósemi,start F R Y OH UW S EH M IH,stop
+mýrasauðlaukur,start M IH R AE S DH L K,R
+bani,start P AE N,IH
+partí,start,P
+spánska,start S P,AE
+laxerolía,start L AE S EH R AO L,IH
+heimskaut,start HH,EH
+víg,start V,IH
+soð,start S,AO
+fagurfræði,start F AE R F R AE IH DH,IH
+leki,start L,EH
+lettland,start L EH,HH
+kæna,start AE,IH
+japanska,start Y AE P,AE
+hálendi,start HH,AE
+vistvænn,start V IH S T V,AE
+dofinn,start T AO V IH N,stop
+vakna,start,V
+framlengja,start F R AE M L EH IH,AE
+samlandi,start S AE M,L
+flýtir,start F L,IH
+megn,start M EH,K
+dómur,start,T
+plebbi,start,P
+aðferð,start AE DH F EH R DH,stop
+þykkja,start TH IH,HH
+bjarnheiður,start P Y AE,R
+fjallaljón,start F Y AE T L,AE
+breki,start,P
+sirkon,start S IH K AO,N
+margþættur,start M AE R K TH AE,IH
+smyrsl,start S M IH S T L,stop
+bergmundur,start P EH R K M,N
+hungur,start HH UW NG K,R
+meiðsli,start M,EH
+frjó,start F,R
+blágresi,start P L AE UW K R EH S IH,stop
+eysill,start EH IH S IH,T
+guðfræði,start K V DH F R AE IH DH,IH
+erfðafræði,start EH R V DH,AE
+fótboltafélag,start F OH UW T P AO T AE,F
+útbreiða,start UW T P R EH,IH
+hrókering,start OH UW,EH
+falla,start F AE T L AE,stop
+jesús,start Y EH,S
+bolsi,start P AO,L
+hvolf,start K,V
+kanarífugl,start K,AE
+kantaraborg,start K AE T AE R AE P AO,R
+hebreska,start HH EH P R,EH
+innflytjandi,start,IH
+bjalla,start P Y AE T,L
+sjóða,start S Y OH UW DH,AE
+tvinna,start T,V
+glíma,start K L IH M,AE
+rindill,start R IH,N
+kringumstæður,start K R IH NG K M S T AE IH DH,R
+öngull,start NG K T L,stop
+trúfélag,start T R UW F Y EH,L
+samtenging,start S AE M T EH IH IH NG K,stop
+herðatré,start HH EH R DH AE T,R
+rúmenska,start R UW M EH N S,K
+þverra,start,TH
+hveitiklíð,start EH IH T IH,K
+uppgerð,start HH P EH R DH,stop
+púpa,start P,UW
+trésmiðja,start,T
+trúlegur,start T R,UW
+klerkdómur,start K EH K T OH UW M,stop
+skjáborð,start S AE UW P,AO
+jaðarrokk,start,Y
+þrátta,start TH R AE UW HH T AE,stop
+rafmagn,start,R
+undanfarinn,start,N
+skaut,start S K,T
+mannvirðing,start M AE N V IH,R
+rúða,start R,UW
+gel,start EH L,stop
+gleðja,start K L EH,DH
+þýðing,start TH,IH
+hálsbindi,start HH AE,UW
+málari,start,M
+þang,start TH AE,UW
+kapítuli,start K AE P IH T L,IH
+vindill,start V IH N T,IH
+þarfur,start TH AE R V,R
+efnasamband,start EH P N,AE
+dagbók,start T AE P OH,UW
+bílaverkstæði,start P IH L AE V EH K S T AE IH DH,IH
+glópur,start K,L
+einangrari,start EH IH,N
+hissa,start,HH
+kíló,start,IH
+rauður,start R,DH
+niðji,start N IH DH Y,IH
+innihalda,start IH N IH HH AE L T AE,stop
+yfirtónn,start IH V IH R T OH UW,T
+jakkaföt,start,Y
+legunautur,start L,EH
+skari,start S,K
+rosti,start R AO S T IH,stop
+hættulegur,start HH AE IH HH,T
+þyrsta,start TH,IH
+lungnakrabbamein,start L UW NG K N AE K R AE P AE,M
+fyrirgefning,start F IH R IH,R
+mari,start M AE R IH,stop
+heiðingi,start HH EH,IH
+áræði,start AE UW R AE IH DH IH,stop
+efnahvarf,start EH P N AE K V AE,R
+afkáralegur,start AE V K AE UW R AE L EH R,stop
+jólaeyja,start Y OH UW L AE EH,IH
+móheiður,start M OH UW HH EH IH DH R,stop
+orðaleikur,start AO,R
+flaka,start,F
+bandalag,start P AE N T,AE
+þeytingur,start,TH
+rekaviður,start R EH K AE V,IH
+nöldur,start N AE,L
+postuli,start P AO S T,L
+garður,start K AE R,DH
+afmælisdagur,start,AE
+hirðir,start HH IH R DH IH R,stop
+haraldur,start,HH
+þunglamalegur,start,TH
+hrísgrjónavín,start IH S K R Y OH UW N AE,V
+komma,start K AO M,AE
+vinkill,start,V
+múrhúða,start M UW R HH UW,DH
+kínverska,start IH N V EH S K,AE
+farmiði,start,F
+bræðsla,start P R AE IH DH,S
+súrkál,start S,UW
+asetón,start AE S EH T OH UW N,stop
+ingimundína,start,IH
+skafl,start S K AE P,L
+draumsóley,start,T
+kerling,start EH T L IH NG,K
+líkamsrækt,start,L
+galdra,start K AE L T R,AE
+albanska,start AE L P AE,N
+tjarnastör,start T Y AE R T N AE,S
+fiðrildi,start,F
+týra,start T IH R AE,stop
+kosningarréttur,start K AO S T N IH,NG
+sminka,start S,M
+hafragrautur,start HH AE V R AE,K
+kjaftur,start,AE
+blik,start P L,IH
+hugmynd,start HH M IH,N
+druna,start T R N AE,stop
+skýrsla,start S IH S T L,AE
+jarðarber,start Y AE R DH,AE
+náttúrulegur,start N AE UW HH T UW R L,EH
+frekna,start F R EH HH K N AE,stop
+óheflaður,start OH UW HH EH P L AE DH,R
+sannfæra,start S AE N F,AE
+tröllkona,start T R AE T L K,AO
+varmur,start V AE R M,R
+för,start F AE R,stop
+halastjarna,start HH,AE
+durgslegur,start T R K S L EH,R
+skán,start S K AE UW N,stop
+nykra,start N IH,K
+schram,start S K R AE M,stop
+flokkur,start F,L
+hitamælir,start HH IH T AE M AE IH L IH,R
+fjallafura,start F Y AE,T
+hvorttveggja,start,K
+hauskúpa,start HH S K UW P,AE
+guðjónína,start K V DH Y OH,UW
+finna,start,F
+hreindýramosi,start,EH
+bæti,start P AE,IH
+hæða,start HH AE IH DH AE,stop
+postullegur,start P AO S T L L EH R,stop
+básúna,start P,AE
+svefnherbergi,start S V EH,P
+drumbur,start,T
+skylda,start S IH L T AE,stop
+hafliðína,start HH AE V L IH,DH
+minnisgripur,start M IH N IH,S
+nár,start N AE,UW
+spakmæli,start S P AE K,M
+sifjarsóley,start S IH V Y AE R S OH UW L EH,IH
+sigla,start S IH K L,AE
+töluverður,start T AE L,V
+bikkja,start P IH HH AE,stop
+verkur,start V,EH
+prik,start P R IH,K
+seifur,start S EH,IH
+gæfur,start AE IH V,R
+hornafall,start HH AO T N AE F,AE
+kindugur,start IH,N
+eyrnapinni,start EH,IH
+leikvangur,start L EH IH K V AE UW,NG
+kattarjurt,start,K
+guð,start,K
+mosasteinbrjótur,start M AO S AE S T EH IH N P R Y,OH
+hópferð,start HH OH UW P F EH R,DH
+dynja,start,T
+klósettpappír,start K L OH UW S,EH
+hnífasmíði,start IH V AE S M IH DH IH,stop
+rafgreining,start,R
+koffort,start K AO F,AO
+ítrekað,start IH,T
+brasilía,start P R AE S IH L,IH
+orkneyjar,start AO K N EH IH Y AE R,stop
+æja,start AE IH,Y
+þrettándi,start TH R EH HH T AE UW,N
+jakuxi,start Y,AE
+svara,start,S
+vanalega,start V AE N AE L EH,AE
+dósent,start T OH UW S EH N,T
+hnussa,start S,AE
+vilhjálmía,start V IH L AE UW L M,IH
+þráðnykra,start TH,R
+persónulega,start P EH S OH UW N L EH AE,stop
+heimsálfa,start HH EH IH M S AE UW,L
+skakkur,start S,K
+glúmur,start K L,UW
+brjóstsviði,start P R Y OH UW S T S V,IH
+stöðvun,start,S
+gumi,start K,M
+persía,start P EH S IH Y,AE
+treyja,start T,R
+hót,start HH,OH
+steinunn,start S T EH IH N N,stop
+narta,start N,AE
+appelsínusafi,start AE HH P EH,L
+ljósapera,start L Y OH UW S AE P,EH
+gervigras,start EH,R
+hlægja,start AE,IH
+gæluverkefni,start AE IH L V EH K,EH
+snöggur,start S T N AE K R,stop
+jöklasóley,start Y AE,HH
+villa,start V,IH
+sónata,start S OH UW N,AE
+mardís,start,M
+páskavika,start P AE UW S,K
+glóðarauga,start K L OH UW,DH
+fjarlægja,start F Y,AE
+sókn,start,S
+fjarstýring,start,F
+venda,start,V
+blindur,start P L IH N T R,stop
+grobba,start K R AO P,AE
+tilfinningalaus,start T IH L F IH N IH,NG
+próf,start P R OH UW V,stop
+trommuleikari,start T R AO M L EH IH,K
+kynkirtill,start IH N IH T,IH
+fjarski,start F,Y
+botnlangaskurður,start,P
+sálfræðingur,start,S
+skapari,start S K AE P AE R,IH
+eplatré,start,EH
+afturkræfur,start AE F T R K R AE IH V R,stop
+lotsveifgras,start L AO,T
+drepa,start T R EH P,AE
+amma,start AE,M
+pípetta,start P IH P EH HH T,AE
+ginna,start,IH
+tefja,start,T
+deyja,start T EH IH,Y
+lesminni,start L EH S,M
+skilnaður,start S IH L,N
+kjörbúð,start AE,R
+samhengi,start S AE,M
+róteind,start R OH UW T,EH
+þolfall,start TH AO L,F
+rúnar,start R UW,N
+fljóð,start F L Y OH UW DH,stop
+staður,start S T AE DH R,stop
+broddur,start P R,AO
+bensín,start P EH N,S
+hálfviti,start HH AE,UW
+særa,start,S
+hvaða,start,K
+tilvísunarfornafn,start T IH L V IH S N AE R F,AO
+hluttekning,start T T EH HH,K
+túnsúra,start T UW N S UW R,AE
+bjarnharður,start P,Y
+skýli,start S,IH
+handklæði,start HH AE N T K L AE IH,DH
+blakkneskur,start P L AE HH,K
+kræla,start K R AE,IH
+undirflokkur,start N T,IH
+mura,start M R AE,stop
+þrennur,start TH R EH N,R
+miðnætti,start M IH DH N AE IH HH T,IH
+púsluspil,start P UW S T,L
+þrymskviða,start TH,R
+drösull,start T R,AE
+mega,start M EH IH,AE
+lygi,start L,IH
+viðar,start,V
+krisma,start,K
+ruddalegur,start,R
+magnúsína,start M AE K N UW S IH N AE,stop
+forstjóri,start F AO S T Y,OH
+eldstæði,start EH,L
+brenna,start P,R
+alklæddur,start AE,L
+mosadýr,start M AO S AE T,IH
+aðalbraut,start AE DH AE,L
+própan,start P R OH UW,P
+tí,start T,IH
+arsen,start AE S EH,N
+brúðkaupsnótt,start P R UW DH,K
+vallhæra,start V AE T L HH AE IH R,AE
+ófullnægjandi,start OH UW F T L N AE IH,Y
+hefla,start HH EH P L,AE
+áhugamál,start AE UW HH AE,M
+slæða,start S AE,IH
+dramb,start T R AE M P,stop
+læknisfræði,start L,AE
+tryggja,start T R IH,AE
+vika,start V IH K,AE
+fjöldamorðingi,start,F
+heimsmethafi,start HH EH IH M S M EH T HH AE V,IH
+stöð,start S T,AE
+grímur,start K R IH,M
+sofa,start S AO V AE,stop
+þrýstiloft,start TH R IH S T IH L AO,F
+snækrækill,start S N AE IH,K
+ljósastör,start,L
+orki,start,AO
+kossa,start K,AO
+miðmyndarsögn,start M IH DH M IH N,T
+dauðarefsing,start T,DH
+stjórnleysi,start S T Y OH UW R T N L EH IH,S
+anda,start AE,N
+öryggisbelti,start AE R IH IH S P,EH
+stjarneðlisfræðingur,start S T Y AE R T N EH DH L IH S F R AE IH DH IH,NG
+skipasmíði,start S,IH
+afturfótur,start AE F T R F OH UW T,R
+borg,start,P
+fénaður,start F Y EH N AE DH R,stop
+aþena,start AE,TH
+japanskur,start Y AE,P
+kartafla,start K AE T AE,P
+mannvirki,start M AE N V,IH
+hengistör,start HH EH IH IH S T AE R,stop
+vestra,start V EH S T R,AE
+ómerkilegur,start OH UW M EH IH L EH R,stop
+klénn,start K L,Y
+fastur,start F,AE
+læknisfræði,start L AE IH HH K N IH S F R AE,IH
+tilfinning,start T IH L,F
+slatti,start S T,L
+fletja,start F L EH T Y AE,stop
+litarefni,start L IH T AE R EH P N,IH
+slíkur,start,S
+kistill,start IH S T IH T L,stop
+rúsína,start R UW S,IH
+agn,start AE K,N
+súrmjólk,start S UW R M,Y
+svíta,start S,V
+skóglaus,start S K OH,UW
+japanska,start Y AE P AE N S,K
+athöfn,start,AE
+veina,start V EH,IH
+suddi,start,S
+kærulaus,start,AE
+afhenda,start AE F HH EH,N
+eftirsókn,start EH F T IH R,S
+berlín,start P EH,R
+léttir,start L Y EH HH,T
+matarprjónn,start M AE T AE R,P
+kála,start,K
+tómstundagaman,start T OH,UW
+bráð,start P R,AE
+skeggsandi,start S EH K S AE N T,IH
+starfa,start S T AE R V AE,stop
+hamagangur,start HH AE M AE,K
+grýta,start K,R
+afsökun,start AE F S AE,K
+dauði,start T DH,IH
+líffræðilegur,start L IH F F R AE IH DH,IH
+sauma,start,S
+frumufræði,start F R M F,R
+hræðsla,start AE IH DH S T L AE,stop
+keipa,start EH IH,P
+grautur,start,K
+arameíska,start AE R AE M,EH
+leðurblaka,start L EH DH R P L AE K,AE
+drusla,start T R S T L,AE
+evrópa,start EH V R OH,UW
+metfé,start M EH T F,Y
+saxland,start S AE S L AE,N
+frú,start,F
+lín,start L,IH
+allsber,start,AE
+skyssa,start S,IH
+kompa,start K AO P,AE
+kvísl,start K V,IH
+járnbrautarstöð,start,Y
+bekkjarlalli,start P EH HH AE R L AE T L IH,stop
+hrista,start IH,S
+húm,start HH UW M,stop
+safnheiti,start S AE,P
+mygla,start M IH K L,AE
+mannvitsbrekka,start M AE N V IH T S P R EH HH K,AE
+einvígi,start EH IH N V IH Y IH,stop
+marra,start M,AE
+fylli,start F IH T L IH,stop
+drottningarriddari,start T R AO HH T N,IH
+hjálpa,start,AE
+beita,start P,EH
+hnýfill,start IH V IH,T
+bleyða,start,P
+legill,start L EH IH Y IH T,L
+stofnun,start S,T
+hyrni,start HH IH R T N,IH
+skilningur,start S IH,L
+skráning,start S K,R
+dropi,start,T
+djöfull,start T Y AE V,T
+sitjandi,start S,IH
+kelfa,start EH L V AE,stop
+friðarbogi,start F R IH DH AE R P AO Y IH,stop
+sáttmáli,start S AE,UW
+gráhegri,start K,R
+velgengni,start V EH L EH IH NG K N IH,stop
+halldórsdóttir,start HH AE L T OH UW S T OH,UW
+dýrabúð,start T,IH
+aron,start AE R AO,N
+járningamaður,start Y AE UW,R
+andvarp,start AE,N
+stórólfur,start S,T
+ökuskírteini,start AE K S,IH
+þolandi,start TH AO L,AE
+sleipur,start S T L EH IH P,R
+ostefni,start,AO
+paxblað,start P,AE
+aðsjáll,start AE DH S Y AE UW,T
+fæðing,start F AE IH,DH
+bílstjóri,start P,IH
+arngunnur,start AE R T N K N R,stop
+viðeigandi,start V IH DH EH IH,AE
+gatnamót,start K AE HH T N,AE
+lasna,start L AE S T,N
+undarlega,start N T,AE
+riðill,start R IH DH,IH
+afbrýði,start AE V P,R
+svo,start S V,AO
+heimur,start HH,EH
+áreynsla,start AE UW,R
+hurð,start HH,R
+vídalín,start V IH,T
+gróf,start K R OH UW,V
+drómedari,start T,R
+angi,start AE UW IH,stop
+slátur,start S,T
+tiltaka,start,T
+hvítasunna,start IH T AE S N AE,stop
+kökukefli,start K AE K EH P L,IH
+biðill,start P IH DH IH T L,stop
+minna,start M,IH
+snóker,start S T N OH UW K EH,R
+öryggisfyrirtæki,start AE R IH IH S F IH R IH R T AE IH,IH
+alheimur,start AE L HH,EH
+náttmál,start N AE UW HH T M AE UW,L
+kíghósti,start K,IH
+mosafræðingur,start M AO S AE,F
+manneskja,start M AE,N
+hlátur,start AE UW T,R
+bifa,start P IH V,AE
+kínaskák,start IH N AE S K AE UW,K
+dulargervi,start T L AE R EH R V IH,stop
+flórgoði,start F L OH UW R,K
+huglaus,start HH L,S
+helluhnoðri,start HH EH T L AO,DH
+indónesía,start IH N T OH UW N EH S,IH
+norska,start,N
+hersveit,start HH EH S V EH IH,T
+súra,start S,UW
+kartafla,start K,AE
+íþróttahús,start IH TH R OH UW HH T,AE
+gvatemala,start K V AE T EH M AE L,AE
+bender,start P,EH
+erfiða,start EH R V,IH
+blýglans,start P L,IH
+falstur,start F AE,L
+besefi,start P EH S EH V,IH
+hreindís,start EH IH N T IH,S
+blása,start P L AE UW S AE,stop
+för,start F,AE
+lím,start L IH M,stop
+gervitunglamynd,start EH,R
+orgel,start AO R K EH,L
+kringlóttur,start K R IH NG,L
+óhreinindi,start,OH
+járning,start Y AE UW R T N,IH
+eiginleiki,start EH IH Y IH N L EH,IH
+vinabær,start V IH N AE P AE,IH
+ósannindi,start OH UW,S
+einfaldlega,start EH IH N F AE L T L EH AE,stop
+geisla,start EH,IH
+tvístirni,start T,V
+mynstur,start,M
+brautryðjandi,start P R,T
+prýði,start P,R
+vaskur,start,V
+lexía,start L EH S IH Y,AE
+frægur,start F,R
+fallegur,start F AE T L EH R,stop
+hylur,start HH,IH
+virginía,start V,IH
+stríðni,start S T R IH DH N,IH
+dripla,start T R IH HH,P
+gát,start,K
+unnur,start N,R
+skafl,start S,K
+joð,start Y AO,DH
+gervitunglamynd,start,EH
+óbeinn,start OH UW P EH,IH
+mólýbden,start M OH UW L IH P T EH,N
+dökkvíðir,start T,AE
+nýmjólk,start N,IH
+skraut,start S K R,T
+fjandi,start F Y,AE
+ferðamaður,start F EH R DH AE M AE DH R,stop
+hrjósa,start Y OH UW,S
+frost,start F,R
+belgi,start P EH,L
+birna,start P IH R T N AE,stop
+sökk,start S,AE
+móður,start M OH,UW
+karþagó,start K AE,TH
+framtíðarfræði,start F R AE M T IH DH AE R F R AE IH DH,IH
+flensborg,start F L,EH
+púrtvín,start,P
+smyrja,start,S
+bakvörður,start P AE K V,AE
+sífelldur,start S IH,F
+sofi,start S AO,V
+persónufornafn,start P EH S OH UW N F AO R N AE,P
+tómur,start T OH,UW
+kvörn,start K V AE R T N,stop
+ritgerð,start R IH T EH,R
+drepsótt,start,T
+stofnfélagi,start S T AO P N F Y EH L AE,Y
+hrossafluga,start AO S AE F L,AE
+meðstjórnandi,start M EH DH S T Y OH UW R T N AE N T,IH
+dauðadómur,start T DH AE T OH UW,M
+obláta,start AO P L,AE
+hneigð,start,EH
+skelmir,start,S
+hylur,start,HH
+textavarp,start T EH S T AE V AE P,stop
+höfrungur,start HH AE V R UW NG,K
+kennaratyggjó,start EH N AE R AE T IH,OH
+lausn,start L,AE
+fagottleikari,start F AE K AO HH,T
+flóðhestur,start F L OH UW DH HH EH S,T
+einarína,start EH IH N AE R IH N,AE
+hvatning,start K,V
+réttindi,start,R
+eind,start EH IH N,T
+legbólga,start L EH P OH UW L K AE,stop
+albanskur,start AE,L
+nytsemi,start N IH T S EH M IH,stop
+gróður,start K R OH UW DH R,stop
+bómull,start P OH UW M T L,stop
+helgur,start HH EH L,K
+símaklefi,start S IH M,AE
+frýgískur,start F,R
+hljóðbók,start,OH
+rið,start R,IH
+gagn,start K AE K N,stop
+útlönd,start UW T L AE N,T
+júkki,start Y UW,HH
+gissurína,start IH,S
+hekla,start,HH
+eftirlíking,start,EH
+reyfi,start R,EH
+grænmetisæta,start K R,AE
+þakklátur,start TH,AE
+biti,start,P
+áræði,start AE UW R AE,IH
+hrafnkell,start AE,P
+sónatína,start S OH UW N AE T IH N,AE
+rétta,start R,Y
+lindifura,start L IH N T IH F,R
+vona,start,V
+þunnur,start TH N,R
+ódýr,start OH UW T,IH
+víóla,start V,IH
+brons,start P R AO N S,stop
+sigurdís,start S IH,R
+klappa,start K,L
+dauðhreinsa,start D,DH
+nærvera,start N AE IH R V EH,R
+klængur,start,K
+persónulega,start P EH S OH,UW
+stjórnmálamaður,start S T Y OH UW R,T
+sveppur,start S V,EH
+þrívegis,start TH R IH,V
+malurt,start M AE,L
+kvein,start K V EH IH,N
+ljósfræði,start L Y OH,UW
+rasssæri,start R AE,S
+staukur,start,S
+sinfóníuhljómsveit,start S IH N F OH UW N,IH
+svipta,start S V,IH
+tregða,start,T
+kristján,start,K
+buxur,start,P
+kverk,start K V EH,K
+slegill,start,S
+snarl,start S T N AE,R
+merking,start,M
+farseðill,start F AE S,EH
+frostpinni,start F R AO,S
+andheiti,start AE N T HH EH IH T IH,stop
+brekka,start P R EH HH,K
+hvarmur,start AE,R
+þrjóskur,start TH R Y OH UW S K R,stop
+forskeyti,start,F
+handknattleiksþjálfari,start HH AE N T K N,AE
+frelsingi,start F R EH L S IH IH,stop
+náðhús,start N AE UW,DH
+skyssa,start,S
+leikur,start L EH,IH
+árstími,start,AE
+biskup,start P IH S K P,stop
+fjallasveifgras,start F Y AE,T
+óléttur,start OH,UW
+minnisspil,start M,IH
+kindugur,start,IH
+ferstrendingur,start F EH S T R EH N,T
+vafagepill,start V AE V,AE
+teskeið,start T EH S K EH IH,DH
+einrækta,start EH IH N R AE,IH
+lag,start L,AE
+varkár,start V AE,K
+lögbrot,start L AE,P
+melóna,start M EH L OH UW N,AE
+hvert,start,EH
+kennaratyggjó,start EH,N
+kommúnisti,start K AO M UW N IH S T,IH
+nábúi,start N AE UW P,UW
+pempía,start P EH P,IH
+sigg,start S IH,K
+eyðilegging,start EH IH DH,IH
+bogastrengur,start,P
+ritröð,start,R
+rjómi,start,R
+líffræðilegur,start L IH F F R AE IH,DH
+gusa,start K,S
+seyta,start S EH IH T,AE
+grefill,start K,R
+gestur,start EH S T,R
+þind,start,TH
+þessi,start TH,EH
+dreggjar,start,T
+aðalkirkja,start AE DH AE L IH AE,stop
+tígrisdýr,start T IH K R IH S T IH,R
+þvengur,start TH,V
+grassnákur,start K R AE S,S
+lögreglustjóri,start L AE R EH K L S T,Y
+alþjóðlegur,start,AE
+fyrirferðarmikill,start F IH R IH R F EH R DH,AE
+humall,start HH M AE T,L
+kennarasleikja,start EH N AE R AE S,T
+umdeildur,start,M
+helgidagur,start HH EH L IH,T
+ungi,start UW NG K,IH
+malasía,start M AE L AE,S
+gumi,start,K
+sólblóm,start,S
+ljóðlist,start L,Y
+pípuhattur,start P IH P HH AE HH T,R
+kalkspat,start K AE K,S
+metanól,start M EH T AE,N
+landfræði,start L AE N T F R AE IH DH IH,stop
+kamfóra,start K,AE
+reykháfur,start,R
+heimalið,start HH EH IH,M
+kúlupenni,start K UW L P EH N,IH
+hettumáfur,start HH EH HH T AE M,AE
+eftirlit,start EH F T IH R L IH T,stop
+ábyrgð,start AE UW P IH,R
+hártoppur,start HH AE,UW
+snar,start S T,N
+tönn,start,T
+leyndarmál,start L EH IH N T AE R M AE UW,L
+drykkjarvatn,start T R IH HH AE R V AE,HH
+pirra,start P IH R AE,stop
+athygli,start,AE
+lesblinda,start L EH S P L IH,N
+örlítill,start AE,R
+óáreiðanleiki,start OH UW AE,UW
+dökkvíðir,start T AE HH K,V
+hnúskakrækill,start UW S,K
+sekvensa,start S,EH
+þórmundur,start TH OH UW R,M
+tabú,start T,AE
+pakkhús,start P AE HH K HH UW,S
+dverglilja,start,T
+kvenhatur,start,K
+hamla,start,HH
+hólf,start HH,OH
+stara,start,S
+gilitrutt,start IH L IH T,R
+prófessor,start P,R
+fjarvera,start F Y AE R V,EH
+franskbrauð,start F R,AE
+handarkriki,start HH AE,N
+vinalegur,start,V
+gerill,start EH R IH,T
+ruddi,start R T IH,stop
+ægja,start,AE
+olía,start AO L IH Y,AE
+hjartarfi,start AE T AE R,V
+klórópren,start K,L
+randa,start R AE N,T
+bróðurdóttir,start P R OH UW DH,R
+herðatré,start HH EH R,DH
+fólínsýra,start F OH UW L,IH
+vélfræðingur,start V,Y
+píla,start P IH,L
+þorláksmessa,start TH AO R L AE UW K S M,EH
+blóðnasir,start P L OH,UW
+hor,start HH AO,R
+lífljómun,start L IH,V
+bæli,start P AE,IH
+hverflyndur,start K V EH R V L IH,N
+eldur,start,EH
+reyður,start R EH,IH
+dílaskóf,start T IH L AE,S
+stansa,start S,T
+goð,start K AO DH,stop
+lystarstol,start L IH S T AE R S T AO,L
+ísland,start,IH
+hárbursti,start HH AE UW R,P
+klerkur,start K,L
+klósettpappír,start K L OH UW S EH HH T P AE HH P IH,R
+afleiðing,start AE V L EH IH DH,IH
+númera,start N UW M,EH
+vél,start V Y EH,L
+prakkari,start P R,AE
+jensen,start Y,EH
+tilgangur,start T IH L,K
+tíundi,start T IH Y,N
+fjárhundur,start F,Y
+veila,start V EH IH L AE,stop
+fróa,start F R OH,UW
+snjótittlingur,start S N Y OH UW T IH HH T,L
+uppskurður,start HH,P
+þáttaskil,start TH AE UW HH,T
+kvörn,start K V AE R,T
+vök,start V AE,K
+þrátta,start TH,R
+rugl,start,R
+beinagrind,start P EH IH,N
+atburður,start AE T P,R
+fleirtala,start F L,EH
+æpa,start AE IH,P
+díli,start T IH,L
+hespa,start HH EH S P,AE
+jarðsaga,start Y AE R,DH
+skemmtilegur,start S K EH T,IH
+verkfæri,start V,EH
+skógarsóley,start S K OH UW AE R S,OH
+kambur,start K AE M,P
+brenna,start,P
+þérun,start TH Y EH,R
+hæfileiki,start HH AE IH V IH L EH IH,IH
+þúsund,start TH UW,S
+þyrnir,start TH IH R T N IH R,stop
+glissa,start K L IH,S
+knattspyrnumaður,start K N AE HH T S P IH R T N M AE DH,R
+bæjarstjóri,start P AE IH Y AE R S T Y,OH
+stjórna,start S T Y OH,UW
+nýsjálenskur,start,N
+lánsþýðing,start L AE UW N S TH IH,DH
+glæpamaður,start K L AE,IH
+ritkerfi,start,R
+goðafræði,start K AO DH AE F R,AE
+ætiþistill,start AE IH T IH TH IH S T IH T L,stop
+húðsjúkdómafræði,start HH UW DH S Y UW K T,OH
+lægja,start L AE IH Y,AE
+skarð,start,S
+trefjasóley,start T R EH V Y,AE
+fyrirgefning,start F IH R IH R,EH
+guðfræði,start K V DH F R,AE
+beyging,start P EH IH Y,IH
+hrjúfur,start Y UW,V
+pysja,start P,IH
+fullyrða,start F T,L
+fyrirlitning,start F IH R IH R L IH,HH
+krista,start K R IH S T,AE
+hryggbrjóta,start IH K,P
+dökkhæra,start T AE HH K HH,AE
+nauðgun,start N,DH
+fyrirtæki,start F IH R IH R T AE IH,IH
+verja,start V EH R,Y
+hreinlæti,start EH IH N,L
+tvistur,start T V IH S T R,stop
+svöfn,start S V AE P N,stop
+lesandi,start L EH S AE N T IH,stop
+þríhyrnuburkni,start TH R IH,HH
+glæruvængur,start K L AE,IH
+hýjungur,start HH IH Y UW NG K,R
+framsöguháttur,start F R AE M S AE,HH
+þekking,start TH,EH
+mongólía,start M AO NG K,OH
+mýrasef,start M,IH
+háðung,start,HH
+beltisdýr,start P EH T IH S T IH R,stop
+löstur,start L AE S T R,stop
+eignarhaldsfélag,start EH IH K N,AE
+kringla,start K R IH NG,L
+snúðugur,start S T N UW DH,R
+gljá,start K,L
+glyrna,start K L IH R,T
+vatnsmelóna,start V AE S M EH L OH UW,N
+hljómur,start Y,OH
+frænka,start F R AE IH,N
+hrökkva,start AE,HH
+þægindi,start TH AE IH Y IH N T IH,stop
+hefnd,start,HH
+smyrja,start S,M
+mjálm,start M Y AE UW L M,stop
+taíland,start T AE IH L,AE
+forskaut,start,F
+aldeilis,start AE L T EH IH,L
+guðríður,start K V DH,R
+sproti,start S P R AO T IH,stop
+kista,start,IH
+kosning,start K AO S T N,IH
+læknisskoðun,start L AE IH HH K N IH S S K AO DH N,stop
+myrkur,start M IH,K
+heili,start HH EH IH L IH,stop
+afkomandi,start AE V K AO,M
+hrókera,start OH UW K,EH
+munkur,start M,UW
+gallabuxur,start K AE L AE P,S
+bana,start P AE,N
+vernd,start V,EH
+dádýr,start T AE,UW
+smalamaður,start S M AE L AE M AE DH R,stop
+þeytingur,start TH EH IH T IH NG K,R
+nepja,start N EH P Y,AE
+geta,start EH,T
+hrjóta,start Y OH UW T,AE
+fang,start F AE UW NG K,stop
+afríkufíll,start,AE
+krabbamein,start K R AE P,AE
+hvetja,start EH,T
+færeyska,start F AE IH,R
+tækla,start T AE IH HH K L AE,stop
+dverglilja,start T V EH R K L,IH
+áreiðanlegur,start AE UW R EH IH DH,AE
+djörfung,start T Y AE R,V
+klemma,start K L,EH
+manntal,start,M
+okfruma,start AO K F,R
+kúptur,start K UW F T R,stop
+ávarpsfall,start,AE
+elli,start,EH
+kaleikur,start K AE L,EH
+páskabróðir,start P AE UW S K AE P,R
+ekill,start EH,IH
+púður,start P,UW
+hreppur,start EH,HH
+grind,start K R IH N,T
+skollakambur,start S K AO T L,AE
+brokk,start P R AO,HH
+gómfilla,start K OH UW M F IH T,L
+ísmael,start IH S,M
+kýli,start IH L IH,stop
+útsaumur,start UW T S M R,stop
+leiðbeining,start L EH IH,DH
+hjarðmaður,start,AE
+salka,start S AE,K
+skömm,start,S
+húsdýr,start HH UW S T IH,R
+lofttæmi,start,L
+hvatning,start AE HH T N IH,NG
+rýtingur,start R,IH
+togna,start T AO,K
+hermikráka,start HH EH R M IH K R AE,UW
+hveitikím,start K V,EH
+asna,start AE S,T
+eyjafjallajökull,start EH IH Y AE,F
+þórunn,start TH OH,UW
+hanki,start HH AE UW,IH
+grikkland,start K,R
+köggull,start K AE K T,L
+bolludagur,start P AO L T AE R,stop
+gremja,start K,R
+hindartré,start HH IH N,T
+eðlismunur,start EH DH L,IH
+sýkn,start S IH HH K,N
+þrettán,start TH R EH HH T AE UW,N
+gedda,start,K
+sleif,start,S
+sonur,start S AO N R,stop
+mýrasef,start M IH R AE S EH V,stop
+díll,start,T
+nýjabrum,start,N
+farsæld,start F AE,S
+hegna,start HH,EH
+samsæta,start,S
+miðaldalatína,start M IH DH AE L T,AE
+ofbirta,start AO,V
+jarðskjálfti,start Y AE R DH S AE UW,T
+ásdís,start AE UW S,T
+haddur,start HH AE T R,stop
+dofna,start T,AO
+mannréttindi,start M AE N R Y EH HH,T
+veiki,start,V
+nokkur,start N AO,HH
+krossgáta,start K R AO S,K
+atviksorð,start AE T V IH K S AO R DH,stop
+einbjörg,start EH IH,N
+tölvuspil,start T AE L V S,P
+afturbatapíka,start AE,F
+vangi,start,V
+uppsetning,start HH P S EH HH T N IH,NG
+myndavél,start M IH N T AE V Y,EH
+dúkur,start T UW,K
+sveðja,start S,V
+fiskur,start F IH S K,R
+erfiður,start,EH
+glata,start K L,AE
+knattspyrnumaður,start K N AE HH T,S
+kveikja,start K V EH IH,AE
+trúður,start T R UW DH,R
+nútíð,start,N
+vindill,start V IH N,T
+agalegur,start AE,AE
+endur,start EH N T R,stop
+sífellt,start S IH,F
+gráölur,start K,R
+hedda,start HH EH T,AE
+gerla,start,EH
+lýsa,start L IH S AE,stop
+klúr,start K,L
+samvistarfall,start S AE M V IH S T AE R F AE,T
+kynhneigð,start IH N EH IH,DH
+gráða,start K R AE,UW
+letur,start L EH T R,stop
+skjáborð,start S AE UW P AO,R
+hópkynlíf,start HH OH UW P IH N L,IH
+skiptavinur,start S K IH F T AE V,IH
+skýra,start S,IH
+löggjafarvald,start L AE AE V AE R,V
+mysu,start M IH,S
+skipaskurður,start S IH P AE S K R,DH
+þagna,start TH,AE
+bavíani,start P AE V IH AE N IH,stop
+veikla,start V EH,IH
+bræt,start P R AE IH,T
+hljóðhimna,start Y OH,UW
+mosagrænn,start M AO S AE,K
+tegrun,start T EH,R
+riffill,start R IH F IH T,L
+knútur,start K N,UW
+handarkriki,start HH AE N T AE,R
+nautgripur,start N,T
+einvetni,start EH IH N V,EH
+skjaldarmerkjafræði,start S AE L,T
+origami,start AO R IH K AE,M
+prentun,start P R EH,T
+frystir,start F R IH S T IH,R
+nón,start N OH,UW
+garður,start K AE R DH,R
+geðshræring,start EH DH S AE IH R IH,NG
+heiðagæs,start HH EH IH DH AE AE,IH
+dömubindi,start T AE M P IH N T IH,stop
+dripla,start T R IH HH P L,AE
+líkur,start L,IH
+samheitaorðabók,start S AE M HH EH IH T AE AO,R
+skagi,start S K AE Y IH,stop
+ær,start AE,IH
+týna,start T IH N AE,stop
+jen,start Y,EH
+námskeið,start N AE UW M,S
+ljósfræði,start L Y OH UW S F R AE IH,DH
+hafnabolti,start HH AE P N AE P AO,T
+kasheitur,start K AE S HH EH IH T R,stop
+servíetta,start S EH R V IH Y EH HH T AE,stop
+refill,start R,EH
+lettneska,start L EH HH T N EH S K,AE
+herri,start,HH
+eggjastokkur,start EH AE S T,AO
+hör,start HH AE,R
+þrettándi,start TH R EH HH T AE UW N T,IH
+vekja,start,V
+sárasótt,start,S
+gyðja,start IH,DH
+fasismi,start F AE S IH S M,IH
+ríkisborgari,start R IH IH S P AO R,K
+skömm,start S K AE,M
+gorma,start K AO,R
+kommúnismi,start K AO M UW N IH S M IH,stop
+örvamælir,start AE R,V
+vindur,start V IH N T R,stop
+kirsuberjatré,start IH S P EH R Y AE T R Y EH,stop
+aðalskrifstofa,start AE DH AE L S K R IH F S T,AO
+góðæri,start K OH UW DH AE,IH
+klóra,start K,L
+árangur,start AE UW,R
+vartappi,start V AE R T AE HH P,IH
+indverskur,start IH N T V EH,S
+fylgjari,start F,IH
+mygla,start M IH,K
+smella,start,S
+fótboltaþjálfari,start F,OH
+dragt,start T R AE T,stop
+órólegur,start OH UW R OH UW L EH,R
+rými,start R IH,M
+ofursti,start AO F S T IH,stop
+hjálmtýr,start,AE
+þórmundur,start TH OH UW,R
+fjáður,start F Y AE UW,DH
+lóð,start,L
+handsnyrting,start HH,AE
+þarfaþing,start TH,AE
+skorningur,start S K AO R T N IH NG K,R
+maís,start M AE IH,S
+klínískur,start,K
+menntaskóli,start M EH,T
+hófsóley,start HH OH UW V S OH UW,L
+hjálparsagnorð,start AE UW P,AE
+hollur,start HH AO T L R,stop
+greniköngull,start K R EH N IH K NG K T,L
+vanöndun,start V AE,N
+grafa,start,K
+skollafingur,start S K AO T L AE F IH NG K,R
+járnöld,start Y AE,UW
+knattspyrnuþjálfari,start K N AE HH T S P IH R T N TH,Y
+spánska,start S P AE UW N S,K
+randa,start,R
+fræni,start F R AE IH N,IH
+undrabarn,start N T R AE P AE R,T
+rabba,start R,AE
+þorsteinn,start TH AO S T EH,IH
+hnúður,start UW DH,R
+aðgerð,start AE DH,EH
+arða,start AE R,DH
+spínat,start S P IH N AE T,stop
+óhuggulegur,start OH UW HH K L EH,R
+bókfinka,start P OH UW K F IH K AE,stop
+ö,start,AE
+þórmundur,start TH OH UW R M,N
+björgvin,start P Y AE R,K
+lýðræði,start,L
+hnúskakrækill,start UW S K AE K R AE IH IH T,L
+samheiti,start S AE M HH EH IH T,IH
+þýskaland,start TH IH S K AE L,AE
+hreinsunareldur,start EH IH N S,N
+úkraínskur,start UW K R AE,IH
+gá,start K AE UW,stop
+fjöldi,start F Y,AE
+greifingi,start K R EH IH V IH IH,stop
+stephensen,start S T EH F EH N,S
+alþingi,start AE,L
+holtasóley,start HH AO T AE S OH UW L EH,IH
+drottningarbiskup,start,T
+útlönd,start,UW
+skalla,start,S
+frjóþráður,start F R Y OH UW TH R AE UW DH R,stop
+höfundur,start HH AE V,N
+ástríður,start,AE
+hlaði,start,AE
+mjónefur,start M,Y
+þeba,start TH,EH
+fréttastofa,start F R Y EH HH T AE S,T
+stýra,start S,T
+galdur,start K AE,L
+afbrot,start AE V P R AO,T
+kasta,start K AE S T,AE
+hlífa,start IH V,AE
+vettlingur,start V EH HH T,L
+dagbók,start T,AE
+klerkdómur,start K,EH
+dögun,start T,AE
+kreppa,start K R,EH
+óáreiðanlegur,start OH UW AE UW R EH IH DH AE,N
+forskot,start F AO S,K
+þýfi,start TH IH,V
+snepill,start S T N EH,P
+vafur,start V AE V,R
+vodka,start V AO T K AE,stop
+björgmundur,start P,Y
+krissa,start,K
+svefn,start S V EH,P
+dansa,start T AE N,S
+jaðarrokk,start Y AE DH AE R R AO,HH
+snar,start,S
+erkibiskup,start EH,IH
+nöldur,start N AE L T R,stop
+segulljós,start S EH L L Y,OH
+lystarstol,start L IH S T,AE
+níðingur,start,N
+hrísgrjónavín,start IH S K,R
+vinabær,start V,IH
+bender,start P EH,N
+merkingarþróun,start M EH IH NG K AE R TH R,OH
+rifta,start R IH F T,AE
+trippi,start T R IH HH P IH,stop
+tómstundagaman,start T OH UW M S T N T AE K AE M AE N,stop
+svikari,start S V,IH
+snyrting,start S T,N
+miðlari,start M,IH
+viðar,start V,IH
+undirbúningur,start N T IH R P UW N,IH
+norðymbraland,start N AO,R
+sálfræðilegur,start S AE UW L F R,AE
+bróðurdóttir,start P R OH UW DH R T OH,UW
+rör,start R AE R,stop
+kennslubók,start EH N,S
+slæða,start S AE IH DH AE,stop
+kvísl,start K V IH S,T
+trommuleikari,start T,R
+sigurðína,start S IH,R
+frímerki,start F,R
+dalla,start,T
+velja,start V EH,L
+illska,start IH L S K,AE
+hrókur,start OH UW K R,stop
+rjúfa,start R Y UW,V
+mosaburkni,start M AO S AE P K N IH,stop
+hækka,start HH AE IH HH K AE,stop
+skellihlæja,start S EH,T
+ógnarúlfur,start OH UW K,N
+friggjargras,start F R,IH
+ráðríkur,start R AE UW DH R,IH
+sjöundi,start S Y AE,N
+táningur,start T AE UW N IH NG K,R
+stjóri,start S T,Y
+kæla,start AE IH,L
+ástríður,start AE UW S T R IH DH,R
+sirkill,start S IH IH T L,stop
+lífrænn,start L IH V R AE IH,T
+holdvotur,start HH AO L T,V
+flóastör,start F L OH UW AE S T,AE
+kórall,start K OH UW R AE,T
+eðlisfræðingur,start EH,DH
+móeiður,start M OH,UW
+mannkyn,start M,AE
+hrjósa,start Y OH UW S,AE
+víxl,start V IH,K
+brauð,start P R DH,stop
+illgresi,start IH,T
+finnland,start F IH N L AE N,T
+dauðakippur,start T DH AE IH HH P R,stop
+fataskápur,start F AE T AE S K AE UW P R,stop
+básúnuleikari,start P AE UW S UW N L EH IH K AE R,IH
+stranda,start S T R AE N T AE,stop
+bernhöft,start P EH R N HH AE,F
+orðfræði,start AO R DH F R AE IH DH,IH
+minningargripur,start M IH N IH NG K,AE
+kornblóm,start K AO,R
+lífrænn,start L IH V R AE,IH
+nískur,start N IH S K R,stop
+lúxus,start L,UW
+náttúra,start N AE UW HH T,UW
+kleppur,start K L EH HH P R,stop
+gæi,start K AE IH,Y
+girni,start,IH
+kyssilegur,start IH S IH L EH R,stop
+jarlsfrú,start Y AE R T L S F,R
+þrílaufungur,start TH R,IH
+aðalakkeri,start AE DH AE L,AE
+aðskilnaðarstefna,start AE DH S IH L N AE,DH
+tvítyngdur,start T V,IH
+beinmergur,start P EH,IH
+bæklingur,start P,AE
+stríðni,start S T R IH DH N IH,stop
+bæt,start P AE,IH
+ofurhetja,start AO V R HH EH,T
+kerfi,start EH R V IH,stop
+hlýr,start,IH
+kattardýr,start K AE HH T AE R T,IH
+kosta,start,K
+metorð,start,M
+guðlast,start K,V
+heimsvísa,start HH EH IH M,S
+skíri,start,S
+hollenska,start HH AO L,L
+boltaíþrótt,start P AO T AE IH TH R OH UW HH T,stop
+fríða,start F R IH DH AE,stop
+verðmætur,start V EH R DH M AE IH T R,stop
+grávorblóm,start K R AE,UW
+geirmundur,start EH IH,R
+biðstöð,start P IH DH S T AE,DH
+arngunnur,start AE,R
+aftursæti,start AE F T R,S
+málfræði,start M AE UW,L
+glódís,start K L OH UW T IH,S
+sirkill,start S,IH
+liðþjálfi,start L IH TH TH Y AE,UW
+sjálf,start S,Y
+tími,start,T
+svengd,start S,V
+sjötti,start S Y AE,HH
+dul,start T,L
+rökfræði,start R AE K F R AE,IH
+rómur,start R OH UW,M
+kjörskrá,start AE R S K R AE,UW
+yllir,start IH T L,IH
+broddmjólk,start P R AO T M Y OH UW K,stop
+frýgískur,start F R IH IH S,K
+hjálmar,start AE UW L M AE R,stop
+líkamur,start L IH K AE M,R
+rasssæri,start R AE S S AE,IH
+karate,start K,AE
+formæling,start F AO R M AE IH L IH NG,K
+brjóstsviði,start P R Y OH UW S T S V IH DH,IH
+regnþykkni,start R EH K N TH IH,HH
+sjófugl,start,S
+gjörla,start AE R T,L
+glæruvængur,start K L AE IH,R
+móðurbróðir,start M OH UW DH R,P
+duld,start T,L
+dökkur,start,T
+kiðlingur,start IH DH L IH NG K,R
+þrýstinn,start TH R IH S T,IH
+greinilega,start K R EH IH,N
+seiður,start S EH IH,DH
+óætur,start OH UW AE IH T,R
+hvítlaukspressa,start K V IH T L K S P R EH,S
+hvorttveggja,start AO T T V EH,AE
+skapvondur,start S K,AE
+gula,start,K
+droll,start T R AO T,L
+hattur,start,HH
+tímabelti,start,T
+fornkirkjuslavneska,start F AO R T N IH,S
+maríubjalla,start M AE R IH,Y
+vanræksla,start V AE N R,AE
+fingurbjargarblóm,start F IH NG K R P Y AE,R
+álftalaukur,start,AE
+hljóð,start,Y
+padda,start,P
+öryggisfyrirtæki,start AE R IH IH S F IH R IH R T AE,IH
+byrja,start,P
+sokkur,start S AO,HH
+byssukúla,start,P
+þorvaldína,start TH AO R V AE L T,IH
+íri,start,IH
+þroski,start TH R,AO
+forvitni,start F AO R V IH HH T N IH,stop
+götun,start K AE,T
+hvarfstig,start AE R F,S
+baða,start P AE DH AE,stop
+maríubjalla,start M AE R IH Y P Y AE,T
+eintala,start EH IH N T AE,L
+lögfræði,start L AE F,R
+dómstóll,start T OH UW M S T OH UW T L,stop
+finnland,start F IH N L,AE
+holdvotur,start HH AO L T V AO T R,stop
+stóðgarður,start S T OH UW DH K AE,R
+herða,start HH,EH
+dreki,start T R EH IH,stop
+hornhraði,start HH AO R T N AE DH,IH
+hvæsa,start AE,IH
+skær,start S AE IH R,stop
+blys,start,P
+forritari,start F AO R IH T AE R IH,stop
+sagnfræðingur,start S AE K N F R AE IH DH,IH
+heppni,start HH EH HH,P
+göldróttur,start K AE L T R OH UW,HH
+sleggja,start S T L,EH
+boðskapur,start P AO DH,S
+aðdáun,start AE,DH
+skjótur,start S OH UW,T
+gargönd,start K,AE
+hervör,start HH,EH
+garmur,start K,AE
+norðvestur,start N AO R DH V EH S T,R
+ónáða,start OH UW N,AE
+stafróf,start S T,AE
+vin,start,V
+skafl,start,S
+tilkynning,start T IH L IH N IH,NG
+guðspjall,start K V,DH
+fengur,start F EH IH NG K R,stop
+glæpur,start K L AE,IH
+viðskiptavinur,start,V
+væta,start,V
+svigi,start S V IH Y IH,stop
+ratsjá,start R AE T S Y AE UW,stop
+arða,start AE R DH,AE
+drottinn,start T R,AO
+bjórvömb,start P Y OH UW R V,AE
+sagnfylling,start S AE,K
+sálfræðingur,start S AE UW L F R AE IH,DH
+broddmjólk,start P R AO T,M
+gestrisni,start,EH
+ekta,start EH T,AE
+hefti,start HH EH,F
+gella,start EH,L
+mannvirðing,start M AE N V IH R DH IH NG,K
+lúterskur,start,L
+útskolun,start UW T S,K
+einhyrningur,start EH IH N HH IH R T N,IH
+deyja,start T,EH
+mosadýr,start M AO S AE T IH R,stop
+meiddur,start M EH IH T,R
+gönguleið,start K NG K L EH IH DH,stop
+persónufornafn,start P EH S OH UW N F AO R N,AE
+handbremsubeygja,start HH AE N,T
+grávorblóm,start K R AE UW V AO,R
+drösull,start T R AE S,T
+óma,start OH UW M,AE
+kári,start K AE UW R IH,stop
+karlmaður,start K AE R T L M,AE
+reigingur,start R EH IH Y,IH
+snúðugur,start S T,N
+fitusýra,start F IH T S IH R,AE
+hróarskelda,start,OH
+sökka,start S AE HH K AE,stop
+brautargengi,start P R T AE,R
+þúbróðir,start TH,UW
+snemma,start S N EH M AE,stop
+leiðsögn,start L EH IH DH S,AE
+aðall,start AE DH AE T,L
+aðalendir,start AE DH AE L EH N,T
+vegasalt,start V EH AE S AE T,stop
+víður,start,V
+lútur,start,L
+endurlífgun,start EH N T R L,IH
+erlendur,start EH T,L
+andri,start AE,N
+fjalldrapi,start F Y AE,T
+lungnabláæð,start L UW NG K N AE P L,AE
+körfuknattleikur,start K AE R V K,N
+eðlisfræðingur,start EH DH L IH S F R,AE
+hauskúpa,start HH S K UW P AE,stop
+holtasóley,start HH AO T AE S OH UW,L
+kafna,start K AE,P
+flæmskur,start F L AE,IH
+hlaða,start,AE
+orf,start AO,R
+hálendi,start HH AE,UW
+hrossafluga,start AO,S
+hnúi,start UW IH,stop
+tæra,start T AE,IH
+raka,start R AE K AE,stop
+pakkhús,start P AE HH K HH,UW
+spauga,start S,P
+bakka,start P AE HH K AE,stop
+blæja,start P L AE,IH
+torveldur,start T AO,R
+blundur,start P L,N
+ástríður,start AE UW S T,R
+gagnsemi,start K AE K,N
+ekkert,start,EH
+pollagalli,start P AO T L AE,K
+ásmundur,start AE UW,S
+hallgrímína,start HH AE T L K R IH M IH N AE,stop
+liðfætla,start L,IH
+boltaíþrótt,start P AO T AE IH TH R OH UW HH,T
+strandsauðlaukur,start S T R AE N T,S
+leturborð,start L,EH
+ruddalegur,start R T AE L EH R,stop
+járningamaður,start Y AE UW R T N IH NG K,AE
+heimsmet,start HH EH IH M S M EH,T
+klórópren,start K L,OH
+silfraður,start,S
+bjáni,start,P
+tékkneskur,start T Y EH HH K N EH S K R,stop
+fyllilega,start F IH T L IH L EH AE,stop
+afli,start AE P L IH,stop
+sykurmoli,start S IH K R,M
+skaða,start S,K
+stofnfélagi,start S T AO P,N
+blóðfrumnamyndun,start P L OH UW DH F R M N AE,M
+knattspyrnukona,start,K
+siður,start,S
+eiginmaður,start EH IH Y IH N,M
+guðleysi,start K,V
+skítugur,start S,IH
+jarðlag,start Y AE R DH,L
+anda,start AE N,T
+stafli,start,S
+hávaði,start HH AE UW V AE DH,IH
+eftirmiðdagur,start,EH
+mítur,start M IH T,R
+lungnaberklar,start L UW NG K N AE P EH K,L
+kvelja,start K V EH L,Y
+þurrkur,start,TH
+sólon,start S OH UW,L
+stjórnmálamaður,start S T Y OH UW R T N M,AE
+adda,start AE T AE,stop
+hastur,start HH AE S T R,stop
+lífhimna,start L IH V HH,IH
+ediksýra,start EH T IH K S IH,R
+barrtré,start P AE,R
+fjölskylda,start F Y AE L S IH L T,AE
+lepja,start L EH P Y AE,stop
+hefndarþorsti,start HH EH M T AE,R
+jakuxi,start Y AE K,K
+rín,start R IH,N
+léttúðugur,start L Y,EH
+snillingur,start S T N IH T,L
+fríspark,start F R IH S P AE K,stop
+þyrnir,start TH IH R T,N
+frumeind,start F R M,EH
+aðalatriði,start AE,DH
+norðymbraland,start N AO R DH IH M P R AE L,AE
+hrafnastör,start AE P N AE S T AE,R
+tanta,start T,AE
+hending,start HH EH N T IH,NG
+notkun,start N AO HH,T
+ákveðinn,start AE UW K V EH,DH
+synja,start S IH N Y AE,stop
+skera,start S EH R AE,stop
+konungsríki,start K AO N UW NG K S,R
+dingla,start T,IH
+tattú,start T AE HH T,UW
+trúarlegur,start T R UW AE R L,EH
+hamborg,start HH AE M P AO R,K
+hafliðína,start HH AE V L IH DH IH,N
+sæfífill,start S AE IH F IH V IH,T
+grind,start K,R
+tengdadóttir,start,T
+banga,start,P
+stál,start S T AE UW L,stop
+uxi,start S IH,stop
+miskunn,start M IH S K N,stop
+hjálparsagnorð,start AE UW P AE R,S
+sápa,start S AE,UW
+dauðhreinsa,start D DH,EH
+glufa,start K L V AE,stop
+útdráttur,start UW T T R AE UW HH T,R
+vasadiskó,start V AE S AE T IH S K,OH
+kaldur,start K AE L,T
+smyrsl,start S M,IH
+illska,start IH L S,K
+rabarbari,start R AE P,AE
+lakk,start L AE,HH
+aðfella,start AE,DH
+vogunarsjóður,start V AO G N,AE
+kajak,start,K
+lífeðlisfræði,start L IH V EH DH L IH S F R,AE
+orðaforði,start AO R DH AE F AO R DH,IH
+hliðarvasi,start IH DH,AE
+prússneskur,start P R UW S T N,EH
+hávaðamaður,start HH,AE
+vinur,start V IH,N
+þumalputti,start TH M,AE
+eyland,start EH IH L AE N,T
+handbremsubeygja,start HH,AE
+stökkva,start S T AE HH K V AE,stop
+jaðarrokk,start Y AE DH AE R R,AO
+hjarna,start AE R T,N
+júnímánuður,start Y,UW
+tónkvísl,start T OH UW N,K
+fjölmiðlasaga,start F,Y
+portúgali,start P,AO
+blæðing,start P L,AE
+torveldi,start T AO,R
+nikkel,start N IH HH K,EH
+íslam,start IH,S
+barón,start P AE R OH,UW
+fjarverufall,start F Y AE,R
+broddkúmen,start P R AO T K UW M EH N,stop
+brók,start,P
+gíbraltar,start IH P R,AE
+kæsa,start AE IH S AE,stop
+atferli,start AE T F EH R,T
+bylta,start P IH T AE,stop
+flón,start F L,OH
+birgir,start P,IH
+geðveikur,start EH,DH
+svaf,start,S
+öryggisráð,start AE R IH IH S R AE UW DH,stop
+landafræði,start L AE N T AE F,R
+köldugras,start K AE L,T
+strumpur,start S T R,P
+lykkja,start L IH HH,AE
+klara,start K L AE,R
+fæða,start F AE IH DH,AE
+strik,start S T,R
+þvottabjörn,start TH,V
+haraldína,start HH AE,R
+hnúskakrækill,start UW S K AE,K
+gróðurhús,start,K
+mýrasóley,start M IH R AE S OH UW L EH,IH
+tign,start T IH K N,stop
+stefnuljós,start,S
+langatöng,start L AE UW NG K AE T,NG
+kontrabassi,start K AO,T
+tryppanál,start T R IH HH P AE,N
+djók,start T Y OH,UW
+klípa,start K L,IH
+kanadagæs,start K AE N AE T AE AE IH,S
+séríslenskur,start S Y EH R IH S T L EH N S,K
+flaska,start F L AE S,K
+obláta,start,AO
+töfrasproti,start,T
+dúkka,start,T
+biðstofa,start P IH DH S,T
+bílaleiga,start P IH L AE L EH IH AE,stop
+fótasár,start F OH UW T AE S AE,UW
+nagli,start N,AE
+forn,start F,AO
+kragi,start,K
+lagni,start L AE K N IH,stop
+öryggisgirðing,start AE R IH IH S IH R DH IH NG,K
+kanarífugl,start,K
+hvikull,start K V IH,K
+ræðismannsbústaður,start R AE IH DH IH S M AE,N
+stein,start S T EH IH N,stop
+hnallur,start AE T L,R
+stóðgarður,start S T OH UW DH K,AE
+efnaskipti,start EH P N AE S IH F T,IH
+edik,start EH T IH K,stop
+mosafræði,start M AO S AE,F
+gaman,start K AE M,AE
+félagshyggja,start F,Y
+laufblað,start L V P,L
+líkkista,start L,IH
+raddblær,start R AE T,P
+miltisbrandur,start M IH T IH,S
+þumalputti,start TH,M
+pipar,start,P
+móður,start M OH UW,DH
+básúnuleikari,start P AE UW S UW,N
+einangrari,start EH IH N AE UW NG K R AE R,IH
+kapella,start K AE P EH T L,AE
+stjórna,start S T Y OH UW R T N AE,stop
+kókoshneta,start K OH,UW
+flog,start F L,AO
+íslenska,start IH S L EH N,S
+blávingull,start,P
+froskur,start F R AO S K,R
+karpa,start K AE,P
+hrafnastör,start AE,P
+guðlaug,start K V DH,L
+greinarmunur,start K R EH IH N AE R,M
+frásögn,start F R AE UW S AE K,N
+ákveðinn,start AE UW K,V
+biðvarsla,start P IH DH,V
+meyr,start,M
+fleyta,start F L EH IH,T
+líkkista,start L IH K IH S,T
+feðgin,start,F
+andvari,start AE N,T
+súta,start S UW T,AE
+finnskur,start F IH N S K R,stop
+ásamt,start AE,UW
+spöng,start,S
+dráttur,start T R,AE
+fótboltafélag,start F OH UW T,P
+önn,start AE N,stop
+slitur,start S T L,IH
+nafnháttarmerki,start N AE P N HH AE UW,HH
+fosfór,start F,AO
+hrygla,start IH K L,AE
+einir,start EH IH,N
+hræðilega,start,AE
+sagnbót,start S,AE
+vaff,start V,AE
+tif,start T,IH
+þerra,start,TH
+sveigur,start S,V
+illska,start IH,L
+ilskór,start IH L S K OH,UW
+útskolun,start UW T S K AO L,N
+hægð,start,HH
+áminna,start AE UW M IH,N
+smíða,start S,M
+flyksa,start F L IH K,S
+mosafræðingur,start M AO S AE F,R
+eymundur,start EH IH M,N
+mórauður,start M OH UW R DH R,stop
+arnór,start AE R T N OH,UW
+meitla,start,M
+aðdáun,start AE DH T AE UW N,stop
+söngkona,start S NG K K AO N,AE
+grænukorn,start K,R
+kerfi,start EH,R
+buski,start,P
+peningamarkaðssjóður,start P EH N IH NG K AE M AE K AE DH S S Y,OH
+vínviður,start V IH N V IH DH,R
+kampavín,start K AE P,AE
+frygð,start F R IH,DH
+tignarlegur,start T IH K N AE,R
+frábærlega,start F R AE UW P AE IH R L,EH
+áreynsla,start AE UW R,EH
+dekkja,start T EH HH,AE
+saltkjöt,start,S
+hlíta,start IH T AE,stop
+bókaskápur,start P OH UW K AE S K AE UW P R,stop
+byssa,start,P
+dýrafræði,start T IH R AE F R AE IH DH IH,stop
+framsaga,start F R AE,M
+magi,start M,AE
+íverufall,start IH V EH,R
+okra,start AO,K
+sandfok,start S AE N T F AO K,stop
+leðja,start L EH DH Y AE,stop
+sólarlag,start S OH UW L AE,R
+einteymingur,start EH IH N T EH IH M IH NG K R,stop
+árna,start AE UW R T N AE,stop
+háseti,start HH AE UW,S
+heimsálfa,start HH EH IH M S AE UW L V,AE
+jarðhiti,start Y AE R DH HH IH T,IH
+kristþyrnir,start K R IH S T TH IH R T,N
+táldraga,start T AE UW,L
+stjórnarbylting,start S T Y OH UW R,T
+múrhúða,start M UW R HH UW DH,AE
+barrtré,start P AE R T,R
+stöngull,start S T NG,K
+vegur,start V,EH
+hríð,start IH,DH
+bæta,start,P
+heygja,start HH EH IH Y AE,stop
+skammur,start S K AE M,R
+gullkorn,start K T L K AO,R
+hræla,start AE IH,L
+dýri,start T IH,R
+fjarverufall,start,F
+péttneska,start P Y,EH
+stuttur,start S T HH T R,stop
+fjallafinka,start F Y AE T L AE F IH K,AE
+lögfræðingur,start L AE F R AE IH DH,IH
+buxnadragt,start,P
+sárasótt,start S AE UW R AE S,OH
+sæll,start S AE IH,T
+grænland,start K R AE,IH
+kaðall,start K AE DH AE T L,stop
+mengun,start,M
+rakvél,start R AE K,V
+litaröð,start L,IH
+lipur,start,L
+hrapa,start AE,P
+reyta,start R EH,IH
+starfsemi,start S T AE R V S EH M,IH
+hobbiti,start HH AO,P
+hilling,start,HH
+konungsríki,start K,AO
+staðhæfing,start S T,AE
+njósnari,start N Y OH UW S T N AE R,IH
+skák,start S K AE UW K,stop
+lífefnafræði,start L,IH
+hráki,start AE,UW
+not,start N,AO
+brynjólfur,start,P
+deita,start T EH IH T,AE
+fyrirferðarmikill,start F IH,R
+vonandi,start V AO N AE N T IH,stop
+böggull,start P,AE
+skynjun,start S,IH
+marka,start M AE K,AE
+sómalía,start S OH UW M AE L IH Y,AE
+blöðruselur,start P L AE DH R S,EH
+vetrarbraut,start V EH T R AE R P R,T
+sviss,start,S
+orðsifjabók,start AO R DH S IH V Y AE P OH UW,K
+lifandi,start,L
+athæfi,start AE T HH AE IH V,IH
+finnska,start,F
+ræfill,start R AE IH V,IH
+fjóla,start F Y OH UW L AE,stop
+borgundarhólmur,start P AO R K N T AE R HH OH,UW
+magndís,start M AE,K
+streð,start S T R,EH
+bómull,start,P
+bragur,start P,R
+andvirði,start AE,N
+sverðfiskur,start S,V
+nebbi,start N EH P,IH
+mýmargur,start M,IH
+netfang,start,N
+afbrot,start,AE
+samfélagsmiðill,start S AE M F Y EH L AE S M,IH
+feldur,start,F
+opinberun,start AO P IH N P EH,R
+míkrófónn,start,M
+orrusta,start OH R,S
+danalög,start T AE N AE L AE,stop
+mold,start M,AO
+kynlaus,start,IH
+nemandi,start,N
+pólska,start P OH UW L S,K
+iðulega,start IH DH L EH,AE
+skordýr,start S K AO R,T
+arnþrúður,start AE R T N TH R UW DH R,stop
+malajíska,start M AE L,AE
+eplabaka,start EH HH P,L
+stjörnufræði,start S T Y AE R T N,F
+léttmjólk,start L Y EH HH T M Y OH UW,K
+tækla,start,T
+kúla,start K UW,L
+hörfinka,start HH AE R F IH NG,K
+kjósa,start OH,UW
+braggi,start,P
+þríhyrnuburkni,start TH R IH HH IH R T N,P
+latínuskóli,start L AE T IH N S K OH UW,L
+sjoppa,start S,Y
+barónett,start P AE R OH,UW
+stuttur,start S,T
+setning,start S EH HH,T
+rithönd,start R IH T HH,AE
+liðhlaupi,start L IH,DH
+guðlegur,start K V DH,L
+ferðamaður,start F EH R,DH
+samvistarfall,start,S
+menga,start M EH,IH
+kósínus,start K OH UW S,IH
+bókaútgáfa,start P,OH
+byrði,start P IH R,DH
+tilraun,start T IH,L
+myndavél,start M IH N,T
+fíkill,start F IH IH T L,stop
+gá,start,K
+tilraun,start,T
+skurðgröftur,start S K R,DH
+rómur,start R OH,UW
+búralegur,start P UW R,AE
+hæ,start HH AE IH,stop
+eygja,start EH IH,Y
+linnur,start L IH,N
+höggormur,start HH AE K AO,R
+túnvorblóm,start T UW N V,AO
+ábyrgur,start,AE
+kúrdíska,start K UW R T,IH
+pardus,start P AE,R
+gulstör,start K L S T AE,R
+tin,start,T
+banda,start,P
+sáðfruma,start S AE UW DH F,R
+tó,start T OH UW,stop
+brottfall,start P R AO HH T F AE T,L
+safamikill,start S AE V AE M IH IH,T
+býsn,start P IH S,T
+draumsóley,start T R M S OH UW,L
+reynd,start R,EH
+sleggjukast,start,S
+hvar,start AE R,stop
+veiklun,start V EH IH HH,K
+rengja,start R EH IH AE,stop
+hátalari,start HH AE UW T AE L AE R IH,stop
+hátalari,start HH,AE
+gleðispillir,start K L EH DH,IH
+gjóla,start OH,UW
+ferilskrá,start F EH R IH,L
+hlána,start AE UW N AE,stop
+vídd,start V IH,T
+matur,start M,AE
+krepja,start K R EH,P
+eik,start,EH
+þras,start TH R AE S,stop
+banabeður,start P AE N AE P EH DH R,stop
+hrúga,start UW,AE
+glampa,start K L AE P,AE
+keila,start EH IH L,AE
+hekk,start HH,EH
+hófsóley,start HH OH UW V,S
+fasteign,start F AE S T,EH
+nýsnævi,start N IH S,N
+klénn,start K L Y EH T N,stop
+predikari,start P R,EH
+ískra,start IH,S
+reynsla,start R EH IH N S,T
+bæli,start P AE IH L IH,stop
+sagnbeyging,start S AE K N P,EH
+fótboltafélag,start F OH UW T P AO T AE F,Y
+amaba,start AE M AE,P
+gorta,start,K
+píla,start P IH L AE,stop
+teppa,start,T
+kirja,start IH R,Y
+einangrari,start,EH
+hrópa,start OH,UW
+týsfjóla,start T IH,S
+miðjarðarhaf,start M,IH
+hringja,start IH AE,stop
+borgaralegur,start P AO R K AE R AE,L
+þeytari,start TH EH IH T AE,R
+ómur,start OH UW,M
+tinda,start T IH N T,AE
+lífvörður,start L IH V V AE,R
+hviklyndur,start K V IH K L IH N T,R
+búralegur,start,P
+bakki,start P,AE
+bráðna,start P,R
+leira,start L EH IH R AE,stop
+vangi,start V AE UW,IH
+kvabba,start K V,AE
+altari,start AE T AE R IH,stop
+skollakambur,start S K AO T L AE,K
+dýpi,start T IH P,IH
+alaskaösp,start AE L AE S K AE,AE
+dökkur,start T AE HH K R,stop
+heimill,start HH,EH
+stjörnuspeki,start S T Y AE R,T
+málfar,start M AE UW L,F
+bensínsala,start P EH N S IH N S,AE
+dissa,start T IH,S
+tindur,start T IH N T,R
+tilfinninganæmur,start T IH L F IH,N
+mergur,start M EH R,K
+afi,start AE,V
+fangelsa,start F AE UW NG,EH
+japani,start Y AE P,AE
+erindi,start EH R IH N,T
+kosning,start K AO S T N IH,NG
+næturgali,start,N
+gjarn,start AE R,T
+veigra,start V EH IH,R
+græða,start K R AE,IH
+krista,start K R IH,S
+stykkja,start S T IH HH AE,stop
+þverskurður,start TH V EH R S K R,DH
+jónína,start,Y
+drungi,start T R UW IH,stop
+horn,start,HH
+bjúgstör,start P Y UW S T AE,R
+heimsvaldastefna,start HH EH,IH
+níðingur,start N IH DH IH NG,K
+hringl,start IH,NG
+fjallasveifgras,start F Y AE T L AE S V EH,IH
+fylgja,start F IH L AE,stop
+hnjúkur,start Y UW K,R
+methafi,start M EH T,HH
+fjallafræhyrna,start F Y AE T L AE F R AE IH HH,IH
+ilmur,start,IH
+í,start,IH
+miðnætti,start M IH DH,N
+hús,start HH UW S,stop
+treyja,start,T
+bringa,start P R IH NG K,AE
+freknóttur,start F R EH HH K N OH UW HH T,R
+traktor,start T R AE T,AO
+kínín,start,IH
+foreldrar,start F AO R EH L,T
+metri,start M EH,T
+rífast,start R,IH
+taugakerfi,start,T
+smyrill,start S M,IH
+sjálfsfróun,start S Y AE,UW
+frjáls,start F,R
+klisja,start,K
+sviftifall,start S V IH F T IH,F
+leiðarstef,start L EH IH DH AE R S,T
+eldstöð,start EH L T,S
+blámaður,start P L AE UW,M
+gjóður,start OH,UW
+greind,start K R,EH
+gramm,start K,R
+loftþrýstingur,start L AO F T TH R IH S,T
+prentduft,start,P
+lestun,start L EH,S
+kraftaverk,start K,R
+níl,start N,IH
+gata,start,K
+löggjafarvald,start L AE AE V,AE
+peningur,start P EH N IH NG,K
+tæpur,start T AE IH,P
+kaupandi,start K P AE N T,IH
+megra,start M EH R,AE
+hvap,start,K
+járnbrautarlest,start Y AE UW R T N P R T AE R,L
+forma,start F AO,R
+tökuþýðing,start T AE K TH IH DH IH NG K,stop
+pútta,start P UW,HH
+tilviljunarkenndur,start T IH L V IH L Y N AE R EH N T R,stop
+kyrrseta,start,IH
+norðurland,start,N
+flóajurt,start,F
+hreyfing,start,EH
+hundshaus,start HH N T S HH S,stop
+arinn,start AE R,IH
+vörn,start V AE R,T
+fjórðapartsnóta,start,F
+trýni,start T R IH N,IH
+frakki,start F R AE HH IH,stop
+felling,start F EH T L IH NG K,stop
+hópkynlíf,start HH OH UW P IH,N
+völva,start V AE L,V
+öryggisgirðing,start AE R IH IH S,IH
+krukka,start K,R
+fjallaþinur,start F Y AE T L AE TH,IH
+raggeit,start,R
+nábrók,start N AE,UW
+gotland,start,K
+sepi,start S EH,P
+kláði,start K,L
+tág,start,T
+kampavín,start K AE,P
+neitunarvald,start N,EH
+óvarkárni,start,OH
+jarðepli,start Y AE R DH EH HH,P
+bolti,start P AO T IH,stop
+ástand,start AE UW S T AE N T,stop
+blóðnasir,start P L OH UW DH N,AE
+dreki,start T R,EH
+vísigreifi,start,V
+sleikja,start S T L EH IH AE,stop
+hetta,start HH EH HH T AE,stop
+trúlegur,start T R UW,L
+hviklyndi,start K V IH K L IH N T,IH
+hörpuskel,start,HH
+snyrting,start S T N IH T,IH
+landslag,start L AE N,S
+tap,start T AE,P
+algyðistrú,start AE L,IH
+flagahnoðri,start F L AE AE AO,DH
+kattarjurt,start K AE HH T AE R,Y
+inséníör,start IH N S Y,EH
+eimskip,start EH IH M S IH,P
+opnun,start AO HH P N N,stop
+kvenkyn,start K,V
+greipaldin,start K R EH IH P AE L T IH N,stop
+slóvenska,start S T L OH UW,V
+niðurgangur,start N IH DH R K AE UW NG,K
+allsgáður,start,AE
+óreiða,start OH UW R EH,IH
+rétt,start R Y EH HH T,stop
+berklar,start P EH K L AE R,stop
+perla,start P EH,R
+hljómsveit,start Y,OH
+hárlýja,start HH AE UW R L,IH
+langa,start L AE UW,NG
+laukur,start,L
+vildís,start V,IH
+stundum,start,S
+fágaður,start,F
+rúmfræði,start R UW,M
+árstími,start AE UW R S T,IH
+aðstoðarforstjóri,start AE DH S T AO DH AE R F AO,S
+múrbrjótur,start M UW R P R Y,OH
+klappa,start K L AE HH P AE,stop
+eggjarauða,start EH AE,R
+hersveit,start HH EH S V EH IH T,stop
+tyrkneska,start T IH K N EH,S
+kóróna,start K OH UW R OH UW N,AE
+stjórnborði,start S T Y,OH
+mauraæta,start M R,AE
+töfrasproti,start T AE V R AE S P,R
+hveitikím,start K V EH IH T IH,K
+bossi,start P AO,S
+strangur,start S T R,AE
+bavían,start P,AE
+hitna,start HH,IH
+frábærlega,start F R AE UW P AE IH R L EH,AE
+æð,start AE IH DH,stop
+konunglegur,start K AO N UW NG K,L
+rifsber,start R IH F S,P
+markteigur,start M AE K T EH IH,R
+slakna,start S T L AE HH,K
+vildís,start V IH L,T
+ári,start AE UW R IH,stop
+ólafína,start,OH
+kjarr,start,AE
+flóð,start F,L
+rós,start R OH UW,S
+skrín,start,S
+haka,start HH AE K AE,stop
+leg,start L,EH
+guðleysi,start K V DH L EH IH,S
+hanga,start HH AE UW NG,K
+núna,start N,UW
+magndís,start M AE K N T,IH
+foreldri,start F AO R,EH
+olnbogi,start AO L,N
+öreindafræði,start AE R EH IH,N
+förðun,start F AE,R
+svandís,start,S
+verkfæri,start V EH K,F
+kalín,start K AE,L
+rauðvingull,start R DH V IH NG K,T
+skegg,start S EH K,stop
+vínarborg,start V IH N AE,R
+gumi,start K M,IH
+spergill,start S P EH,R
+eski,start EH S IH,stop
+smyrja,start S M,R
+hreðka,start EH TH,K
+vindmylla,start V IH,N
+aðalakkeri,start AE DH AE L AE HH K,EH
+landslag,start,L
+tónkvísl,start T OH UW N K V IH S,T
+áætlun,start AE UW AE,IH
+tvistur,start T V,IH
+gallblaðra,start K AE T L P L AE DH R AE,stop
+útibú,start UW T IH P UW,stop
+streyma,start,S
+sleppa,start S T L EH,HH
+þágufall,start TH AE UW,F
+gamansamur,start K AE M AE N S,AE
+galdra,start K AE L T,R
+stjúpsonur,start S T Y,UW
+nörd,start N,AE
+beygingardæmi,start P EH IH Y IH NG K,AE
+geðklofi,start EH DH K,L
+krossfari,start K R AO S,F
+grjón,start K R Y OH UW N,stop
+mongólska,start M,AO
+spaug,start S,P
+ríki,start R IH,IH
+segulljós,start S,EH
+dörslag,start T AE R S T,L
+vöxtur,start,V
+herpingur,start HH EH P,IH
+þríhyrnuburkni,start TH R IH HH IH R T N P K N,IH
+svona,start,S
+bílaflutningabíll,start P IH L AE F L HH T,N
+feðgar,start F EH DH K AE,R
+segulsvið,start S EH,L
+eldhúshnífur,start EH,L
+drykkjarvatn,start T R IH HH,AE
+mylla,start M,IH
+klettasalat,start K L EH HH,T
+ölmusa,start AE L,M
+hræring,start,AE
+arnheiður,start AE R T N,HH
+staðarfall,start,S
+slitna,start S T L IH HH T,N
+firð,start F,IH
+prakkarastrik,start P R AE HH K AE R AE S,T
+broddur,start P,R
+páskabróðir,start P AE,UW
+án,start AE UW N DH,EH
+medína,start,M
+júpíter,start Y UW P IH T EH,R
+blundur,start,P
+forðafræði,start F AO R DH AE F R AE,IH
+plóma,start P L OH,UW
+brúsi,start P R UW S,IH
+grefill,start K R EH V IH,T
+plana,start,P
+lúður,start L UW DH R,stop
+forstöðumaður,start F AO S T AE DH M AE DH R,stop
+dani,start T AE N,IH
+ból,start P OH UW,L
+sprettur,start S,P
+medína,start M EH T,IH
+úkraínskur,start,UW
+ríkisfang,start R IH IH S F,AE
+aðalhending,start AE DH AE L HH EH N T IH NG,K
+botn,start P AO,HH
+hönk,start HH,K
+vínviður,start V IH N,V
+keipa,start,EH
+brugghús,start,P
+marteinn,start,M
+hárkolla,start HH AE UW,R
+hjúkra,start,UW
+þagna,start TH AE K N,AE
+fyl,start F,IH
+staðaratviksorð,start S T AE DH AE R AE T V IH K S AO,R
+strápils,start S T R AE UW P IH L S,stop
+hornabolti,start HH AO R T N,AE
+tónn,start T OH,UW
+tvíbaka,start T,V
+skáti,start S K AE,UW
+kíkir,start,IH
+mokka,start,M
+garðrækt,start K AE R,DH
+fet,start F EH T,stop
+lesbía,start L,EH
+djúpur,start T Y UW P R,stop
+þrándheimur,start,TH
+dylja,start T IH,L
+langa,start L AE UW NG K AE,stop
+ölva,start,AE
+karta,start K AE,T
+hólmganga,start HH OH UW L M K AE UW,NG
+kveðskapur,start K V EH DH S K AE,P
+slagsmál,start S T L AE,S
+rjúpa,start R Y UW P AE,stop
+andrésína,start AE,N
+vinstur,start V IH N,S
+heilalömun,start HH EH,IH
+tomma,start T AO M AE,stop
+kristni,start K R IH,S
+amharíska,start AE M HH,AE
+myndavél,start M IH N T AE,V
+karbónat,start K AE R P OH UW N AE T,stop
+aðaltré,start AE DH AE L T R Y EH,stop
+fælni,start,F
+kynskiptingur,start IH N,S
+tríósónata,start T R IH Y OH UW S OH UW N,AE
+hamra,start HH,AE
+gunnarína,start K N AE R IH N AE,stop
+gras,start,K
+erlendur,start EH T L EH N,T
+kristni,start K R IH S,T
+göndull,start K AE N T T L,stop
+níundi,start N IH Y,N
+hestur,start HH EH S,T
+barnabarn,start P AE T,N
+barnabarn,start P AE R T N AE,P
+greinarmunur,start K R EH IH N AE R M N,R
+lakka,start L AE HH K,AE
+böggull,start P AE K T,L
+eva,start,EH
+kóraltoppur,start K OH UW R AE L T AO HH P,R
+flogaveiki,start F L AO AE V EH IH,IH
+seiva,start S EH,IH
+ugga,start,K
+kyrrþeyr,start,IH
+áhrifsfall,start AE UW IH F S F AE T,L
+handavinna,start HH,AE
+borði,start B AO R,DH
+fataskápur,start F AE T AE S,K
+grípa,start K R IH P AE,stop
+ratleikur,start R AE T L,EH
+dreymandi,start,T
+gröftur,start K R AE F T,R
+servíetta,start,S
+blóðmaur,start P L OH UW DH M,R
+eyrnamergur,start EH IH R T N AE,M
+fjólublár,start F Y OH UW,L
+rauðrófa,start R DH R OH UW V AE,stop
+viðeigandi,start V IH DH EH,IH
+vasatölva,start V AE S AE,T
+flokka,start F L,AO
+teppa,start T EH HH P,AE
+fæll,start F AE IH T,L
+bilbugur,start P IH L,P
+aðalsetning,start AE DH AE L S EH HH T N IH NG,K
+serbneskur,start,S
+hámark,start HH AE UW M,AE
+nískur,start N,IH
+flytja,start F L IH T Y AE,stop
+framhjáhlaup,start F R AE M AE UW,P
+bending,start P EH N T IH NG K,stop
+ásþrúður,start,AE
+þagna,start TH AE K,N
+líkamlegur,start L IH K AE M L,EH
+kífa,start,IH
