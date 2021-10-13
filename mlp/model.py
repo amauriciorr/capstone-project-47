@@ -32,12 +32,17 @@ class MLPDataConfig:
     dataset_size: Optional[int] = None
     num_workers: int = 4
 
+@dataclasses.dataclass
+class MLPDirectoryConfig:
+    save_dir: Optional[str] = None
+    load_path: Optional[str] = None
 
 @dataclasses.dataclass
 class MLPTrainingConfig:
     data: MLPDataConfig = MLPDataConfig()
     model: MLPModelConfig = MLPModelConfig()
     optim: MLPOptimConfig = MLPOptimConfig()
+    dir: MLPDirectoryConfig = MLPDirectoryConfig()
     lightning: Dict[str, Any] = dataclasses.field(default_factory=dict)
     batch_size: int = 256
     max_epochs: int = 30
