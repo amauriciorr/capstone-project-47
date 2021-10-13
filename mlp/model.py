@@ -118,12 +118,12 @@ class MLP(pl.LightningModule):
     def validation_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
         self.log('val/loss', loss)
-        self.log('accuracy', accuracy)
+        self.log('val/accuracy', accuracy)
 
     def test_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
         self.log('test/loss', loss)
-        self.log('accuracy', accuracy)
+        self.log('test/accuracy', accuracy)
 
     def configure_optimizers(self):
         base_lr = self.hparams.optim.learning_rate / 256 * self.hparams.batch_size
