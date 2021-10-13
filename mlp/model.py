@@ -32,12 +32,17 @@ class MLPDataConfig:
     dataset_size: Optional[int] = None
     num_workers: int = 4
 
+@dataclasses.dataclass
+class MLPDirectoryConfig:
+    save_dir: Optional[str] = None
+    load_path: Optional[str] = None
 
 @dataclasses.dataclass
 class MLPTrainingConfig:
     data: MLPDataConfig = MLPDataConfig()
     model: MLPModelConfig = MLPModelConfig()
     optim: MLPOptimConfig = MLPOptimConfig()
+    dir: MLPDirectoryConfig = MLPDirectoryConfig()
     lightning: Dict[str, Any] = dataclasses.field(default_factory=dict)
     batch_size: int = 256
     max_epochs: int = 30
@@ -111,8 +116,14 @@ class MLP(pl.LightningModule):
         return loss
 
     def validation_step(self, batch, *_):
-        loss, _ = self._compute_loss(batch)
+        loss, accuracy = self._compute_loss(batch)
         self.log('val/loss', loss)
+        self.log('val/accuracy', accuracy)
+
+    def test_step(self, batch, *_):
+        loss, accuracy = self._compute_loss(batch)
+        self.log('test/loss', loss)
+        self.log('test/accuracy', accuracy)
 
     def configure_optimizers(self):
         base_lr = self.hparams.optim.learning_rate / 256 * self.hparams.batch_size
