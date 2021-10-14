@@ -71,9 +71,9 @@ class MLP(pl.LightningModule):
         self.layers = nn.Sequential(
             nn.Linear(config.model.embedding_size * 2, 256),
             nn.ReLU(),
-            nn.Linear(256, 128),
+            nn.Linear(256, 1048),
             nn.ReLU(),
-            nn.Linear(128, config.model.phoneme_size)
+            nn.Linear(1048, config.model.phoneme_size)
         )
 
 
