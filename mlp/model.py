@@ -70,14 +70,11 @@ class MLP(pl.LightningModule):
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
                                               padding_idx=config.model.phoneme_padding_idx)
         """
-        we multiply embedding size by 2 in first nn.Linear() layer since we plan to concatenate 
-        both embedding vectors in the forward pass
+        since both phoneme and word inputs are padded to length 45 we have a 45 x emb_dim output 
+        from nn.Embedding for each, which we change into a concatenated 1-dim vector. multiply by 2 to account 
+        for both character and phoneme sequences.
         """
         self.layers = nn.Sequential(
-            # nn.Linear(config.model.embedding_size * 2, 256),
-            # since both phoneme and word inputs are padded to length 45
-            # we have a 45 x emb_dim output from nn.Embedding for each, which
-            # we change into a concatenated 1-dim vector.
             nn.Linear(config.model.embedding_size * 45 * 2, 256),
             nn.ReLU(),
             nn.Linear(256, 128),
