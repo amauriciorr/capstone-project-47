@@ -56,8 +56,19 @@ class DataModule(pl.LightningDataModule):
         # minor pre-processing done since we are no longer using BPE
         df['word'] = df['word'].map(lambda row: ' '.join(list(row.strip())))
 
+        # set fixed padding length to avoid variable sequence lengths from batch-to-batch
+        # ensures we can set a fixed input dim for our first nn.Linear
+        self.word_tokenizer.enable_padding(direction='right', pad_token='PAD',
+                                           length=45)
+        self.phoneme_tokenizer.enable_padding(direction='right', pad_token='PAD',
+                                           length=45)
         words = self.word_tokenizer.encode_batch(list(df['word'].values))
         phonemes = self.phoneme_tokenizer.encode_batch(list(df['phonemes'].values))
+
+        # not the most DRY code but after we've fixed padding for a specific length
+        # for our sequence of phonemes we revert to padding to max length,
+        #  i.e. length-1 for labels.
+        self.phoneme_tokenizer.enable_padding(direction='right', pad_token='PAD')
         labels = self.phoneme_tokenizer.encode_batch(list(df['label'].values))
 
         word_ids = torch.tensor([x.ids for x in words], dtype=torch.long)
