@@ -101,6 +101,7 @@ class MLP(pl.LightningModule):
         phone_representation = phone_representation.view(phone_dims[0], phone_dims[1] * phone_dims[2])
 
         word = torch.cat([word_representation, phone_representation], dim=1)
+        # print(word.size())
         return self.layers(word)
 
     def _compute_loss(self, batch):
@@ -113,6 +114,10 @@ class MLP(pl.LightningModule):
         return loss, accuracy
 
     def training_step(self, batch, *_):
+        if(self.current_epoch==1):
+            sampleInput=torch.rand((1,128,23040)) 
+            self.logger.experiment.add_graph(MLP(),sampleInput)
+
         loss, accuracy = self._compute_loss(batch)
         # self.log('accuracy', accuracy, prog_bar=True)
         # tensorboard_logs = {'train/loss': loss}
