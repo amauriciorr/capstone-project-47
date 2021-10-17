@@ -8,7 +8,6 @@ from . import dataset, model
 def main(config):
     checkpoint_callback = pytorch_lightning.callbacks.ModelCheckpoint(
                             monitor="val/loss",
-                            # dirpath="/content/gdrive/MyDrive/2021_Capstone/capstone-project-47/outputs",
                             filename="capstone-{epoch:02d}-{val/loss:.2f}",
                             save_top_k=1,
                             mode="min"
@@ -33,7 +32,8 @@ def main(config):
 
     trainer = pytorch_lightning.Trainer(**trainer_kwargs)
     dm = dataset.DataModule(config.batch_size // config.gpus,
-                            config.data.datafile)
+                            config.data.datafile,
+                            tokenizer_lang=config.data.tokenizer_lang)
     dm.setup()
     config.data.dataset_size = len(dm.train_dataset)
     config.model.character_size = dm.character_vocab_size

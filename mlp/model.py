@@ -30,6 +30,7 @@ class MLPDataConfig:
     # with same task on another language or return to english.
     datafile: str = 'processed_english.csv'
     dataset_size: Optional[int] = None
+    tokenizer_lang: str = 'english'
     num_workers: int = 4
 
 @dataclasses.dataclass
