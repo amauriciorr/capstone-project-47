@@ -11,7 +11,8 @@ def main(config):
 
 
     dm = dataset.DataModule(config.batch_size // config.gpus,
-                            config.data.datafile)
+                            config.data.datafile,
+                            tokenizer_lang=config.data.tokenizer_lang)
         
     dm.setup()
 
@@ -21,12 +22,16 @@ def main(config):
     config.model.phoneme_size = dm.phoneme_vocab_size
     config.model.phoneme_padding_idx = dm.phoneme_padding_idx
 
+    trainer_kwargs = { **config.lightning }
+    trainer_kwargs['gpus'] = config.gpus
+    if config.gpus > 1:
+        trainer_kwargs['accelerator'] = 'ddp'
 
     word_2_phone_model = model.MLP(config)
     checkpoint = torch.load(config.dir.load_path)
     word_2_phone_model.load_state_dict(checkpoint['state_dict'])
 
-    trainer = pl.Trainer()  
+    trainer = pl.Trainer(**trainer_kwargs)
     trainer.test(word_2_phone_model, datamodule=dm, verbose=True)
 
 
