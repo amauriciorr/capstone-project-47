@@ -9,7 +9,8 @@ def main(config):
     checkpoint_callback = pytorch_lightning.callbacks.ModelCheckpoint(
                             monitor="val/loss",
                             # dirpath="/content/gdrive/MyDrive/2021_Capstone/capstone-project-47/outputs",
-                            filename="capstone-{epoch:02d}-{val/loss:.2f}",
+                            filename="capstone-english-{epoch:02d}-{val/loss:.2f}",
+                            # filename="capstone-spanish-{epoch:02d}-{val/loss:.2f}",
                             save_top_k=1,
                             mode="min"
                           )

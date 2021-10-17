@@ -27,6 +27,8 @@ class DataModule(pl.LightningDataModule):
         self.num_data_workers = num_data_workers
         self.word_tokenizer = Tokenizer.from_file("/token_encodings/word_tokenizer-eng.json")
         self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
+        # self.word_tokenizer = Tokenizer.from_file("/home/sk7327/cds-bootcamp/lecture2/capstone-project-47/capstone-project-47/data/token_encodings/word_tokenizer-spanish.json")
+        # self.phoneme_tokenizer = Tokenizer.from_file("/home/sk7327/cds-bootcamp/lecture2/capstone-project-47/capstone-project-47/data/token_encodings/phoneme_tokenizer-spanish.json") 
         self.character_vocab_size = self.word_tokenizer.get_vocab_size()
         self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
         self.character_padding_idx = self.word_tokenizer.get_vocab()['PAD']

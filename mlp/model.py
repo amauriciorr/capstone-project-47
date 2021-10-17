@@ -29,6 +29,7 @@ class MLPDataConfig:
     # then we will seek to either leverage transfer learning
     # with same task on another language or return to english.
     datafile: str = 'processed_english.csv'
+    # datafile: str = 'processed_spanish.csv'
     dataset_size: Optional[int] = None
     num_workers: int = 4
 
@@ -113,8 +114,26 @@ class MLP(pl.LightningModule):
 
     def training_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
-        self.log('accuracy', accuracy, prog_bar=True)
-        return loss
+        # self.log('accuracy', accuracy, prog_bar=True)
+        # tensorboard_logs = {'train/loss': loss}
+        # tensorboard_logs['step'] = self.current_epoch # added
+        # # return loss
+        # return {'train/loss': loss, 'log': tensorboard_logs} # added
+
+        self.logger.experiment.add_scalar("Loss/Train",
+                                        loss,
+                                        self.current_epoch)
+
+        self.logger.experiment.add_scalar("Accuracy/Train",
+                                        accuracy,
+                                        self.current_epoch)
+
+        epoch_dictionary={
+            # required
+                'loss': loss}
+
+        return epoch_dictionary
+
 
     def validation_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
