@@ -1,0 +1,21 @@
+data:
+  datafile: processed_english.csv
+  dataset_size: null
+  num_workers: 4
+model:
+  embedding_size: 256
+  character_size: null
+  character_padding_idx: null
+  phoneme_size: null
+  phoneme_padding_idx: null
+optim:
+  learning_rate: 0.001
+  weight_decay: 1.0e-05
+  grad_clip_norm: null
+dir:
+  save_dir: null
+  load_path: /home/sk7327/cds-bootcamp/lecture2/capstone-project-47/capstone-project-47/outputs/2021-10-16/16-30-46/lightning_logs/version_0/checkpoints/capstone-spanish-epoch=02-val/loss=0.17.ckpt
+lightning: {}
+batch_size: 256
+max_epochs: 30
+gpus: 2

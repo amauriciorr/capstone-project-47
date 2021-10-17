@@ -1,0 +1,2 @@
+[2021-10-17 09:42:05,989][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2021-10-17 09:42:05,999][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for 2 nodes.
