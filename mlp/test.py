@@ -3,6 +3,7 @@ from hydra.core.config_store import ConfigStore
 import pytorch_lightning as pl
 import pytorch_lightning.callbacks
 from pytorch_lightning.callbacks import ModelCheckpoint
+import torch
 from . import dataset, model
 
 @hydra.main(config_name='conf', config_path=None)
@@ -22,11 +23,11 @@ def main(config):
 
 
     word_2_phone_model = model.MLP(config)
-    # model_test = word_2_phone_model.load_from_checkpoint(checkpoint_path="/content/gdrive/MyDrive/2021_Capstone/capstone-project-47/outputs/capstone-epoch=49-val/loss=1.03.ckpt")
-    model_test = word_2_phone_model.load_from_checkpoint(checkpoint_path=config.dir.load_path)
+    checkpoint = torch.load(config.dir.load_path)
+    word_2_phone_model.load_state_dict(checkpoint['state_dict'])
 
     trainer = pl.Trainer()  
-    trainer.test(model_test, datamodule=dm, verbose=True)
+    trainer.test(word_2_phone_model, datamodule=dm, verbose=True)
 
 
 if __name__ == '__main__':
