@@ -3,6 +3,7 @@ from hydra.core.config_store import ConfigStore
 import pytorch_lightning as pl
 import pytorch_lightning.callbacks
 from . import dataset, model
+from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 
 @hydra.main(config_name='conf', config_path=None)
 def main(config):
@@ -19,7 +20,8 @@ def main(config):
     callbacks = [
         pytorch_lightning.callbacks.GPUStatsMonitor(),
         pytorch_lightning.callbacks.LearningRateMonitor(log_momentum=True),
-        checkpoint_callback
+        checkpoint_callback,
+        EarlyStopping(monitor="val/loss")
     ]
 
     trainer_kwargs = { **config.lightning }

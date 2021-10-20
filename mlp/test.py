@@ -28,11 +28,18 @@ def main(config):
         trainer_kwargs['accelerator'] = 'ddp'
 
     word_2_phone_model = model.MLP(config)
+
+    checkpoint = torch.load(config.dir.load_path)
+    word_2_phone_model.load_state_dict(checkpoint['state_dict'])
+    trainer = pl.Trainer()  
+    trainer.test(model_test, datamodule=dm, verbose=True)
+
     checkpoint = torch.load(config.dir.load_path)
     word_2_phone_model.load_state_dict(checkpoint['state_dict'])
 
     trainer = pl.Trainer(**trainer_kwargs)
     trainer.test(word_2_phone_model, datamodule=dm, verbose=True)
+
 
 
 if __name__ == '__main__':
