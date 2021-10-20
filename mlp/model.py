@@ -113,26 +113,11 @@ class MLP(pl.LightningModule):
         return loss, accuracy
 
     def training_step(self, batch, *_):
-
         loss, accuracy = self._compute_loss(batch)
         self.log('accuracy', accuracy, prog_bar=True)
-        # tensorboard_logs = {'train/loss': loss}
-        # tensorboard_logs['step'] = self.current_epoch # added
-        # # return loss
-        # return {'train/loss': loss, 'log': tensorboard_logs} # added
-
-        self.logger.experiment.add_scalar("Loss/Train",
-                                        loss,
-                                        self.current_epoch)
-
-        self.logger.experiment.add_scalar("Accuracy/Train",
-                                        accuracy,
-                                        self.current_epoch)
-
-        epoch_dictionary={
-            # required
-                'loss': loss}
-
+        self.logger.experiment.add_scalar("Loss/Train", loss, self.current_epoch)
+        self.logger.experiment.add_scalar("Accuracy/Train", accuracy, self.current_epoch)
+        epoch_dictionary = {'loss': loss}
         return epoch_dictionary
 
 
