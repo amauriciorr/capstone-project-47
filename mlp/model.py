@@ -29,7 +29,6 @@ class MLPDataConfig:
     # then we will seek to either leverage transfer learning
     # with same task on another language or return to english.
     datafile: str = 'processed_english.csv'
-    # datafile: str = 'processed_spanish.csv'
     dataset_size: Optional[int] = None
     tokenizer_lang: str = 'english'
     num_workers: int = 4
@@ -102,7 +101,6 @@ class MLP(pl.LightningModule):
         phone_representation = phone_representation.view(phone_dims[0], phone_dims[1] * phone_dims[2])
 
         word = torch.cat([word_representation, phone_representation], dim=1)
-        # print(word.size())
         return self.layers(word)
 
     def _compute_loss(self, batch):
@@ -115,12 +113,9 @@ class MLP(pl.LightningModule):
         return loss, accuracy
 
     def training_step(self, batch, *_):
-        if(self.current_epoch==1):
-            sampleInput=torch.rand((1,128,23040)) 
-            self.logger.experiment.add_graph(MLP(),sampleInput)
 
         loss, accuracy = self._compute_loss(batch)
-        # self.log('accuracy', accuracy, prog_bar=True)
+        self.log('accuracy', accuracy, prog_bar=True)
         # tensorboard_logs = {'train/loss': loss}
         # tensorboard_logs['step'] = self.current_epoch # added
         # # return loss
