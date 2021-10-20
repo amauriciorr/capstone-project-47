@@ -31,6 +31,7 @@ class MLPDataConfig:
     datafile: str = 'processed_english.csv'
     # datafile: str = 'processed_spanish.csv'
     dataset_size: Optional[int] = None
+    tokenizer_lang: str = 'english'
     num_workers: int = 4
 
 @dataclasses.dataclass

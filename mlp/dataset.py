@@ -14,8 +14,13 @@ from tokenizers.normalizers import NFD, StripAccents
 # see https://github.com/huggingface/transformers/issues/5486 for context
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+TOKENIZER_FILES = {
+    'english': ["/token_encodings/word_tokenizer-eng.json", "/token_encodings/phoneme_tokenizer-eng.json"],
+    'spanish': ["/token_encodings/word_tokenizer-spanish.json", "/token_encodings/phoneme_tokenizer-spanish.json"]
+}
+
 class DataModule(pl.LightningDataModule):
-    def __init__(self,  batch_size: int, datafile, seed=100, root='/model_ready/csv/', num_data_workers: int=4):
+    def __init__(self,  batch_size: int, datafile, seed=100, tokenizer_lang='english', root='/model_ready/csv/', num_data_workers: int=4):
         super().__init__()
         self.seed = seed
         self.root = root
@@ -25,10 +30,8 @@ class DataModule(pl.LightningDataModule):
         self.val_dataset = None
         self.test_dataset = None
         self.num_data_workers = num_data_workers
-        self.word_tokenizer = Tokenizer.from_file("/token_encodings/word_tokenizer-eng.json")
-        self.phoneme_tokenizer = Tokenizer.from_file("/token_encodings/phoneme_tokenizer-eng.json")
-        # self.word_tokenizer = Tokenizer.from_file("/home/sk7327/cds-bootcamp/lecture2/capstone-project-47/capstone-project-47/data/token_encodings/word_tokenizer-spanish.json")
-        # self.phoneme_tokenizer = Tokenizer.from_file("/home/sk7327/cds-bootcamp/lecture2/capstone-project-47/capstone-project-47/data/token_encodings/phoneme_tokenizer-spanish.json") 
+        self.word_tokenizer = Tokenizer.from_file(TOKENIZER_FILES[tokenizer_lang][0])
+        self.phoneme_tokenizer = Tokenizer.from_file(TOKENIZER_FILES[tokenizer_lang][1])
         self.character_vocab_size = self.word_tokenizer.get_vocab_size()
         self.phoneme_vocab_size = self.phoneme_tokenizer.get_vocab_size()
         self.character_padding_idx = self.word_tokenizer.get_vocab()['PAD']
