@@ -1,48 +1,48 @@
 word,phonemes,label
-'ndrangheta,start,N
-'ndrangheta,start N,D
-'ndrangheta,start N D,R
-'ndrangheta,start N D R,AE
-'ndrangheta,start N D R AE,N
-'ndrangheta,start N D R AE N,G
-'ndrangheta,start N D R AE N G,EH
-'ndrangheta,start N D R AE N G EH,T
-'ndrangheta,start N D R AE N G EH T,AE
-'ndrangheta,start N D R AE N G EH T AE,stop
-'ndranghetista,start,N
-'ndranghetista,start N,D
-'ndranghetista,start N D,R
-'ndranghetista,start N D R,AE
-'ndranghetista,start N D R AE,N
-'ndranghetista,start N D R AE N,G
-'ndranghetista,start N D R AE N G,EH
-'ndranghetista,start N D R AE N G EH,T
-'ndranghetista,start N D R AE N G EH T,IH
-'ndranghetista,start N D R AE N G EH T IH,S
-'ndranghetista,start N D R AE N G EH T IH S,T
-'ndranghetista,start N D R AE N G EH T IH S T,AE
-'ndranghetista,start N D R AE N G EH T IH S T AE,stop
-'ndrina,start,N
-'ndrina,start N,D
-'ndrina,start N D,R
-'ndrina,start N D R,IH
-'ndrina,start N D R IH,N
-'ndrina,start N D R IH N,AE
-'ndrina,start N D R IH N AE,stop
-'nduja,start,N
-'nduja,start N,D
-'nduja,start N D,UW
-'nduja,start N D UW,Y
-'nduja,start N D UW Y,AE
-'nduja,start N D UW Y AE,stop
-'sto,start,S
-'sto,start S,T
-'sto,start S T,OH
-'sto,start S T OH,stop
+ndrangheta,start,N
+ndrangheta,start N,D
+ndrangheta,start N D,R
+ndrangheta,start N D R,AE
+ndrangheta,start N D R AE,N
+ndrangheta,start N D R AE N,G
+ndrangheta,start N D R AE N G,EH
+ndrangheta,start N D R AE N G EH,T
+ndrangheta,start N D R AE N G EH T,AE
+ndrangheta,start N D R AE N G EH T AE,stop
+ndranghetista,start,N
+ndranghetista,start N,D
+ndranghetista,start N D,R
+ndranghetista,start N D R,AE
+ndranghetista,start N D R AE,N
+ndranghetista,start N D R AE N,G
+ndranghetista,start N D R AE N G,EH
+ndranghetista,start N D R AE N G EH,T
+ndranghetista,start N D R AE N G EH T,IH
+ndranghetista,start N D R AE N G EH T IH,S
+ndranghetista,start N D R AE N G EH T IH S,T
+ndranghetista,start N D R AE N G EH T IH S T,AE
+ndranghetista,start N D R AE N G EH T IH S T AE,stop
+ndrina,start,N
+ndrina,start N,D
+ndrina,start N D,R
+ndrina,start N D R,IH
+ndrina,start N D R IH,N
+ndrina,start N D R IH N,AE
+ndrina,start N D R IH N AE,stop
+nduja,start,N
+nduja,start N,D
+nduja,start N D,UW
+nduja,start N D UW,Y
+nduja,start N D UW Y,AE
+nduja,start N D UW Y AE,stop
+sto,start,S
+sto,start S,T
+sto,start S T,OH
+sto,start S T OH,stop
 a,start,AE
 a,start AE,stop
-a',start,AE
-a',start AE,stop
+a,start,AE
+a,start AE,stop
 aa,start,AE
 aa,start AE,AE
 aa,start AE AE,stop
@@ -6327,40 +6327,40 @@ alitalia,start AE L IH T AE,L
 alitalia,start AE L IH T AE L,Y
 alitalia,start AE L IH T AE L Y,AE
 alitalia,start AE L IH T AE L Y AE,stop
-all',start,AE
-all',start AE,L
-all',start AE L,L
-all',start AE L L,stop
-all'amatriciana,start,AE
-all'amatriciana,start AE,L
-all'amatriciana,start AE L,L
-all'amatriciana,start AE L L,AE
-all'amatriciana,start AE L L AE,M
-all'amatriciana,start AE L L AE M,AE
-all'amatriciana,start AE L L AE M AE,T
-all'amatriciana,start AE L L AE M AE T,R
-all'amatriciana,start AE L L AE M AE T R,IH
-all'amatriciana,start AE L L AE M AE T R IH,CH
-all'amatriciana,start AE L L AE M AE T R IH CH,AE
-all'amatriciana,start AE L L AE M AE T R IH CH AE,N
-all'amatriciana,start AE L L AE M AE T R IH CH AE N,AE
-all'amatriciana,start AE L L AE M AE T R IH CH AE N AE,stop
-all'arme,start,AE
-all'arme,start AE,L
-all'arme,start AE L,L
-all'arme,start AE L L,AE
-all'arme,start AE L L AE,R
-all'arme,start AE L L AE R,M
-all'arme,start AE L L AE R M,EH
-all'arme,start AE L L AE R M EH,stop
-all'uopo,start,AE
-all'uopo,start AE,L
-all'uopo,start AE L,L
-all'uopo,start AE L L,W
-all'uopo,start AE L L W,AO
-all'uopo,start AE L L W AO,P
-all'uopo,start AE L L W AO P,OH
-all'uopo,start AE L L W AO P OH,stop
+all,start,AE
+all,start AE,L
+all,start AE L,L
+all,start AE L L,stop
+allamatriciana,start,AE
+allamatriciana,start AE,L
+allamatriciana,start AE L,L
+allamatriciana,start AE L L,AE
+allamatriciana,start AE L L AE,M
+allamatriciana,start AE L L AE M,AE
+allamatriciana,start AE L L AE M AE,T
+allamatriciana,start AE L L AE M AE T,R
+allamatriciana,start AE L L AE M AE T R,IH
+allamatriciana,start AE L L AE M AE T R IH,CH
+allamatriciana,start AE L L AE M AE T R IH CH,AE
+allamatriciana,start AE L L AE M AE T R IH CH AE,N
+allamatriciana,start AE L L AE M AE T R IH CH AE N,AE
+allamatriciana,start AE L L AE M AE T R IH CH AE N AE,stop
+allarme,start,AE
+allarme,start AE,L
+allarme,start AE L,L
+allarme,start AE L L,AE
+allarme,start AE L L AE,R
+allarme,start AE L L AE R,M
+allarme,start AE L L AE R M,EH
+allarme,start AE L L AE R M EH,stop
+alluopo,start,AE
+alluopo,start AE,L
+alluopo,start AE L,L
+alluopo,start AE L L,W
+alluopo,start AE L L W,AO
+alluopo,start AE L L W AO,P
+alluopo,start AE L L W AO P,OH
+alluopo,start AE L L W AO P OH,stop
 alla,start,AE
 alla,start AE,L
 alla,start AE L,L
@@ -8612,12 +8612,12 @@ ancestrale,start AE N CH EH S T R,AE
 ancestrale,start AE N CH EH S T R AE,L
 ancestrale,start AE N CH EH S T R AE L,EH
 ancestrale,start AE N CH EH S T R AE L EH,stop
-anch'io,start,AE
-anch'io,start AE,NG
-anch'io,start AE NG,K
-anch'io,start AE NG K,IH
-anch'io,start AE NG K IH,OH
-anch'io,start AE NG K IH OH,stop
+anchio,start,AE
+anchio,start AE,NG
+anchio,start AE NG,K
+anchio,start AE NG K,IH
+anchio,start AE NG K IH,OH
+anchio,start AE NG K IH OH,stop
 anche,start,AE
 anche,start AE,N
 anche,start AE N,K
@@ -23701,10 +23701,10 @@ c,start,T
 c,start T,SH
 c,start T SH,IH
 c,start T SH IH,stop
-c'è,start,T
-c'è,start T,SH
-c'è,start T SH,EH
-c'è,start T SH EH,stop
+cè,start,T
+cè,start T,SH
+cè,start T SH,EH
+cè,start T SH EH,stop
 cabaret,start,K
 cabaret,start K,AE
 cabaret,start K AE,B
@@ -39030,20 +39030,20 @@ d,start D,stop
 d,start,D
 d,start D,IH
 d,start D IH,stop
-d',start,D
-d',start D,stop
-d'emblée,start,D
-d'emblée,start D,AE
-d'emblée,start D AE,M
-d'emblée,start D AE M,B
-d'emblée,start D AE M B,L
-d'emblée,start D AE M B L,EH
-d'emblée,start D AE M B L EH,stop
-d'oro,start,D
-d'oro,start D,AO
-d'oro,start D AO,R
-d'oro,start D AO R,OH
-d'oro,start D AO R OH,stop
+d,start,D
+d,start D,stop
+demblée,start,D
+demblée,start D,AE
+demblée,start D AE,M
+demblée,start D AE M,B
+demblée,start D AE M B,L
+demblée,start D AE M B L,EH
+demblée,start D AE M B L EH,stop
+doro,start,D
+doro,start D,AO
+doro,start D AO,R
+doro,start D AO R,OH
+doro,start D AO R OH,stop
 dabbuddà,start,D
 dabbuddà,start D,AE
 dabbuddà,start D AE,B
@@ -71931,21 +71931,21 @@ l,start EH,L
 l,start EH L,L
 l,start EH L L,EH
 l,start EH L L EH,stop
-l',start,L
-l',start L,stop
-l'aia,start,L
-l'aia,start L,AE
-l'aia,start L AE,Y
-l'aia,start L AE Y,AE
-l'aia,start L AE Y AE,stop
-l'aquila,start,L
-l'aquila,start L,AE
-l'aquila,start L AE,K
-l'aquila,start L AE K,W
-l'aquila,start L AE K W,IH
-l'aquila,start L AE K W IH,L
-l'aquila,start L AE K W IH L,AE
-l'aquila,start L AE K W IH L AE,stop
+l,start,L
+l,start L,stop
+laia,start,L
+laia,start L,AE
+laia,start L AE,Y
+laia,start L AE Y,AE
+laia,start L AE Y AE,stop
+laquila,start,L
+laquila,start L,AE
+laquila,start L AE,K
+laquila,start L AE K,W
+laquila,start L AE K W,IH
+laquila,start L AE K W IH,L
+laquila,start L AE K W IH L,AE
+laquila,start L AE K W IH L AE,stop
 la,start,L
 la,start L,AE
 la,start L AE,stop
@@ -78424,9 +78424,9 @@ me,start M EH,stop
 me,start,M
 me,start M,EH
 me,start M EH,stop
-me',start,M
-me',start M,EH
-me',start M EH,stop
+me,start,M
+me,start M,EH
+me,start M EH,stop
 meare,start,M
 meare,start M,EH
 meare,start M EH,AE
@@ -95353,9 +95353,9 @@ pneumatico,start P N EH UW M AE T,IH
 pneumatico,start P N EH UW M AE T IH,K
 pneumatico,start P N EH UW M AE T IH K,OH
 pneumatico,start P N EH UW M AE T IH K OH,stop
-po',start,P
-po',start P,AO
-po',start P AO,stop
+po,start,P
+po,start P,AO
+po,start P AO,stop
 poco,start,P
 poco,start P,AO
 poco,start P AO,K
@@ -98364,10 +98364,10 @@ pro,start,P
 pro,start P,R
 pro,start P R,AO
 pro,start P R AO,stop
-pro',start,P
-pro',start P,R
-pro',start P R,AO
-pro',start P R AO,stop
+pro,start,P
+pro,start P,R
+pro,start P R,AO
+pro,start P R AO,stop
 probandato,start,P
 probandato,start P,R
 probandato,start P R,OH
@@ -127470,8 +127470,8 @@ u,start,UW
 u,start UW,stop
 u,start,W
 u,start W,stop
-u',start,UW
-u',start UW,stop
+u,start,UW
+u,start UW,stop
 uabaio,start,W
 uabaio,start W,AE
 uabaio,start W AE,B
@@ -128080,9 +128080,9 @@ umiltà,start UW M IH L T AE,stop
 un,start,UW
 un,start UW,N
 un,start UW N,stop
-un',start,UW
-un',start UW,N
-un',start UW N,stop
+un,start,UW
+un,start UW,N
+un,start UW N,stop
 una,start,UW
 una,start UW,N
 una,start UW N,AE
@@ -128926,9 +128926,9 @@ v,start V UW,stop
 va,start,V
 va,start V,AE
 va,start V AE,stop
-va',start,V
-va',start V,AE
-va',start V AE,stop
+va,start,V
+va,start V,AE
+va,start V AE,stop
 vacabile,start,V
 vacabile,start V,AE
 vacabile,start V AE,K
