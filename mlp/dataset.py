@@ -16,7 +16,8 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 TOKENIZER_FILES = {
     'english': ["/token_encodings/word_tokenizer-eng.json", "/token_encodings/phoneme_tokenizer-eng.json"],
-    'spanish': ["/token_encodings/word_tokenizer-spanish.json", "/token_encodings/phoneme_tokenizer-spanish.json"]
+    'spanish': ["/token_encodings/word_tokenizer-spanish.json", "/token_encodings/phoneme_tokenizer-spanish.json"],
+    'universal': ["/token_encodings/word_tokenizer-universal.json", "/token_encodings/phoneme_tokenizer-universal.json"]
 }
 
 class DataModule(pl.LightningDataModule):
