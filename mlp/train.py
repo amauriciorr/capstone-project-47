@@ -21,7 +21,7 @@ def main(config):
         pytorch_lightning.callbacks.GPUStatsMonitor(),
         pytorch_lightning.callbacks.LearningRateMonitor(log_momentum=True),
         checkpoint_callback,
-        EarlyStopping(monitor="val/loss")
+        EarlyStopping(monitor="val/loss", patience=config.model.patience)
     ]
 
     trainer_kwargs = { **config.lightning }
