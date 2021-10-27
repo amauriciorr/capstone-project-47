@@ -115,17 +115,19 @@ class MLP(pl.LightningModule):
 
     def training_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
-        self.log('accuracy', accuracy, prog_bar=True)
-        self.logger.experiment.add_scalar("Loss/Train", loss, self.current_epoch)
-        self.logger.experiment.add_scalar("Accuracy/Train", accuracy, self.current_epoch)
-        epoch_dictionary = {'loss': loss}
-        return epoch_dictionary
+        self.log('train/accuracy', accuracy, prog_bar=True)
+        self.log('train/loss', loss)
+        self.logger.experiment.add_scalar("train/loss-epoch", loss, self.current_epoch)
+        self.logger.experiment.add_scalar("train/accuracy-epoch", accuracy, self.current_epoch)
+        return loss
 
 
     def validation_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)
         self.log('val/loss', loss)
         self.log('val/accuracy', accuracy)
+        self.logger.experiment.add_scalar("val/loss-epoch", loss, self.current_epoch)
+        self.logger.experiment.add_scalar("val/accuracy-epoch", accuracy, self.current_epoch)
 
     def test_step(self, batch, *_):
         loss, accuracy = self._compute_loss(batch)

@@ -1,14 +1,13 @@
 import hydra
 from hydra.core.config_store import ConfigStore
 import pytorch_lightning as pl
-import pytorch_lightning.callbacks
 from . import dataset, model
 from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 import torch
 
 @hydra.main(config_name='conf', config_path=None)
 def main(config):
-    checkpoint_callback = pytorch_lightning.callbacks.ModelCheckpoint(
+    checkpoint_callback = pl.callbacks.ModelCheckpoint(
                             monitor="val/loss",
                             filename="capstone-{epoch:02d}-{val/loss:.2f}",
                             save_top_k=1,
@@ -19,8 +18,8 @@ def main(config):
         checkpoint_callback.dirpath = config.dir.save_dir
 
     callbacks = [
-        pytorch_lightning.callbacks.GPUStatsMonitor(),
-        pytorch_lightning.callbacks.LearningRateMonitor(log_momentum=True),
+        pl.callbacks.GPUStatsMonitor(),
+        pl.callbacks.LearningRateMonitor(log_momentum=True),
         checkpoint_callback,
         EarlyStopping(monitor="val/loss", patience=config.model.patience)
     ]
@@ -33,7 +32,7 @@ def main(config):
     if config.gpus > 1:
         trainer_kwargs['accelerator'] = 'ddp'
 
-    trainer = pytorch_lightning.Trainer(**trainer_kwargs)
+    trainer = pl.Trainer(**trainer_kwargs)
     dm = dataset.DataModule(config.batch_size // config.gpus,
                             config.data.datafile,
                             tokenizer_lang=config.data.tokenizer_lang)
