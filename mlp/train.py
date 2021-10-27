@@ -4,6 +4,8 @@ import pytorch_lightning as pl
 import pytorch_lightning.callbacks
 from . import dataset, model
 from pytorch_lightning.callbacks.early_stopping import EarlyStopping
+import torch
+import torchvision
 
 @hydra.main(config_name='conf', config_path=None)
 def main(config):
@@ -21,7 +23,8 @@ def main(config):
         pytorch_lightning.callbacks.GPUStatsMonitor(),
         pytorch_lightning.callbacks.LearningRateMonitor(log_momentum=True),
         checkpoint_callback,
-        EarlyStopping(monitor="val/loss", patience=config.model.patience)
+        # EarlyStopping(monitor="val/loss", patience=config.model.patience)
+        EarlyStopping(monitor="val/loss", patience=10)
     ]
 
     trainer_kwargs = { **config.lightning }
@@ -45,6 +48,11 @@ def main(config):
 
 
     word_2_phone_model = model.MLP(config)
+
+    if config.dir.load_path:
+        checkpoint = torch.load(config.dir.load_path)
+        word_2_phone_model.load_state_dict(checkpoint['state_dict'])
+        
     trainer.fit(word_2_phone_model, datamodule=dm)
     print('Best checkpoint saved at: {}'.format(checkpoint_callback.best_model_path))
 
