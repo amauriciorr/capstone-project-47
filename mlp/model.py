@@ -15,7 +15,7 @@ class MLPModelConfig:
     character_padding_idx: Optional[int] = None
     phoneme_size: Optional[int] = None
     phoneme_padding_idx: Optional[int] = None
-    patience: int = 5
+    patience: int = 10
 
 @dataclasses.dataclass
 class MLPOptimConfig:
