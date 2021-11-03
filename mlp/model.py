@@ -71,6 +71,9 @@ class MLP(pl.LightningModule):
                                                 padding_idx=config.model.character_padding_idx)
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
                                               padding_idx=config.model.phoneme_padding_idx)
+        # class variables for saving test predictions vs labels for generating heatmaps later.
+        self.y_preds = []
+        self.y_labels = []
         """
         since both phoneme and word inputs are padded to length 45 we have a 45 x emb_dim output 
         from nn.Embedding for each, which we change into a concatenated 1-dim vector. multiply by 2 to account 
@@ -111,10 +114,10 @@ class MLP(pl.LightningModule):
         loss = self.criterion(logits, label.squeeze())
         predictions = torch.argmax(self.softmax(logits), dim=1)
         accuracy = self.accuracy_top1(predictions, label.squeeze())
-        return loss, accuracy
+        return loss, accuracy, predictions, label.squeeze()
 
     def training_step(self, batch, *_):
-        loss, accuracy = self._compute_loss(batch)
+        loss, accuracy, _, _ = self._compute_loss(batch)
         self.log('train/accuracy', accuracy, prog_bar=True)
         self.log('train/loss', loss)
         self.logger.experiment.add_scalar("train/loss-epoch", loss, self.current_epoch)
@@ -123,16 +126,18 @@ class MLP(pl.LightningModule):
 
 
     def validation_step(self, batch, *_):
-        loss, accuracy = self._compute_loss(batch)
+        loss, accuracy, _, _ = self._compute_loss(batch)
         self.log('val/loss', loss)
         self.log('val/accuracy', accuracy)
         self.logger.experiment.add_scalar("val/loss-epoch", loss, self.current_epoch)
         self.logger.experiment.add_scalar("val/accuracy-epoch", accuracy, self.current_epoch)
 
     def test_step(self, batch, *_):
-        loss, accuracy = self._compute_loss(batch)
+        loss, accuracy, predictions, labels = self._compute_loss(batch)
         self.log('test/loss', loss)
         self.log('test/accuracy', accuracy)
+        self.y_labels.extend(labels.cpu().numpy())
+        self.y_preds.extend(predictions.cpu().numpy())
 
     def configure_optimizers(self):
         base_lr = self.hparams.optim.learning_rate / 256 * self.hparams.batch_size

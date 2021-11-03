@@ -1,3 +1,4 @@
+import pickle as pkl
 import hydra
 from hydra.core.config_store import ConfigStore
 import pytorch_lightning as pl
@@ -39,8 +40,8 @@ def main(config):
 
     trainer = pl.Trainer(**trainer_kwargs)
     trainer.test(word_2_phone_model, datamodule=dm, verbose=True)
-
-
+    pkl.dump(word_2_phone_model.y_labels, open('labels.p', 'wb'))
+    pkl.dump(word_2_phone_model.y_preds, open('preds.p', 'wb'))
 
 if __name__ == '__main__':
     cs = ConfigStore()
