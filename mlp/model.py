@@ -29,9 +29,9 @@ class MLPDataConfig:
     # base case will always start with english 
     # then we will seek to either leverage transfer learning
     # with same task on another language or return to english.
-    datafile: str = 'processed_english.csv'
+    datafile: Optional[str] = None
     dataset_size: Optional[int] = None
-    tokenizer_lang: str = 'english'
+    tokenizer_lang: str = 'universal'
     num_workers: int = 4
 
 @dataclasses.dataclass

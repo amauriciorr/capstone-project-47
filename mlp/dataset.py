@@ -25,7 +25,7 @@ class DataModule(pl.LightningDataModule):
         super().__init__()
         self.seed = seed
         self.root = root
-        self.datafile = self.root + datafile
+        self.datafile = [file.strip() for file in datafile.split(',')]
         self.batch_size = batch_size
         self.train_dataset = None
         self.val_dataset = None
@@ -84,8 +84,11 @@ class DataModule(pl.LightningDataModule):
 
 
     def setup(self, stage: Optional[str]=None) -> None:
-
-        df = pd.read_csv(self.datafile)
+        if len(self.datafile) > 1:
+            df = [pd.read_csv(self.root + file) for file in self.datafile]
+            df = pd.concat(df)
+        else:
+            df = pd.read_csv(self.root + self.datafile[0])
         df.dropna(inplace=True)
         train, val, test = self.get_splits(df, seed=self.seed)
         self.train_dataset = self.tokenize_data(train)
