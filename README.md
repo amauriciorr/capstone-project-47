@@ -38,4 +38,8 @@ Other command-line flags worth noting:
 * `optim.weight_decay` -  by default is set to 1e-5
 
 ### Testing
-To test your model, you can run ```python mlp.test gpus=1 dir.load_path='path/to/your/model/ data.tokenizer_lang='universal' data.datafile='processed_english.csv``` for example. 
+To test your model, you can run 
+```
+python mlp.test gpus=1 dir.load_path='path/to/your/model/ data.tokenizer_lang='universal' data.datafile='processed_english.csv
+``` 
+for example. 
