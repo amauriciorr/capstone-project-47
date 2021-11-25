@@ -14,6 +14,9 @@ from tokenizers.normalizers import NFD, StripAccents
 # see https://github.com/huggingface/transformers/issues/5486 for context
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+# language-specific tokenizers, as well as a universal tokenizer that incorporates
+# characters and phonemes across all languages used in experiment 
+# (English, Spanish, Italian, Finnish, Dutch, Croatian)
 TOKENIZER_FILES = {
     'english': ["/token_encodings/word_tokenizer-eng.json", "/token_encodings/phoneme_tokenizer-eng.json"],
     'spanish': ["/token_encodings/word_tokenizer-spanish.json", "/token_encodings/phoneme_tokenizer-spanish.json"],
@@ -87,6 +90,12 @@ class DataModule(pl.LightningDataModule):
         if len(self.datafile) > 1:
             df = [pd.read_csv(self.root + file) for file in self.datafile]
             df = pd.concat(df)
+            vocab = df.word.unique()
+            # hard-coded min vocab size 14563 -- corresponds to Italian, which
+            # is smallest dataset
+            mask = np.random.choice(len(vocab), 14563, replace=False)
+            vocab = vocab[mask]
+            df = df[df.word.isin(vocab)]
         else:
             df = pd.read_csv(self.root + self.datafile[0])
         df.dropna(inplace=True)

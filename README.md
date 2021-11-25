@@ -15,3 +15,31 @@ Catastrophic forgetting in the context of language acquisition: It has been obse
 	* `model.py` - defines mlp model (forward-pass, training + validation steps, loss function, etc.) along with various config params
 	* `train.py` - for initializing mlp model and training.
 	* `test.py` - for testing already-trained mlp model.
+
+## How to run experiments
+### Training
+To start training model, you can run `python mlp.train gpus=1 data.datafile='processed_english.csv'` from the root directory. We provide data files for Spanish, Finnish, Italian, Dutch, and Croatian as well. By default, the model is set to train for at most 30 epochs, you can adjust this by adding the `max_epochs` command-line argument, e.g. `max_epochs=10`. Additionally, we have a default patience of 10, which monitors changes in validation loss; this can also be adjusted with the `model.patience` command-line argument.
+
+For tokenizers, we have three options:
+* English - `'english'`
+* Spanish - `'spanish'`
+* Universal - `'universal'`
+The first two are self-explanatory, namely they are tokenizers trained on the respective langauges. The "universal" tokenizer, in turn, is trained on all six languages used in our experiments, i.e. English, Spanish, Italian, Finnish, Dutch, Croatian. By default, the tokenizer is set to universal. This can be adjusted by the command-line argument `data.tokenizer_lang`, e.g. `data.tokenizer_lang='spanish'`.
+
+For transfer learning, you can use the `dir.load_path` argument, specifying a checkpoint from an earlier run. Alternatively, this can also be used to continue training from an already trained model.
+
+
+Lastly, we also provide the ability to do "bilingual learning". You can specify more than one datafile in the `data.datafile` argument, e.g. `data.datafile='processed_english.csv, processed_spanish.csv'`. Both files will be read, combined, shuffled, then broken into train-validation-test sets in a 80:10:10 ratio. It is important to note that for bilingual training we downsample the dataset to match the vocabulary size of our smallest dataset, which is Italian in this case. 
+
+Other command-line flags worth noting:
+* `batch_size` - by default is set to 256
+* `model.embedding_size` - by default is set to 256
+* `optim.learning_rate` - by default is set to 1e-3
+* `optim.weight_decay` -  by default is set to 1e-5
+
+### Testing
+To test your model, you can run 
+```
+python mlp.test gpus=1 dir.load_path='path/to/your/model/ data.tokenizer_lang='universal' data.datafile='processed_english.csv
+``` 
+for example. 
