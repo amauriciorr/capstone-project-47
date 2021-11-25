@@ -9,8 +9,6 @@ from . import dataset, model
 
 @hydra.main(config_name='conf', config_path=None)
 def main(config):
-
-
     dm = dataset.DataModule(config.batch_size // config.gpus,
                             config.data.datafile,
                             tokenizer_lang=config.data.tokenizer_lang)
