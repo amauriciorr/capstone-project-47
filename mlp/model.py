@@ -26,9 +26,8 @@ class MLPOptimConfig:
 
 @dataclasses.dataclass
 class MLPDataConfig:
-    # base case will always start with english 
-    # then we will seek to either leverage transfer learning
-    # with same task on another language or return to english.
+    # by default, we use universal tokenizer
+    # as this allows for the most flexibility in terms of language choice.
     datafile: Optional[str] = None
     dataset_size: Optional[int] = None
     tokenizer_lang: str = 'universal'
@@ -66,7 +65,7 @@ class MLP(pl.LightningModule):
         self.criterion = nn.CrossEntropyLoss()
         self.softmax = nn.Softmax(dim=1)
         self.accuracy_top1 = torchmetrics.Accuracy(num_classes=config.model.phoneme_size)
-        # same size embedding dim is arbitrary, though is also a choice based off convenience.
+        # shared size embedding dim is arbitrary, though is also a choice based off convenience.
         self.character_embedding = nn.Embedding(config.model.character_size, config.model.embedding_size,
                                                 padding_idx=config.model.character_padding_idx)
         self.phoneme_embedding = nn.Embedding(config.model.phoneme_size, config.model.embedding_size,
@@ -120,6 +119,7 @@ class MLP(pl.LightningModule):
         loss, accuracy, _, _ = self._compute_loss(batch)
         self.log('train/accuracy', accuracy, prog_bar=True)
         self.log('train/loss', loss)
+        # log both step- and epoch-level performance.
         self.logger.experiment.add_scalar("train/loss-epoch", loss, self.current_epoch)
         self.logger.experiment.add_scalar("train/accuracy-epoch", accuracy, self.current_epoch)
         return loss
@@ -129,6 +129,7 @@ class MLP(pl.LightningModule):
         loss, accuracy, _, _ = self._compute_loss(batch)
         self.log('val/loss', loss)
         self.log('val/accuracy', accuracy)
+        # log both step- and epoch-level performance.
         self.logger.experiment.add_scalar("val/loss-epoch", loss, self.current_epoch)
         self.logger.experiment.add_scalar("val/accuracy-epoch", accuracy, self.current_epoch)
 
