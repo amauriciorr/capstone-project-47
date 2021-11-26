@@ -87,6 +87,8 @@ class DataModule(pl.LightningDataModule):
 
 
     def setup(self, stage: Optional[str]=None) -> None:
+        # specifying more than a single dataset defaults to bilingual training
+        # both datasets are mixed before downsampling the randomized mixture
         if len(self.datafile) > 1:
             df = [pd.read_csv(self.root + file) for file in self.datafile]
             df = pd.concat(df)
