@@ -90,8 +90,9 @@ class MLP(pl.LightningModule):
     def forward(self, word, phoneme):
         """
         idea is to concatenate the embedding representations for each character in a sequence 
-        of characters end-to-end, do the same for the sequence of phonemes. once this is 
-        accomplished for both, then concatenate both these long embedding sequences together
+        of characters end-to-end so as to preserve character order in spelling; do the same for the sequence 
+        of phonemes. once this is accomplished for both, then concatenate both these long embedding 
+        sequences together
         NOTE: each input is batch_size x sequence_length, after applying embedding function we have
         batch_size x sequence_length x embedding_dim
         """
