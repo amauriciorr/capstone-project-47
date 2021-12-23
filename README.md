@@ -18,7 +18,7 @@ Catastrophic forgetting in the context of language acquisition: It has been obse
 
 ## How to run experiments
 ### Training
-To start training model, you can run `python mlp.train gpus=1 data.datafile='processed_english.csv'` from the root directory. We provide data files for Spanish, Finnish, Italian, Dutch, and Croatian as well. By default, the model is set to train for at most 30 epochs, you can adjust this by adding the `max_epochs` command-line argument, e.g. `max_epochs=10`. Additionally, we have a default patience of 10, which monitors changes in validation loss; this can also be adjusted with the `model.patience` command-line argument.
+To start training model, you can run `python -m mlp.train gpus=1 data.datafile='processed_english.csv'` from the root directory. We provide data files for Spanish, Finnish, Italian, Dutch, and Croatian as well. By default, the model is set to train for at most 30 epochs, you can adjust this by adding the `max_epochs` command-line argument, e.g. `max_epochs=10`. Additionally, we have a default patience of 10, which monitors changes in validation loss; this can also be adjusted with the `model.patience` command-line argument.
 
 For tokenizers, we have three options:
 * English - `'english'`
@@ -40,6 +40,6 @@ Other command-line flags worth noting:
 ### Testing
 To test your model, you can run 
 ```
-python mlp.test gpus=1 dir.load_path='path/to/your/model/ data.tokenizer_lang='universal' data.datafile='processed_english.csv
+python -m mlp.test gpus=1 dir.load_path='path/to/your/model/ data.tokenizer_lang='universal' data.datafile='processed_english.csv
 ``` 
 for example. 
